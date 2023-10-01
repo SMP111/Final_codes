@@ -1,0 +1,188 @@
+Paths Workspace: Create AI-Powered Conversations | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Creator Studio
+Paths Workspace
+Use generative AI to instantly build fluid yet controlled conversations in any enterprise system.
+Learn more
+Previous
+Next
+Pause
+Play
+Cost Reduction
+Trusted by CIOs and employee experience leaders everywhere 
+Work smarter with next-gen automation
+Create intelligent, automated conversations that trigger actions in external business systems. Your employees won’t need to perform the same repetitive, manual tasks every day or spend time searching for the right knowledge article.
+Send an expert, every time
+Your best employees learn how to do their job from observing their peers. Train your Moveworks bot the same way — just provide it with sample conversations. Using expert emulation, it will automatically learn how to handle hundreds of issues.
+Understand exactly what users need
+Traditional bot toolkits struggle to figure out exactly what your user mean while you tune hyper-parameters and change NLU settings. Instead, Moveworks chains together multiple LLMs to understand intent — no manual tweaking necessary.
+Generate workflows with ease
+Powered by multiple language models, like GPT-3.5, our platform automatically generates new conversation flows based on no more than a few examples. Now, you can create new workflows as quickly as you can think of them.
+The possibilities are endless
+Streamline onboarding
+Troubleshoot network issues
+Set an OOO message
+New hires will never miss a step in the onboarding process.
+Make sure you new hires don’t have to search around for required tax forms and important policies.
+Let your users self-service network issues.
+Guide employees through a series of questions and tests to diagnose and resolve common network connection issues without involving the helpdesk.
+Going out of office shouldn’t be stressful. 
+Whether you’re leaving for vacation or taking a sick day, Paths lets you set your OOO message directly from chat.
+“Creator Studio directly integrates with data sources like Snowflake, demonstrating a new way of approaching conversational AI development that is more accurate, has fewer points of failure, and lower latency.”
+Rory Regan
+Director of Infrastructure, Coca-Cola Consolidated
+Connect Moveworks to any enterprise system
+Download the full guide
+ Connect Moveworks to any enterprise system
+Blog
+Learn how to generate any use case in seconds with Creator Studio.
+Read the blog
+Datasheet
+Creator Studio connects people to enterprise systems through natural language.
+Download the datasheet
+Guide
+Build unlimited use cases by connecting Moveworks to your enterprise systems.
+Download the guide
+Ready to automate your workflows?
+Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

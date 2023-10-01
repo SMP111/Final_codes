@@ -1,0 +1,186 @@
+CommScope Delivers Speedy HR Help With A Chatbot | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          CommScope
+    How CommScope delivers HR help at machine speed
+    CommScope employees have one place to get instant support no matter where they work with an IT and HR chatbot.
+CommScope shapes the always-on networks of tomorrow by helping to design, build, and manage wired and wireless networks around the world.
+Watch the video
+            10seconds
+HR and IT answers are provided in 10 seconds by Moveworks.
+Challenge
+ Engaging hybrid employees in a rapidly changing work environment
+Result
+Deployed an AI platform to provide HR support at scale
+The Problem
+    Connecting and engaging with remote employees
+CommScope is focused on connecting people. That’s why Beth Scholtes, Vice President of HR Tech and Operations, placed particular emphasis on keeping the company’s employees safe, healthy, and engaged, no matter where they work. 
+With the sudden transition to remote work in 2020, Scholtes’ number one goal was to help her people find HR information quickly. The challenge was that even with increased investments in portals, knowledge bases, and other tools of the trade, CommScope’s more than 28,000 employees still weren’t able to easily find information. To bring together all these different systems, Scholtes looked to AI and automation.
+The Solution
+    Introducing Atlas, CommScope’s HR chatbot
+In November 2020, CommScope launched Moveworks — better known to the company’s employees as Atlas. Moveworks is an AI solution that instantly resolves both HR and IT questions: Employees simply tell Atlas what they need using conversational language, and the bot handles the rest. Now, employees can access HR policies or reset their passwords, directly on Microsoft Teams.
+For Sholtes, one of the primary advantages of Moveworks was its ability to deliver end-to-end resolution, thanks to deep integrations with other systems at CommScope. By pulling information from various backend systems, Atlas can surface personalized HR support without any button-clicking from the service desk — and without any delay for the employee who requested the information.  
+Especially in a hybrid world, keeping track of where employees work can be a massive undertaking. With a deeply integrated conversational AI strategy, Atlas can offer up personalized solutions based on where employees are located. This HR chatbot has been able to improve the scope and scale of the company’s HR operations by providing instant help to employees in over 53 countries.
+HR policies can really vary by location. Helping employees find the right information quickly is a great win for us. With Moveworks, we have one place to go for help, and that creates a positive user experience.
+Beth Scholtes
+VP of HR Technology and Operations
+The Result
+    CommScope brings IT and HR under one roof
+AI has reshaped every facet of the HR support process at CommScope. For employees, satisfaction with the HR team has skyrocketed, because no one has to wait for help now. But more importantly on the operations side, Scholtes has found that the bot empowers her team to focus on more impactful work — such as finding new ways to engage and support remote employees and improving every step of the employee lifecycle, such as onboarding and recruiting.
+At CommScope, AI has been instrumental in creating a positive work environment. Now that people can resolve their HR issues without waiting for help, they’re able to focus on the task at hand without distractions.
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Introducing Moveworks for HR
+Moveworks offers the first conversational AI solution that personalizes HR support.
+Read the blog
+Deliver HR help. Automatically.
+Moveworks for HR handles the busy work so you can focus on what matters: your people.
+Learn more
+CommScope speeds up support with AI
+Moveworks makes getting help at work a fast and seamless experience at CommScope.
+Watch the video
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

@@ -1,0 +1,189 @@
+Albemarle 2x Productivity With Moveworks’ Employee Experience Insights | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Albemarle
+    Albemarle doubles productivity with Employee Experience Insights
+    Albemarle uses Moveworks’ Employee Experience Insights to seamlessly support its global operations — without adding headcount.
+Albemarle is a global chemical company with 6,000 employees around the world. It’s the largest manufacturer of lithium for electric vehicle batteries.
+Download the PDF
+            2x
+Faster resolution of the average support issue
+Challenge
+Lacked real-time data on which support issues were slowing employees down the most
+Result
+Gained the ability to identify and prevent critical disruptions across the digital workplace
+The Problem
+    Albemarle seeks to unlock employee potential with AI
+Albemarle is a global chemical company headquartered in Charlotte, North Carolina, with 6,000 employees worldwide. As the world’s largest lithium manufacturer, Albemarle is essential to the production of everything from rechargeable batteries for electric vehicles to grid-scale energy storage. 
+Patrick Thompson, Chief Information & Digital Transformation Officer at Albemarle, understands more than most that the CIO plays an integral role in shaping the future of work. 
+“I have to think beyond business-as-usual,” said Thompson. “Putting efficiency first, aligning closely with other support-focused teams, and establishing a data-driven strategy — that’s what matters to me right now.”
+Thompson and Alok Singh, Director of IT Automation and Collaboration at Albemarle were constantly working to create a more efficient, more productive workplace, but they had no real way of knowing what was slowing their employees down.
+The Solution
+    Albemarle goes all in on ALbot
+In April 2021, Albemarle launched ALbot, a Moveworks chatbot that lives on Microsoft Teams. Now when employees need help, all they have to do is ask. Powered by the Moveworks Intelligence Engine™, ALbot understands requests, determines the right response, and takes action across Albemarle’s digital infrastructure — anytime, anywhere.
+Today, ALbot engages conversationally in over one hundred languages, automatically resolves thousands of employees’ requests, provisions software, fills out forms, unlocks accounts, and most importantly, shows the Albemarle team which levers to pull to improve the employee experience.
+Most importantly, Moveworks offers Employee Experience Insights (EXI) — an analytics solution that uses breakthrough techniques in natural language understanding (NLU) and machine learning to uncover the issues slowing employees down the most. 
+Moveworks’ natural language understanding provides profound insight into what’s holding our people back. When we know exactly which teams and regions are feeling the most pain, we can focus our efforts and get those employees back on their feet.
+Alok Singh
+Director of IT Automation and Collaboration
+The Result
+    Albemarle sees impact with Employee Experience Insights
+With Employee Experience Insights, Albemarle can now turn thousands of requests into a simple, actionable to-do list. While current ITSM insights tools focus primarily on tickets and SLAs, EXI focuses on employees’ everyday experiences. It offers Albemarle’s support leaders granular insights about each employee persona — allowing them to see and address inefficiencies across the company immediately.
+In Singh’s words: “Moveworks has opened brand new territory for us. ALbot’s natural language understanding has revealed a vision for how we can transform Albemarle’s employee experience. 
+At first, we thought that no one solution could be the answer, but Moveworks can really do it all."
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Employee Experience Insights: What you need to know
+Moveworks' Employee Experience Insights taps into information hidden in support tickets, revealing your team’s everyday experience.
+Read the blog
+The 7 metrics to measure the success of your virtual agent
+To help you evaluate which service desk virtual agent is right for your team, we created this guide that outlines the top 7 criteria to consider.
+Read the blog
+Know your top issues with Employee Experience Insights
+Reduce costs and improve employee experience with the first platform that uses AI to solve issues and prevent problems at work.
+Learn about the product
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

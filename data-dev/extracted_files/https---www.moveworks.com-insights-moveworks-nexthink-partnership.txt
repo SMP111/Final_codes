@@ -1,0 +1,126 @@
+New Moveworks-Nexthink partnership enables proactive IT support
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+New Moveworks-Nexthink partnership enables proactive IT support
+Manoj Gupta, VP of Partnerships
+ July 21, 2022
+linkedin
+facebook
+twitter
+email
+The digital workplace has brought increased complexity to the employee experience. A technical glitch — no matter how minor — can cause significant disruption. Still, many employees would rather suffer in silence than file a ticket and deal with long wait times. But when issues go unreported or are hidden from IT teams, problems quickly become more serious and more frustrating.
+That’s why I’m excited to announce Moveworks’ new strategic partnership with Nexthink. It enables customers to create a digital workplace where IT can take action based on a comprehensive view of employees’ day-to-day experiences. In just one example, Broadcom was able to resolve 57% of IT issues autonomously with Moveworks, while also seeing a 20% to 40% reduction in IT incidents using Nexthink’s real-time insight into its IT ecosystem.
+Moveworks’ conversational AI and Nexthink’s automation and insights are a powerful combination. I’ll set out two key areas where this partnership can make an immediate impact for both IT teams and employees:
+Real-time end-to-end automation
+Proactive issue prevention
+See all of Moveworks' partners and integrations →
+Surface the right solutions in seconds
+When an employee has a tech problem, they feel symptoms: an email not sending or a computer that’s slow to start up. But they don’t always know how, or even if, they can resolve the issue on their own. Working through this low-grade pain every day isn’t easy, and as a result, performance and productivity suffer.
+Now with the Moveworks-Nexthink partnership, when employees inevitably run into a support issue, they can just ask their bot. Moveworks’ conversational AI can interpret the issue, no matter how many words or what kind of jargon an employee uses. Then, the bot can recommend a specific remote action from Nexthink, resolving the issue in seconds.
+Figure 1: When an employee experiences a technical issue, Moveworks can trigger an action via Nexthink to solve the problem instantly.
+For example, an employee messages Moveworks saying she can’t send emails. Moveworks’ natural language understanding (NLU) interprets her message, and then leverages Nexthink to address Outlook Online connectivity issues. If the employee’s Excel keeps crashing, their device has low disk space, or their laptop is slow to start up, the same applies.
+The Moveworks-Nexthink partnership gives employees the ability to help themselves, reducing stress on overburdened IT teams and allowing everyone to focus on strategic projects without interruption.
+Resolve issues proactively
+Moveworks and Nexthink can prompt bigger improvements than just dealing with issues in real time. Together, we can prevent problems from happening in the first place.
+As soon as Nexthink detects an issue, employees are automatically prompted to take action directly through their Moveworks bot. Since these notifications target the individual experiencing a specific issue, messages receive high engagement and ultimately prevent an issue from ever getting routed to the service desk.
+Figure 2: Nexthink notifies Moveworks when a disruptive issue occurs, so our bot can reach out to the individual affected and deliver a solution.
+For example, Nexthink can identify when an employee has recently experienced a system crash and recommend a solution in seconds. Then, Moveworks’ conversational AI takes over, prompting the user to take action — in this case, to download a new browser — to resolve the issue. 
+Addressing low disk space or dealing with other periodic device maintenance now happens immediately, without any involvement from IT. By preventing issues from arriving at your service desk, your team can focus on projects that matter, not busy work.
+Put your people first with Moveworks and Nexthink
+The combined power of Moveworks and Nexthink allows joint customers to make getting help at work effortless. Ours is the sort of partnership that’s bringing advanced and much-needed AI solutions to IT teams looking to level up their employee experience.
+By fixing problems before they get out of hand and quickly resolving any issues that do arise, we empower businesses to exceed their employees' expectations. Together we can help IT teams continuously improve their day-to-day digital workplace experience.
+Manoj Gupta is the VP of Partnerships at Moveworks. If you’re interested in learning more about our partnership with Nexthink, email mgupta@moveworks.ai.
+See what the Moveworks-Nexthink partnership can do for you. Request a demo.
+product features
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

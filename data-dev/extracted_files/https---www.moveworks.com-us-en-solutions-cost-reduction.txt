@@ -1,0 +1,186 @@
+Cut your help desk support costs in half with AI | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Solutions
+          Cost Reduction
+Cut your help desk support costs in half
+Moveworks solves thousands of support issues with AI, from provisioning PowerPoint to troubleshooting Zoom.
+Moveworks powers the best places to work
+Your budget is begging for AI
+Make L1 support issues disappear.
+Moveworks automates away the most common support issues, including resetting passwords, unlocking accounts, editing email groups, filing forms, troubleshooting devices, and much, much more. It’s the only way to eliminate the cost of these L1 issues, once and for all.
+Maintain the highest standard for quality.
+Reducing your help desk support costs often creates a frustrating employee experience, whether you implement an automated phone system or outsource to an MSP. But Moveworks delivers white-glove support, since employees describe issues to our conversational AI bot just as they would to an agent.
+Boost the ROI of your current investments.
+Help desks often invest in self-service resources, such as troubleshooting guides and hardware request forms, only to watch employees submit the same volume of tickets as before. Moveworks digs through every single resource at your company to find the best solution to each issue — so you can finally see some ROI.
+1M
+Reduction in annual IT spend thanks to Moveworks at Seagen
+55
+Of support issues resolved end-to-end by Moveworks at Broadcom
+12
+Help desk agents’ work handled by Moveworks at Luminis Health
+Resolve the most common requests
+In theory, employees could solve a huge percentage of their support issues without involving the help desk — if only they knew where to look. Moveworks makes that theory a reality. Our platform serves up the most helpful solution to common requests from across your ITSM, IAM system, knowledge bases, and other tools.
+Automatically make changes in your existing systems of recordFind the right answer to questions from across all knowledge basesProactively reach out to employees when they’re locked out
+Eliminate tasks from the ticket lifecycle
+When employees submit complex issues that require an expert to fix, Moveworks still speeds up the entire ticket lifecycle. Our AI chatbot handles the back-and-forth communication with employees to add comments, nudge agents, and check status, so your help desk doesn’t have to.
+Route complex issues to the correct assignment groupEnable employees to add comments and check the status of ticketsFollow up with employees and agents to close out tickets faster
+Take control of your software spend
+Large companies waste millions of dollars per year on unused software licenses — while employees who really do need a software license often wait days to get access. Moveworks lets you take back control. Our platform provisions software in seconds, obtains approval when necessary, and reclaims licenses that employees don’t need.
+Provision pre-approved software licenses instantlyAutomatically reach out to get manager approval, when requiredReclaim licenses that go unused for a specified time period
+"We’ve had our eye on AI and ML for some time, and Moveworks is the first service that actually improves IT service delivery— delivers the right resolution faster— while reducing costs."
+Milind Wagle
+CIO, Equinix
+Latest from Moveworks
+Blog
+Our AI-powered Concierge speeds up issue resolution by 57%. 
+Read the blog
+Case Study
+Seagen reduced costs by more than $1 million per year with Moveworks.
+Find out how
+Datasheet
+Find out 8 game-changing things that only Moveworks can do.
+Download the datasheet
+See Moveworks in action
+Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

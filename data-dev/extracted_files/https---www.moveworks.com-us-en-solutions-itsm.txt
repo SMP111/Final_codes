@@ -1,0 +1,200 @@
+Automate your ITSM for faster support | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Solutions
+          ITSM
+Get the most out of your ITSM
+Bring the power of AI to your service management platform, helping you support your employees instantly.
+Previous
+Next
+Pause
+Play
+Text 1
+Moveworks powers the best places to work
+Unlock the full potential of your ITSM to speed up innovation and get maximum ROI.
+Create smarter enterprise portals
+Intercept, categorize, and triage support requests, without involving the IT team. Bring all the benefits of Moveworks’ AI directly to ServiceNow or other ITSMs.
+Automatically support your employees
+Automate ticket resolution end-to-end with seamless ITSM integration. That means your agents can work out of your ITSM — employees’ issues come right to them.
+Transform your ITSM with AI
+Minimize ITSM cleanup and maintenance. Our AI lets ITSM architects and developers build new workflows, without needing a team of machine learning experts.
+95
+Of password resets are completely automated at Freedom Financial
+96
+Accuracy in routing IT issues to the right experts at Equinix
+7sec
+Average time for Moveworks to fully resolve a support issue at Nutanix
+Fix your workflows
+Never troubleshoot a broken workflow again. Moveworks’ AI platform resolves tickets or routes them to exactly the right person on your service desk, intelligently and automatically. 
+Resolve tickets instantly or facilitate hand off of complex issuesSpeed up requests and approvals with automation
+Enhance your knowledge base
+  You need to understand where your knowledge gaps are in order to prioritize what articles to write next. Once a new article has been written, Moveworks automatically ingests it — making sure your employees only see up-to-date information. When your employee has a question, our AI-powered chatbot surfaces the most relevant answer, right in your enterprise chat or web portal.
+ Find gaps in your knowledge baseIdentify the most impactful knowledge articles to createGet personalized answers from relevant knowledge articles
+Perfect data management
+Your help desk is already overrun with requests, filing tickets shouldn’t slow them down. Our AI platform ensures tickets are properly categorized and work notes are automatically added. That means, your data stays clean and your agents stay focused on solving issues.
+Help agents prioritize their ticket queues automaticallyCategorize tickets using advanced NLUEasily add work notes to tickets
+Equinix accurately routes 96% of IT tickets to the right experts with Moveworks 
+Equinix tackles employee IT support issues directly in Microsoft Teams, and Moveworks natural language understanding helps resolve the issue no matter how they ask. E-Bot transforms tedious tasks into painless conversations that last only a few seconds.
+Learn from the best
+Challenge
+Keeping IT headcount flat while scaling the company and driving adoption of Microsoft teams as the new collaboration hub
+Result
+Automated several agents’ worth of work while accelerating resolution time and raising eNPS (Employee Net Promoter Score) to 96%
+“We implemented our new ITSM platform to help us simplify service management. This gave us a place to queue tickets, but it didn’t help us actually resolve issues, so we started to look at AI and machine learning to help us reduce the workload on the service desk. With Moveworks, our employees get automatic support on time and at all hours.”
+Wendy M. Pfeiffer
+CIO, Nutanix
+Latest from Moveworks
+Guide
+We figured out the one thing you need to up-level your help desk, now we're telling you.
+Find out more
+Guide
+Find out why so many companies are automating their service desks.
+Read the guide
+Video
+Broadcom explains how Moveworks transformed its knowledge base.
+Watch the video
+See Moveworks in action
+Request a demo
+Support every team with conversational AI
+Explore our product
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

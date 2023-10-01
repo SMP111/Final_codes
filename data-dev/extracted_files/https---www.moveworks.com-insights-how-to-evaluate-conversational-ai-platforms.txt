@@ -1,0 +1,148 @@
+How to Evaluate Conversational AI Platforms | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Conversational AI platforms: 5 questions to ask during your next demo
+Jake Speyer, Director, Solutions Architecture
+ March 15, 2023
+linkedin
+facebook
+twitter
+email
+Since ChatGPT’s launch, my inbox has been loaded with pitches from startups claiming to be the next big conversational AI platform. 
+I have a constant stream of promises to triple my team’s revenue, earn myself a promotion, or write my emails. And I suspect that decision-makers across industries and geographies have all felt similarly pressured to take advantage of this new tech ASAP. 
+Of course, a few of these products are genuinely impressive. Others are essentially layering on top of the models built by OpenAI which underpin ChatGPT, and most are somewhere in between. But all of them, unfortunately, are designed to amaze non-experts during a demo.
+That said — given the costs and risks associated with deploying any new tech, let alone something as complex as AI — it’s crucial to make sure that your investment is sound in order to maximize ROI and minimize risk. 
+So here’s the question: At a time when every product is “the ChatGPT of _______,” how can you decide which ones to trust? 
+My aim is to provide you with:
+An understanding of why conversational AI is difficult to assess. 
+Five questions that can help you cut through the noise and make more informed purchasing decisions.
+The red flags you should watch out for in AI demos.
+Why it’s hard to evaluate conversational AI platforms without a demo
+As consumers, we're accustomed to evaluating products based on their features. This is a perfectly reasonable approach for familiar products like cars, where questions like “does it have heated seats” and “can the trunk fit a large bike” can help us make an informed purchase decision.
+However, when it comes to AI products, the feature-based approach falls short. Take self-driving cars, for example. It's easy to get caught up in the car's impressive capabilities, such as its ability to change lanes with ease or stop on a dime. But simply having these features doesn't necessarily mean the car will keep you safe in the real world or perform well in a live environment.
+Instead, when evaluating AI products, it's crucial to take a more holistic approach. This means looking beyond the features to assess the product's overall effectiveness and reliability in real-world scenarios. It also means asking questions about the underlying technology and algorithms, the data sets used to train the AI, and the product's track record in scaling actual deployments.
+By taking this approach, we can all avoid getting swept up in the hype around AI products and make more informed decisions that are grounded in reality. Ultimately, this will help ensure that we're getting the most value out of AI technology while also minimizing risk.
+The 5 questions to ask in your next conversational AI platform demo
+With so many conversational AI startups vying for your attention, asking the right questions can distinguish genuine conversational AI from mere imitations. Relying solely on lists of features can be misleading as they may not accurately reflect the product's real-world performance in your environment. It's important to look beyond the surface level and ask relevant questions that can reveal potential issues and ensure informed decision-making.
+To make the most of your conversational AI demo, consider asking these five critical questions that can help you gain a deeper understanding of the product's capabilities and potential limitations:
+1. Can I get an interactive demo using my own data?
+When vendors provide demos, they often use their own data to showcase their system's capabilities, which may not accurately reflect how the platform will perform with your unique data. 
+While the vendor's demo may appear impressive, it's essential to test the system with your data to determine if it's the right fit for your needs. And by using your own data, you can make sure that any analysis they provide uses their production models and processes, rather than any behind-the-scenes wizardry.
+By testing the system with your data, you'll have a better understanding of its performance and how it can handle your specific use cases. This approach allows you to identify any potential issues or limitations before making a purchase, saving you time and money in the long run.
+2. How are you using large language models?
+Many conversational AI vendors will say, “We use GPT-3!” without being able to dive deeper into why large language models (LLMs) are a critical part of any conversational AI product. 
+Enterprise conversational AI requires the ability to understand the specific language used in that workplace. It may be challenging for vendors to develop on their own due to a lack of sufficient data. And it may be equally challenging for vendors who are just an interface on top of an LLM to answer business-related queries. A demo would reveal the limits of that understanding immediately.
+This question can also reveal how well-integrated and up-to-date the vendor’s technology is. Given how fast this space is moving, it's important to know how many LLMs have been retired and how often new ones are added to their stack. A vendor simply saying they use LLMs is not enough, as the best and most efficient models are constantly evolving. 
+3. What tangible value are you bringing to customers?
+It's important to understand the tangible value a vendor is bringing to customers before investing in a product. Don't just take their word for it — ask for reference calls with current customers to get a better understanding of their experience with the product, how it’s performing, and how long it took to get them to that point. Or even better, ask them for a brief demo. This can give you a glimpse into how the product has impacted their business, what benefits they have seen, and any areas of improvement.
+4. What’s your team's expertise with conversational AI?
+Deploying large language models (LLMs) in production is a complex process that requires an advanced Machine Learning Ops platform, a team of human annotators to generate training data, and skilled engineers to optimize performance. It’s not something that’s going to happen overnight. 
+If a company has no prior experience using LLMs, it may take years to build the necessary infrastructure. However, companies with a history of using LLMs are in a better position to quickly adopt the capabilities of this technology in their products. This is to say that it’s important to inquire about a vendor's experience with LLMs and their ability to deploy them in production as it can provide insight into the vendor’s expertise and whether they are equipped to handle the complexities of LLM deployment.
+5. What security measures are in place to protect our data?
+With the rise of data breaches and cyber attacks, it's essential to know that your data is secure. Ensure that the vendor has a clear and comprehensive security plan in place, including measures such as data encryption, access control, and regular security audits. 
+Additionally, ask about any compliance certifications or regulations that the vendor adheres to, such as HIPAA or FedRAMP, to ensure that they are meeting industry standards for data protection. By asking these questions, you can gain a better understanding of the security measures in place and make an informed decision about the safety of your data.
+3 conversational AI demo red flags
+In addition to asking the five questions above, look out for the following AI demo red flags:
+Overconfidence: Products that appear overly confident in their performance during a demo are likely to be hard-coded.
+Undermanagement: On the other end of the spectrum, AI products do require some fixed controls and regulations when the stakes are high. For example, enterprise-grade conversational AI should take into consideration all existing access control lists, permissions, and processes to ensure sensitive information is never shared with unauthorized users. Don’t trust products that delegate such decisions to probabilistic models, no matter how smart they claim to be.
+Inflexibility: A great feature is useless if it struggles with normal variance. Test edge cases to ensure that the AI product can handle them.
+TL;DR: Get your smartest people in the room and suggest going off-script during the demo. Then, once you have a clear understanding of your own requirements and specific needs, push for reference calls and case studies to see how other organizations have achieved similar goals.
+For a conversational AI platform, a demo is worth a thousand decks
+To avoid making costly mistakes and ensure that you’re investing in AI solutions that are truly cutting-edge, you need to double down on due diligence. 
+A well-executed demo can provide valuable insights into the product's capabilities and limitations, as well as help you identify potential red flags. By asking the right questions and involving your team in the evaluation process, you can make more informed decisions and choose the right conversational AI product for your organization.
+Schedule a demo with Moveworks to see how it’s done.
+conversational
+best practices
+technology
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

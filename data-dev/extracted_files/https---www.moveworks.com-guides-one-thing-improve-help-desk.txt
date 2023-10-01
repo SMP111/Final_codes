@@ -1,0 +1,174 @@
+The one thing you need to improve your help desk | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+    The one thing you need to speed up your help desk
+    Which actions have the biggest impact?    
+The goal of a successful help desk is to solve employee issues as fast as possible. There are many levers a CIO can pull to make that happen — integrations with various tech stacks, increasing the size of your team, or exploring alternative technologies.
+To find the right lever, we analyzed 16 million support issues from customers BEFORE they implemented a Moveworks bot to determine what actions make the most impact across the board.
+We set out to answer 3 specific questions:
+What support channels are employees using today?
+Which kinds of issues are submitted through the various channels?Is there a better way to improve time-to-resolution?
+    What support channels are employees using today?
+Most IT desks don’t have overarching visibility into ticket categories. But this information is crucial if you truly want to optimize your support environment.
+With this lack of insight in mind, we categorized millions of issues from nearly 50 enterprise companies. Then, we sorted them into the 5 channels: phone, portal, email, chat, and walk-up.
+Based on our data, employees preferred to contact IT over the phone 44.2% of the time. We wanted to dig deeper into this — why did employees turn to the phone? Was it the most efficient channel? 
+Next, we looked to see if there was a relationship between the type of issue and the support channel.
+Let's look first at what we consider an urgent issue: password resets. We found that employees are most likely to call a help desk agent when locked out of an account — choosing the phone six times more often than other channels.
+Clearly, employees believe they need to get on the phone with a help desk agent to get help quickly. 
+    What channel do employees turn to when they want to reset their password?
+To represent non-urgent issues, we dug into issues related to email distribution lists — a less time-sensitive problem. In this case, employees are twice as likely to turn to the portal channel.
+    What channel do employees turn to when they want to be added to an email distribution list?
+Employees change their behavior based on the urgency of their issue — but is help actually faster from channel to channel?
+Even though many believe talking to an agent on the phone is faster, we found that it takes agents almost the same amount of time to solve urgent issues over the phone as other channels.
+On top of that, our data also shows that even when employees use what they perceive to be the fastest support channel, they still end up waiting multiple days for a solution.
+    How long are employees waiting for a resolution?
+As it turns out, the difference between channel speeds is marginal at best. Our data suggests that the quality of support from a particular channel has more to do with the type of issue submitted, than the efficiency of the channel itself.
+This is because all channels tap into the same backend systems. Either an agent has to solve the problem manually or triages the ticket to someone else who can.
+So, what's the one thing you can do to speed up your help desk?
+Short answer: automation.
+Long answer: The most impactful thing that IT support teams can do is shift their focus from improving individual channels to updating backend support systems. What teams should address is the process of solving issues behind the scenes — with automation.
+By automating the backend support systems, you can build a strong foundation for improving specific channels or adding new ones.
+With automation you can:
+Free up your agents for higher priority workDrastically decrease time-to-resolutionAutomatically triage tickets to the right experts
+As you incorporate more automation, from troubleshooting to approvals, your time-to-resolution will continue to reduce. Let’s return to the password reset example. Automating account unlocks end-to-end ensures fast support while giving help desk agents more time to focus on higher priority projects, not routine issues.
+When implemented, automation can help bring your help desk into a new era of support
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

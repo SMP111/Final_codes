@@ -1,0 +1,172 @@
+The Enterprise Copilot For Every Employee | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+AI Copilot
+Deploy an enterprise copilot to every employee
+Allow employees to automate tasks or search for information across every enterprise application through a single, natural language interface.
+Trusted by the best: over 100 Fortune 500 companies choose Moveworks
+    Unify every enterprise system
+An enterprise copilot connects your employees to every business system at the speed of language. It’s built on hundreds of machine learning models, fine-tuned to your enterprise data. Available across every channel and fluent in 100+ languages, your enterprise copilot makes it easier than ever for your employees to get things done.
+Omnichannel support
+Available wherever your employees work
+Your enterprise copilot meets your employees where they are, no matter where they choose to work. Whether they prefer Slack, Teams, email, or a web portal, they’ll be met with the same, fluid conversational interface.
+Multilingual Support
+Speak the language of work
+Powered by Moveworks’ enterprise copilot platform, your copilot is fluent in over 100 languages on day one. Your copilot can switch between languages and determine the ideal response on the fly. That way, you can ensure every employee gets the same level of support, no matter what language they speak.
+AI copilot for enterprise solutions
+    Support any use case in any system
+Your enterprise copilot integrates with every business system, meaning it can support any use case across any department. Whether your employee needs help resetting a password, requesting PTO, or submitting an expense — they can do it all in chat.
+Customize your copilot
+Design an enterprise copilot that is completely unique to your company. Meet just a few of the copilots powered by our enterprise copilot platform.
+ Connect Moveworks to any enterprise system
+Blog
+Discover how Creator Studio connects people to enterprise systems through natural language.
+Read the blog
+Guide
+By connecting Moveworks to your enterprise systems, you can build use cases for every department. 
+Download the guide
+Case Study
+Luminis Health reduced IT call volume by 25% in only 2 weeks, helping save on IT service costs.
+Read the case study
+See how the enterprise copilot is redefining the way we work
+Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

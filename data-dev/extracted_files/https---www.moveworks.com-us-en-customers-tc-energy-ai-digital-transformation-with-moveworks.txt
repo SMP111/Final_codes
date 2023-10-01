@@ -1,0 +1,187 @@
+TC Energy’s <2 Month AI Digital Transformation | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          TC Energy
+    TC Energy transformed legacy IT in less than two months with AI
+    For the CIO at TC Energy, effective digital transformation depends on the processes and people driving change within the company. Watch to learn why he chose AI.
+For more than 70 years, TC Energy has operated pipelines, storage facilities, and power-generation plants that support life in Canada, the U.S., and Mexico.
+Watch the video
+            <2months
+To launch the Moveworks bot
+Challenge
+Updating legacy support systems to keep pace with the rapidly modernizing energy industry
+Result
+Launched an AI chatbot in under two months, kickstarting the IT team’s digital transformation
+The Problem
+    TC Energy knows that digital transformation is a lynchpin for modernizing the energy industry
+Every IT team in the world is leading a digital transformation initiative, whether that means simply typing up physical documents or deploying advanced AI. But for Chris Foster, CIO at TC Energy, doing digital transformation right was especially crucial. 
+In his mind, the energy sector is at an inflection point. For a long time, there hasn’t been a lot of change. But now, Foster sees that it’s imperative for even the most successful companies to not “rest on their laurels”. Instead they need to find room for transformation across their organizations, from sustainable business practices to building the best employee experience for employees.
+Foster saw this challenge as an opportunity to find a solution that could truly transform how the company functioned. He saw AI as a way to help employees across the company focus on what matters, while also saving time and money. As he navigated through a number of AI-powered tools on the market, he determined that — above all — a successful AI solution must have rapid time to value. 
+The Solution
+    Moveworks offers fully fledged AI transformation — in just months
+In September 2020 — just two months after his original conversation with Moveworks — TC Energy’s CIO launched the new chatbot, Joule. The bot got to work on launch day, resolving IT issues end to end.
+One of the main benefits of the Moveworks approach is that his team didn’t need to train language models, build dialog flows, or maintain or configure the platform. Instead, Joule is powered by advanced conversational AI architecture that’s purpose-built for employee service. This underlying technology is called the Moveworks Intelligence Engine™, allowing the bot to resolve issues instantly and automatically. 
+For Foster, choosing Moveworks meant investing in a platform that automatically improves over time. The Moveworks Machine Learning team continuously invests in R&D to improve the underlying machine learning models, based on both recent and historical data across our diverse customer base so that employees at TC Energy get immediate, accurate support.
+Be careful about only engaging in that race to the bottom on costs, because you might win.
+Chris Foster
+CIO, TC Energy
+The Result
+    TC Energy powers digital transformation with AI.
+Almost every company is looking to incorporate AI and machine learning into their internal procedures to improve the employee experience without breaking the budget. But getting started with such sophisticated tools can be a real challenge, especially a company like TC Energy. 
+By starting his company’s AI journey with Moveworks, Foster opened the door to implementing other advanced tools. Joule gave his team the bandwidth and resources required to focus on the future, instead of getting caught up in busy work. Instead, Joule was up and running in less than 60 days, and the bot continues to improve itself as it helps more and more employees. With the help of AI, TC Energy has a headstart in the race to transform the future of power-generation.
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Tech support in seconds with Moveworks for IT
+Solve employees’ IT issues instantly and automatically — with conversational AI.
+Read more
+The Moveworks' LLM stack
+Get instant access to best-in-class large language models adapted to your company-specific language.
+Learn more
+Solve every AI use case
+Automate tasks and find information across every application through a single, natural language interface.
+Go deeper
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

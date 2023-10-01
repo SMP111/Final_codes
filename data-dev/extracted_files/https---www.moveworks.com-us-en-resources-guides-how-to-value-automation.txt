@@ -1,0 +1,185 @@
+Task automation: a guide to measuring impact | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+    Task automation: a guide to measuring impact
+Your team is spending too much time on repetitive tasks. Organizations across industries are using task automation to work around this problem. Some form of service desk automation is nearly ubiquitous. But how can you identify impact areas specific to your company in order to get buy-in from your leadership?
+When done methodically, automation will elevate your employee experience, take the burden off of your service desk agents, and save you millions. It can be challenging to demonstrate this impact, especially since it’s often spread throughout the organization. 
+We’ve worked with a lot of IT leaders to help them map out exactly what automation can do for their organizations. And now we’re ready to share what we learned with you. Here’s your guide.
+    What’s task automation?
+Task automation is a subset of automation that uses specific tools to eliminate repetitive and manual tasks that often bog teams down. IT teams typically implement this approach the most but isn’t limited to them. 
+Because you’re automating away repetitive tasks, the impact of task automation can’t be narrowed down to only cost savings. A lot of factors come into play, including process acceleration, risk avoidance, and the overall employee experience.
+Task automation works alongside your team to cut out busy work, enabling your existing employees to create more value. Rather than replacing jobs, task automation provides value by bringing more time and meaning to high-priority work. When you frame task automation along those lines, it’s much easier to communicate its value to leadership.
+    How to think about the value of task automation
+You miss the complete value of task automation when you focus on FTE avoidance alone. Automation can have an impact on your entire organization, and driving automation requires buy-in from your entire leadership team. When communicating the value of task automation, focus on: 
+Cost ownership. How much time and money will onboarding an automation tool cost? What are the ROI projections?Cross-org wins. How will every single team benefit from automation?Specific wins. Which projects will see immediate acceleration? How will automation change your roadmap?
+You can start with cost savings as you’re scoping impact. But to truly quantify the impact of automation, you need to take a holistic approach. Use the following categories as a starting point: 
+    1. Time and cost savings
+The immediate benefit of automation is a reduction in costs. You can measure this reduction in two ways: 
+Recurring cost reduction. You used to spend X on vendors, subscriptions, services, FTEs, and now (post-automation), you now spend Y. Cost reclamation. Every time we perform this automated task, we reclaim X amount of money, and we’ve performed this task Y times. 
+Task automation will also alter your goals and eliminate the need for certain projects. 
+Project cost avoidance. You planned to spend X on a project, but since you automated, you only need to spend Y. 
+There are many subject matter experts across your organization that spend their time and energy answering the same questions and creating knowledge base articles across similar groups of topics. Automation can step in. The impact of time saved can be seen through: 
+Manual effort eliminated. A task used to take X amount of manual effort from a subject matter expert, and now it takes Y. What is the SME’s hourly, daily, or annual rate for that amount of time?Manual effort on task oversight. You need X number of FTEs overseeing or maintaining this task, and after automation, you need Y.
+    2. Process acceleration
+Every task can’t be automated, unfortunately. However, issues that can’t be automated can be accelerated through task automation. This impact is significant as well. To measure: 
+Time saved on task execution. A task used to take X amount of time to complete and now, through acceleration, takes Y. Task completion rate. Without automation, X% of XYZ tasks were completed within a determined time frame. With automation, Y% of XYZ tasks are completed W% faster.
+    3. Risk avoidance
+With task automation, you can ensure perfect repeatability, without human error. As a result, organizations are able to avoid many forms of risk. You can measure this in three ways:
+Incidence occurrence reduction. The failure to comply rate used to be X, and now they are Y. 
+Cost avoidance of failure to comply. Non-compliance on certain tasks used to cost X, and since the implementation of automation, we’ve avoided that Y times. 
+Error rate reduction. Your error rate in completing this task used to be X%, and now it’s Y%. 
+When service desk agents are stuck doing the same repetitive tasks day after day, mistakes are going to happen — it’s human nature. Task automation can help dramatically lower this risk across the board.  
+    4. Compliance
+Automation can have a significant impact on compliance. You can measure it against these three methods: 
+SLA adherence. Your SLA rating used to be X, but it’s now Y.
+Audit trail compliance. X% of Y tasks are used to circumvent the correct process. Now, it’s Y% 
+Incident/breach avoidance. We used to deal with X incidents per month. Now we deal with Y. 
+    5. Employee Experience
+Lastly, automation is sure to transform your employee experience. Providing fast, frictionless support will create an impact across the board — through cost savings, productivity, and morale. To measure this, use these numbers:
+Employee wait time eliminated. How long were employees waiting for a resolution? How would you value that wait time? Would you measure productivity through revenue per employee? 
+Feedback lift. Your previous feedback rating was X, now it’s Y. 
+Experience improvement. This task used to take X clicks to complete. Now, it takes Y. 
+Response rate. It used to take X time to respond or notify employees. Now it takes Y time. 
+Task coverage. X% of employees used to be able to do XYZ, but now Y% can. 
+Employee productivity. To understand the effects of automation, look at the time your team has won back to work on other projects. At Moveworks, we assign a percentage to tasks that impact productivity — software provision is on the higher end of that scale, for example. 
+Task automation is just the beginning of completely transforming the way we work. Creating a conversational AI strategy can take you further on the road to transformation. Now that you know how to measure the success of automated tools, you can easily evaluate and onboard the appropriate tool for your organization.
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

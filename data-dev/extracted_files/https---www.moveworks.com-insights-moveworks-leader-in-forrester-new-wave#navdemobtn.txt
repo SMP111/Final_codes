@@ -1,0 +1,123 @@
+Moveworks Named A Leader In Forrester New Wave | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Moveworks named a leader in Forrester New Wave: Chatbots for IT Operations
+Varun Singh, VP Product 
+ November 5, 2020
+linkedin
+facebook
+twitter
+email
+Read the full report
+Moveworks is proud to be named a leader in The Forrester New Wave™: Chatbots for IT Operations, Q4 2020.
+In its latest report, published today, Forrester comprehensively evaluates the top IT chatbots with respect to a number of different criteria. Forrester recognizes Moveworks as among the top vendors who “lead the pack” in providing automated support to our enterprise customers.
+“Moveworks’ platform allows customers to quickly adopt an IT help desk chatbot with limited development required, leading to fast time-to-deflection and easy integration into your existing IT systems.”The Forrester New Wave™: Chatbots for IT Operations, Q4 2020
+What we believe sets Moveworks apart is our unique approach to IT support. Rather than simply tracking IT issues or providing recommendations, Moveworks resolves those issues end-to-end — completely autonomously — by integrating with other enterprise software.
+Forrester evaluated a number of specific criteria, which are graded on a scale from “needs improvement” to “on par” to “differentiated.” Moveworks received differentiated scores in five such criteria: chatbot readiness, architecture and integrations, optimization and analytics, vision, and market approach.
+Here’s what Forrester’s findings mean for our customers:
+Rapid time-to-value
+For companies looking to automate IT support with a chatbot, the first consideration is time-to-value: how long it takes to get results. Conventional “chatbot toolboxes” require IT teams to manually build scripts and dialog flows over the course of several months — then continue to adjust those workflows as the IT environment evolves. This manual approach to building a chatbot simply cannot scale.
+So what does it mean to be differentiated when it comes to chatbot readiness? By leveraging a combination of advanced conversational AI and natural language understanding (NLU), Moveworks starts resolving IT issues on day one, without any training or scripting for the customer. The Forrester report states that “Moveworks provides significant pre-built assets, such as language and workflow,” which allow IT teams to dramatically accelerate the bot’s deployment and impact.
+“You don’t have to have a huge team to implement Moveworks or worry about a long learning curve. It’s all implemented by Moveworks, and it’s done quickly and easily.”Andy Nallappan, CIO, Broadcom
+Connecting the entire IT ecosystem
+The purpose of an IT chatbot is to provide a single interface for employees to resolve all support issues, from requesting software to resetting passwords to finding the right knowledge article. With this goal in mind, Moveworks has created deep integrations with dozens of enterprise systems — and we’re excited that Forrester gave us a differentiated score in the criterion of architecture and integrations. Our platform takes autonomous action within these systems, allowing employees to self-service their IT issues directly through the bot.
+Of course, for a chatbot to effectively resolve employees’ support issues, the IT team needs visibility over which issues the bot doesn’t currently address. That’s why we’re proud to have also earned a differentiated score in the optimization and analytics criterion. Our performance insights dashboards provide almost 100 charts and metrics that track our chatbot’s impact in real time, allowing IT teams to rapidly identify and fill gaps in their bot’s existing coverage.
+“Moveworks is this simple, magical UI that talks to users and gets them answers right away, and connects to the complex backend systems that users don’t need to experience.”Richard Chao, Senior IT Manager, Stitch Fix
+Validating our vision
+When we founded Moveworks in 2016, we shared a single vision: empower employees around the world to focus on impactful work. We’ve spent the last four years building an AI chatbot that resolves employees’ tech issues — instantly and autonomously — to make that vision a reality.
+So while the Forrester report rated Moveworks as differentiated with respect to several important criteria, we’re most excited about the differentiated score we received in the vision criterion. Our chatbot has already transformed the IT support process for customers like Slack, Autodesk, and Hearst. But despite what we’ve accomplished, and despite this recognition from Forrester, we know the best is yet to come.
+Download the Forrester New Wave™: Chatbots for IT Operations, Q4 2020 here.
+Contact  Moveworks to learn how AI can supercharge your workforce productivity.
+news
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

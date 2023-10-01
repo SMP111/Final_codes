@@ -1,0 +1,191 @@
+98% of Procore Is Satisfied With Employee Experience | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Procore
+    No more password resets: Why Procore brought AI to IT
+    Procore empowered employees to focus on high-impact work, not basic, mind-numbing tasks by transforming its digital experience strategy with AI.
+Founded in 2002, Procore has completely transformed the construction industry. The Southern California-based company creates a single platform that brings together all the right people and information, ensuring that major construction projects get finished safely, on time, and within budget.
+Download the PDF
+            98%
+Employee satisfaction with the Moveworks bot
+Challenge
+Supporting young, digital-native employees who expect immediate help        
+Result
+Provided instant, automated IT support to 81% of employees, without increasing IT headcount
+The Problem
+    Procore needed a digital employee experience strategy
+It’s no small feat to support employees at the speed of a modern SaaS company. Even at an innovative and fast-growing organization like Procore, employees often find it difficult to troubleshoot their own tech issues, since forms, resources, and knowledge articles are scattered across multiple backend systems. Likewise, when it comes to knowing where to ask for help, employees are overwhelmed with options: They could send an email, submit a ticket through a portal, or post on the #ask-IT Slack channel. 
+To meet the high expectations of an increasing number of digital-native employees, Senior Director of IT Steve LeBoeuf realized the company needed a digital employee experience strategy that radically simplified the support process:
+“Our job is to support all of our employees — without adding 500 new IT support agents,” LeBoeuf said. “Step one is to set up a single place where employees know they can get immediate help.”
+Ultimately, scaling support for the company’s growing workforce would require one simple, go-to channel for employees to get help — and powerful automation to free up the service desk. It was with these goals in mind that LeBoeuf sought a single AI tool that could understand employees’ support issues, respond quickly, and most importantly, be an expert at all things Procore.
+The Solution
+    Bolt supercharges Procore’s employee experience
+In June 2020, Procore launched its Moveworks bot, known internally as Bolt. An AI chatbot that lives on Slack, Bolt provides one extremely simple place for employees to get help, whether they’re locked out of their account, need access to software, or want to edit an email group.
+Even when employees don’t submit their tech issues to Bolt, the bot intercepts their requests and jumps in when it can help — automatically handling emails and forms sent to the IT team. Procore had a vision of transforming Slack into a one-stop shop for support, and Bolt made that vision a reality.
+Already, more than 80% of employees have used Bolt to resolve their IT issues. And the IT team has reaped the benefits as well. Before, agents had no way to reliably keep track of issues arriving from email or various locations. But with Bolt, every IT issue is either solved automatically or becomes a ticket. Nothing gets lost in the shuffle. Bolt has become so efficient that if questions come through a different channel, service desk agents immediately direct employees to the bot.
+“I don’t want to hire people to reset passwords all day,” says LeBoeuf. “Now, Bolt handles all the common issues, which lets my team concentrate on the really hard and exciting problems.”
+Procore is in the business of construction—not building the best AI chatbot in the world. That’s why we use Moveworks.
+Steve LeBoeuf
+Senior Director of IT
+The Result
+    IT + AI = Never reset a password again
+By introducing a single jumping-off point for IT help, Moveworks has transformed Procore’s digital employee experience strategy for good. And LeBoeuf’s team is continually inspired to automate new processes and offload more work to the bot.
+“My team is always excited to increase Bolt’s impact, whether that means adding new capabilities to the bot or creating content behind the scenes,” commented LeBoeuf. “They see an opportunity to work on more challenging transformation projects and develop their own skills, with the bot handling the day-to-day issues automatically.”
+LeBoeuf and his team look forward to seeing Bolt deployed in new ways to help other department service desks, like HR or facilities management. It’s this collaborative relationship between employees and technology that, for LeBoeuf, will propel Procore to new heights:
+“Agents and AI working together—that’s the future.”
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Fix account access issues with AI
+Use AI to instantly fix employees’ account issues, from expired passwords to lockouts.
+Learn more
+Instant support at Achieve
+Achieve handles 95% of password reset requests without an agent involved.
+Read the case study
+How AddDynamics unlocked Okta
+AppDynamics powers Okta with AI — allowing employees to solve their own IAM issues.
+Watch the webinar
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

@@ -1,0 +1,154 @@
+AI Explained: A Video AI Glossary | Moveworks
+AI Glossary
+AI Term Glossary
+Visit Moveworks
+    AI Explained: A Video Glossary
+Forget crypto and blockchain. ChatGPT is the new tech in town, and you need to know the lingo. Follow along as we boil down all the complex terms around AI, Large Language Models and Machine Learning into bite-sized videos. Soon enough, you'll have a comprehensive understanding of just how this technology is changing the game.
+Parameter-Efficient Fine-Tuning Explained
+Episode 31 | AI Term: Parameter-Efficient Fine-Tuning
+Parameter-Efficient Fine-Tuning (PEFT) is an approach that optimizes resource usage while fine-tuning large AI models, such as GPT, T5, and BERT. Through techniques like Adapters, Low-Rank Adaptation, Prefix Tuning, and Prompt Tuning, PEFT adjusts a small number of key parameters and enables the creation of lightweight "tiny checkpoints." The result is a more efficient and accessible fine-tuning process, allowing AI advancements to remain resource-efficient and available to all.
+    Recent Episodes  
+Generative AI & LLMs Explained
+Episode 01 | AI Term: Generative AI & LLMs
+Have you ever wondered how generative AI is transforming app development and content creation? In this episode, we explore the power of large language models and how they're revolutionizing the way we generate new ideas, write stories, and even compose music. With generative AI, creating content has never been easier or more fluent. Tune in to discover how generative AI is changing the game.
+Grounding Explained: How to stop AI hallucinations
+Episode 02 | AI Term: Grounding
+How can we prevent large language models from providing bad information? Well, today we’ll learn about a promising approach called grounding. Grounding has been shown to reduce the likelihood of errors, also known as hallucinations. So, if you want to stop hallucinations, watch to learn how to ground your large language model prompts.
+Supervised vs. Unsupervised Learning Explained: What's the difference?
+Episode 03 | AI Term: Supervised and Unsupervised Learning
+Are you unsure about whether to use supervised or unsupervised learning for your AI project? In this video, you'll learn about the differences between these machine learning techniques and when to use each approach. While they may sound similar, the truth is that they can make a huge difference in how your AI models perform. Choosing the right approach for your AI project can be the key to unlocking its full potential.
+Prompt Engineering Explained: Writing effective prompts is crucial.
+Episode 04 | AI Term: Prompt Engineering
+Are you tired of language models giving you unpredictable and irrelevant outputs? Then it's time to master the art of prompt engineering. We’ll provide you context and direction, so you can ensure that a language model generates the output you want. So why settle for generic responses when you can get precisely what you ask for?
+Multimodal Language Models Explained: The next generation of LLMs
+Episode 05 | AI Term: Multimodal Language Models
+Multimodal language models are revolutionizing the way we interact with computers. This episode explores how these models are opening up a whole new world of possibilities beyond just language. From virtual assistants to automated customer service, these multimodals are set to transform the way we interact with technology, and usher in a new era of human-computer interaction.
+Reinforcement Learning Explained: Correcting models with feedback
+Episode 06 | AI Term: Reinforcement Learning
+Reinforcement learning is transforming the field of AI. But what is it, and how does it work? Well, in this episode learn how this powerful combination of technology and human expertise has enabled ChatGPT to engage in natural and seamless conversations, and what it means for the future of AI.
+Speech-to-text and Text-to-speech Explained
+Episode 07 | AI Term: Speech-to-text, Text-to-speech
+Discover the transformative power of Speech-to-Text and Text-to-Speech technologies, which are revolutionizing the way we communicate with machines. These innovations enable seamless interactions, turning spoken words into written text and vice versa, ultimately enhancing our communication experience with virtual assistants and chatbots.
+Annotation Explained
+Episode 08 | AI Term: Annotation
+Behind every cutting-edge AI lies the crucial process of annotation. Expert annotators provide in-depth information to datasets, essentially creating a detailed guide that helps machine learning algorithms understand, learn, and deliver desired outputs in various scenarios. Watch this episode of AI Explained to learn how important annotation is for everything from ChatGPT to self-driving cars.
+Chatbots vs. Conversational AI Explained
+Episode 09 | AI Term: Chatbots vs. Conversational AI
+Conversational AI is revolutionizing the way we interact with chatbots, allowing for a more natural human-like conversation. In this video we’ll discuss the differences between these two chat experiences and explore how conversational AI enables more efficient and intelligent communication across various applications.
+Hallucination Explained
+Episode 10 | AI Term: Hallucination
+Hallucination sounds like a bad thing but really it’s a crucial aspect of generative AI, enabling imaginative creations. But there’s a trade off, in order to be imaginative you have to distort reality, and unfortunately  this can sometimes lead to incorrect or false information. Watch the full video to discover how engineers are working towards solving this issue and why it's essential to be cautious and not blindly trust AI-generated output.
+The Cost of Large Language Models Explained
+Episode 11 | AI Term: LLM Costs
+Did you know that the cost of creating and maintaining a large language model can rival that of a Boeing 747? While developing such models can be expensive due to their size and complexity, smaller open-source smaller more affordable models also exist. Watch the full video to learn more about the costs of large language models!
+Generative AI Explained
+Episode 12 | AI Term: Generative AI
+Did you know Generative AI can serve as your new creative partner and its core strengths promise to transform the way we interact with technology. Watch the full video to learn more about the process Generative AI follows to rapidly generate human-like content and how it’s changing the way the world works.
+Probabilistic vs. Deterministic Explained
+Episode 13 | AI Term: Probabilistic and Deterministic
+To truly grasp the complexity of artificial intelligence it’s important to first understand the logic behind how it makes decisions. Some decisions are clear-cut, while others are more complicated with multiple possible outcomes, that’s where probabilistic and deterministic models come into play. Watch the full episode to learn how these decision models work and how they can be used to guide AI to solve problems.
+Fine-tuning vs. Instruction-tuning Explained
+Episode 14 | AI Term: Fine-tuning and Instruction-tuning
+Tuning a machine learning model refers to the technique of tweaking the model in a way to produce a desired outcome. Often referred to as fine-tuning or instruction-tuning, these different techniques can be applied in different ways to produce wildly different outcomes. Watch the full video to learn more about how tuning can be used to optimize AI to perform specific tasks, or even better equip it to adapt to its environment.
+Controllability Explained
+Episode 15 | AI Term: Controllability
+AI has the potential to transform many aspects of our lives, but it's not always perfect and can sometimes make mistakes with significant consequences. By employing techniques like interpretability, we can better understand and control AI decision-making, ensuring that it remains accurate, safe, and ethical in its applications. Watch the full episode to learn how engineers are deploying these methods get more control over AI
+Artificial General Intelligence Explained
+Episode 16 | AI Topic: Artificial General Intelligence
+Artificial General Intelligence (AGI) has the power to unlock new discoveries and tackle some of the world's most daunting challenges. But it’s significantly more complex than narrow AI. Watch the full video to learn how engineers are integrating multiple AI techniques to build these AI systems that continuously improve and can potentially make the world a better place. 
+Stacking Explained
+Episode 17 | AI Term: Stacking
+Stacking is a technique in AI that combines multiple algorithms to enhance overall performance. By blending the strengths of various AI models, stacking compensates for each model's weaknesses and achieves a more accurate and robust output in diverse applications, such as image recognition and natural language processing. Watch the full video for the full story.
+Reasoning Explained
+Episode 18 | AI Term: Reasoning
+AI reasoning is a cognitive process that enables systems to solve problems, think critically, and generate new knowledge, similar to the human brain. Watch this video to learn how this technology drives advancements across diverse fields, such as autonomous vehicles and supply chain management, and can even assist in everyday decision-making.
+Associative Memory Explained
+Episode 19 | AI Term: Associative Memory
+AI systems utilize associative memory, similar to the human brain, to store, retrieve, and process connected information for decision-making. By accessing real-time data, AI-powered tools like GPS devices can improve upon our abilities, providing up-to-date and optimal route suggestions. Watch the video to get deeper.
+Foundation Models Explained
+Episode 20 | AI Topic: Foundation Models
+Foundation models are a broad category of AI models, encompassing large language models and others, such as computer vision and reinforcement learning models. Serving as a base for various applications, foundation models can be fine-tuned and combined with other AI models to cater to specific tasks and domains. Watch on to learn more!
+Knowledge Generation Explained
+Episode 21 | AI Topic: Knowledge Generation
+Knowledge generation involves AI systems analyzing extensive data sets to discover patterns and insights, ultimately transforming raw facts into accessible information. This AI-driven process, which continuously refines and updates knowledge base content, saves time, boosts satisfaction, and adapts to changing customer or employee needs.
+Collective Learning Explained
+Episode 22 | AI Term: Collective Learning
+Watch this video to learn about collective learning: a technique that identifies linguistic patterns by analyzing commonalities in large datasets. By recognizing shared aspects and understanding subtle language nuances, this approach can streamline processes such as IT support and be applied to domains like healthcare, education, and transportation.
+OpenAI's Whisper Model Explained
+Episode 23 | AI Topic: OpenAI's Whisper Model
+OpenAI's Whisper is an innovative Automatic Speech Recognition system that translates spoken language into written text. Its applications range from capturing meeting details and language learning to medical transcription and smart home automation, significantly enhancing communication and accessibility between humans and machines.
+LLM Benchmarking Explained
+Episode 24 | AI Topic: LLM Benchmarking
+Selecting the right large language model for specific enterprise applications entails understanding its capabilities and limitations, and conducting benchmark tests that simulate real-world scenarios. Watch this video to learn how this process allows for assessing criteria such as relevance, domain expertise, and data sensitivity to identify the ideal AI solution for your unique needs.
+Zero-to-one Problem Explained
+Episode 25 | AI Topic: Zero-to-one problem
+The "zero-to-one problem" highlights the challenge of finding the initial breakthrough or solution in AI, which is often the hardest step. Once this hurdle is overcome, subsequent progress becomes much easier, paving the way for synergistic partnerships between AI and humans, fostering greater efficiency and innovation.
+Voice Processing Explained
+Episode 26 | AI Term: Voice Processing
+AI systems convert speech to text and back to speech to improve efficiency, save computational resources, and seamlessly integrate with text-based applications. This process, used by popular voice assistants like Siri and Alexa, allows for better understanding of spoken requests and accurate, controlled audible responses.
+Low-Code Explained
+Episode 27 | AI Topic: Low-Code
+Low-code platforms enable individuals with little or no programming expertise to design websites and apps easily using visual interfaces, pre-built components, and conversational AI. These user-friendly tools simplify the development process, empowering people from diverse backgrounds to bring their ideas to life without extensive coding knowledge.
+Recursive Prompting Explained
+Episode 28 | AI Topic: Recursive Prompting
+Recursive prompting is an effective method to enhance AI models like OpenAI's GPT-3, guiding them to deliver more accurate and contextually relevant output. This strategy involves using a series of iterative prompts that build on previous responses, refining the AI's understanding and addressing ambiguities to provide better results in a conversational manner.
+Responsible AI Explained
+Episode 29 | AI Topic: Responsible AI
+Responsible AI focuses on developing and deploying fair, unbiased, transparent, and socially beneficial artificial intelligence solutions. To avoid perpetuating implicit biases and ethical pitfalls, AI systems must be trained on diverse and unbiased data while preserving privacy. By adopting responsible AI principles, AI can enhance human decision-making and contribute positively to individual lives and the global community.
+Generative Adversarial Networks Explained
+Episode 30 | AI Topic: Generative Adversarial Networks
+Generative Adversarial Networks (GANs) are a powerful type of AI neural network that create new, realistic data mimicking training data through the competition between a Generator and a Discriminator. With numerous applications such as imitating handwriting, composing music, and transforming images, GANs can generate astonishingly realistic images and content that are nearly indistinguishable from reality.
+    Upcoming Episodes
+        Natural Language Ambiguity Explained
+          Episode 32 | AI Term: Natural Language Ambiguity
+To build AI systems capable of tackling natural language ambiguity, we can use strategies like context analysis, probabilistic modeling, knowledge graphs, and annotation. These methods help AI understand multiple meanings, recognize patterns and cues, decipher complex language structures, and learn the intricacies of human language, allowing AI to work together with humans to interpret ambiguous expressions.
+          Data Augmentation Explained
+          Episode 33 | AI Topic: Data Augmentation
+Data Augmentation is a versatile technique that expands and diversifies training sets by modifying existing data, enhancing model performance, accuracy, and preventing overfitting. Applicable to images, audio, video, and text data, it transforms limited datasets into robust resources, ensuring AI models excel in various scenarios. Advanced techniques, like Generative Adversarial Networks, address data-intensive applications across industries, making Data Augmentation a vital solution for overcoming common AI challenges.
+           Adapters Explained
+          Episode 34 | AI Term: Adapters
+Adapters are an advanced method for making pre-trained AI models adaptable to new tasks without complete retraining. These modules save time, money, and resources by efficiently repurposing existing models for different tasks in areas like natural language processing, computer vision, and robotics. Adapters showcase impressive potential for creating more versatile, agile, and adaptive AI models across various scenarios.
+     Multi-hop Reasoning Explained
+          Episode 35 | AI Term:  Multi-hop Reasoning
+Multi-hop reasoning is a process enabling AI models to answer complex questions by connecting multiple pieces of information from various sources. Essential in natural language processing and machine reading comprehension tasks, it allows AI to comprehend relationships and context distributed across different parts of a text. As a result, multi-hop reasoning enhances the capabilities of conversational AI agents and other NLP-based applications, serving as a foundation for creating AI systems that can understand human language intricacies.
+Moveworks Live
+Now on-demand! Get instant access to all the exciting insights and exclusive demos from Moveworks Live.
+Watch Now
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

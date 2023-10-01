@@ -1,0 +1,1128 @@
+
+
+
+
+
+Consumers Energy Saves With Internal Communication Software | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Customers
+
+
+
+          Consumers Energy
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    How Consumers Energy saved $55K by sending a message — with AI
+  
+
+
+
+
+    Consumers Energy uses AI-powered internal communication software to reduce costs and free up IT.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consumers Energy is the leading energy provider in Michigan. It supplied power to 6.8 million of the state’s residents.
+
+Download the PDF
+
+
+
+
+
+
+            $55K
+
+
+Savings resulting from a single comms campaign
+
+
+
+Challenge
+Support teams don’t have the tools or time to proactively engage with employees
+
+
+Result
+Automated budget-saving measures, freeing up time for more high-impact work across multiple departments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem
+
+    Critical businesses put their employees first
+  
+
+
+
+Consumers Energy is the leading supplier of electricity and natural gas in Michigan. But while the company’s expertise in delivering power is time-tested, one part of its business needed an overhaul: the service desk. 
+For Dave Pawlak, Executive Director of IT and Joe Langa, Team Leader, communicating with employees was a particular challenge. Conventional mass communication approaches, mostly email, were noisy and left unread. The more the team sent, the fewer employees actually read and responded, making change difficult.
+
+“We’re an old-school utility company. We don’t move fast,” said Langa. “But in this tech age, we needed to upgrade to support our team. And we couldn’t wait.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Solution
+
+    CEVA powers up internal communications software
+  
+
+
+
+In November 2020, Consumers Energy deployed a Moveworks chatbot — better known to the company’s employees as CEVA. Living directly on its enterprise chat platform, Microsoft Teams, CEVA can send targeted comms that make it easy for employees to take immediate action. 
+Whether to update employees on a new policy, remind certain teams to update their passwords, or announce service downtime, Consumers Energy can send messages that are guaranteed to catch the right employee’s eye.
+
+Since Moveworks’ AI has read all Consumers Energy’s knowledge articles, ingested every FAQ, and knows the employee handbook to the letter, CEVA can answer whatever follow-up questions employees have. And unlike a static message, the bot also handles the back-and-forth on the company’s behalf, that way, sending an update doesn’t flood support teams with requests for clarification.
+
+With detailed insight into user engagement, Consumers Energy’s leaders can craft increasingly effective campaigns, ensuring that the change they want to happen happens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can send an FYI through email, or you can send actionable next steps through Moveworks: Go here. Do this now.
+
+
+
+Joe Langa
+Team Leader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Result
+
+    The future is bright for Consumers Energy
+  
+
+
+
+Consumers Energy quickly saw impact. A single campaign resulted in reclaiming 1,000 software licenses, saving $55,000 in only 14 days. Using CEVA to update employees on a new policy, announce service downtime, or remind certain teams to update their passwords, the service desk now had insight into who has taken action in real-time, allowing for additional targeted follow-up as needed. 
+“The question isn’t: How is Moveworks helping now?” said Pawlak. “The question is: Where can we take Moveworks next?”
+ 
+← Back to all Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    Key Integrations
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about Moveworks
+
+
+
+
+Moveworks for Employee Comms
+With Moveworks, your messages reach the right employees and make it easy for them to move forward.
+
+Learn more
+
+
+
+
+
+
+
+
+Send more than a message with AI
+Employee experience teams can send targeted, personalized messages at scale, preventing support issues proactively.
+
+Read the blog
+
+
+
+
+
+
+
+
+Boost employee comm engagement
+Here are 3 strategies to help you engage thousands of employees as effectively as one-on-one.
+
+Check out the blog
+
+
+
+
+
+
+
+
+
+
+
+ Create the world's best workplace
+
+ Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

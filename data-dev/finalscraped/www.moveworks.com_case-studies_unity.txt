@@ -1,0 +1,1126 @@
+
+
+
+
+
+91% of Unity Satisfied With Technology Experience | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Customers
+
+
+
+          Unity
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Why does over 90% of Unity love IT? Conversational AI
+  
+
+
+
+
+    Unity’s CIO Brian Hoyt has the key to building an IT experience that employees love: conversational AI that fixes issues end to end
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unity is the world’s leading platform for creating 3D content. Of the top 1,000 mobile games, 72% were made with Unity.
+
+Download the PDF
+
+
+
+
+
+
+            91%
+
+
+Employee satisfaction with Moveworks
+
+
+
+Challenge
+Unity’s switch to remote work led to a nearly 2X increase in IT tickets since employees could no longer ask their colleagues in the office for help
+
+
+Result
+Reduced the resolution time of IT issues from 3 days to less than 1 minute, resulting in more that 90% employee satisfaction with IT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem
+
+    Tech that changes the game for creators
+  
+
+
+
+Unity is the world’s leading platform for creating and operating real-time 3D (RT3D) content. Creators — ranging from game developers to artists, architects, automotive designers, filmmakers, and others—use Unity to make their imaginations come to life. Apps developed by Unity creators were downloaded more than five billion times per month in 2020. 
+From an IT perspective, prioritizing the productivity and experience of Unity’s employees is a top priority — enabling them to achieve peak performance by eliminating friction from the workday. But to support these employees at scale, Unity’s CIO Brian Hoyt recognized the need for a new approach. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Solution
+
+    Unity unleashed Ninja Unicorn
+  
+
+
+
+In April 2019, the Unity team deployed its Moveworks AI chatbot, known to the company’s employees as Ninja Unicorn. The bot uses advanced natural language understanding (NLU) to deduce — and then deliver—the best resolution to employees’ IT issues. Ninja Unicorn helps employees with a vast array of tech problems: getting software, resetting passwords, editing email groups, troubleshooting devices, and more. Moveworks has made a profound impact at Unity, immediately winning over employees by resolving their IT issues within a few seconds. 
+Today, Ninja Unicorn handles 30% of these issues, completely autonomously. And for anything that requires an expert touch, the bot routes the issue to the appropriate assignment group to accelerate resolution for nearly all requests. Moveworks’ machine learning approach enables Ninja Unicorn to continuously deepen its knowledge of Unity’s IT environment, resolving more and more issues without intervention from the service desk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It’s really Moveworks that brought to life our vision of instant support on Slack. The bot helps people through natural conversation just like an agent would — but at the speed of AI.
+
+
+
+Brian Hoyt
+CIO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Result
+
+    Unity adapted to the future of work, without pressing pause
+  
+
+
+
+During the pandemic, Unity’s employees became completely reliant on technology to stay productive, which caused its IT ticket volume to skyrocket. In just the first month of remote work, Unity’s employees submitted six times as many requests for Zoom, seven times as many questions about company policy, and 89% more issues overall. 
+In stepped Ninja Unicorn, which intercepted tech issues across every channel, from email to Slack to the IT support portal, and addressed them right on chat. By resolving employees’ issues no matter how they’re raised, Ninja Unicorn ensured that the company could handle the surge in support requests, without pausing key digital transformation projects. And even better — more than 90 percent of Unity’s employees are satisfied with their IT experience.
+Now more than ever, companies are getting a clear glimpse into the future of work — a future that will be powered by enterprise collaboration tools and conversational AI. These technologies are paving the way for people to work together, regardless of their location, and to fix support issues at work, simply by chatting with an AI bot. With Moveworks, Hoyt has seen that future become reality: 
+“It’s really Moveworks that brought to life our vision of instant support on Slack.”
+
+← Back to all Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    Key Integrations
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about Moveworks
+
+
+
+
+The practical guide to NLP and NLU
+To build a computer capable of understanding language, NLP and NLU have proven critical
+
+Read the blog
+
+
+
+
+
+
+
+
+The next generation of conversational AI
+Moveworks generates a personlized response to every employee request.
+
+Learn more
+
+
+
+
+
+
+
+
+How AI solves a support issue
+We’ve spent years engineering an simple support experience to make work feel less like work.
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+ Create the world's best workplace
+
+ Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

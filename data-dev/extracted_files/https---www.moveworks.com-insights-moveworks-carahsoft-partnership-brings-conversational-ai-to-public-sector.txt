@@ -1,0 +1,154 @@
+Moveworks-Carahsoft Bring Conversational AI to Public Sector
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Moveworks-Carahsoft partnership brings conversational AI to the public sector
+Peter Barrett, Director of Federal Strategy
+ May 4, 2023
+linkedin
+facebook
+twitter
+email
+As digital workplaces become more complex, minor setbacks can cause significant disruptions. This holds especially true for the public sector. Even a small issue can impact critical operations and services, resulting in consequences that affect numerous citizens.
+This challenge, combined with the growing demand for conversational AI which is fueled in part by the surge in advanced large language models and tools like ChatGPT, offers a means to tackle everyday disruptions and streamline the employee experience.
+That’s why I’m excited to announce Moveworks’ new strategic partnership with Carahsoft. Carahsoft will be the Master Government Aggregator® for Moveworks, making our trusted, secure conversational AI platform available to the public sector.
+Working together, we can bring conversational AI to government organizations in a way that meets their specific needs and high security standards. And we can empower employees to engage with various systems and resources seamlessly through natural language, minimizing distractions and maximizing productivity in the workplace.
+Today, I’ll set out two key areas where this partnership will make a big impact for government support teams and employees:
+Streamlining support across systems
+Proactively addressing potential issues
+Surface the right solutions
+Employees everywhere face disruptions on the regular. Slow computer startups, email issues, and finding HR policy information amidst thousands of pages of documentation all cause delays and frustration in day-to-day work.
+Moveworks closes the gap between employees and the systems they engage with. By providing a single platform for assistance and leveraging advanced AI, like OpenAI's GPT-4, Moveworks automates support processes from start to finish. This helps eliminate the need for employees to master multiple systems and applications, allowing them to access resources through the most natural asset: Language. 
+Figure 1: When an employee needs information, Moveworks can instantly surface the resources needed to solve the problem.
+For example, an employee messages Moveworks saying they need to add a dependent to their healthcare plan. Moveworks’ natural language understanding (NLU) interprets this message, surfacing next steps.
+This is just one example of how Moveworks can help connect and surface information from backend HR, IT, finance, and facilities systems. Some additional examples include:
+Troubleshooting technical issues in public service infrastructure
+Surfacing knowledge articles on relevant regulations and guidelines
+Summarizing, categorizing, and triaging requests and inquiries to the right experts
+Issuing software and hardware to government employees
+Managing account and group access and approvals for public sector systems
+Addressing facility issues and concerns
+The Moveworks-Carahsoft partnership allows public sector employees to help themselves, reducing stress on overburdened support teams and allowing everyone to focus on strategic projects without interruption.
+Resolve issues proactively
+Moveworks not only addresses real-time issues but also helps prevent problems from occurring in the first place.
+When the AI detects an issue or an upcoming password expiration, it proactively prompts employees to take action. These targeted notifications prevent problems from escalating and reaching the service desk, eliminating downtime and lightening the load on support teams.
+In this way, Moveworks can eliminate preventable downtime for public sector employees — while also scratching tasks off support teams’ to-do lists.
+Figure 2: Moveworks notifies employees proactively, helping prevent disruptions before they happen.
+For example, when credentials expire unexpectedly, workflows can be disrupted. Moveworks tracks password expiration dates and intelligently sends reminders to employees, preventing future issues.
+This is just one example where Moveworks can engage with employees proactively. Some other examples include:
+Sending interactive employee communications that inspire action
+Providing recommendations for improving the support experience
+Managing security and compliance in line with government standards
+Creating tailored onboarding programs for specific departments and government roles
+Surfacing actionable alerts for employees right where they work
+Distributing wellness surveys to personnel for promoting employee wellbeing
+Moveworks joins the trusted list of Carahsoft vendors to support the public sector
+It's crucial for the public sector to adopt innovative solutions to keep operations running smoothly, reduce potential downtime, and maintain public trust.
+By leveraging conversational AI platforms for internal support, government employees can efficiently navigate systems, enhance productivity, and alleviate support team workloads. 
+This robust collaboration between Moveworks and Carahsoft guarantees the readiness and trustworthiness essential for serving the government and its workforce. I have complete confidence in Carahsoft's remarkable history of supporting public sector agencies at federal, state, and local levels, as well as in education and healthcare. 
+Ultimately, our unified efforts empower businesses and support teams to continuously improve and exceed employee expectations in the digital workplace experience.
+Moveworks is the leading enterprise conversational AI platform
+ChatGPT wasn’t made to help you improve the employee experience; Moveworks was.
+As the only SaaS conversational AI provider to be successfully deployed in Microsoft Government Community Cloud High (GCC-H) Teams, Moveworks is uniquely able to serve the public sector's needs for a secure, compliant, and scalable conversational AI solution for employee support and more.
+And we're not stopping there. We’re focused on building the world’s leading conversational AI platform. We’re constantly innovating, plugged into the latest advances in the field, and looking for ways to improve our platform.
+Today, we offer what I — and our customers — truly believe to be the best conversational AI platform for the public sector:
+Enterprise-grade security: Moveworks is committed to safeguarding your organization's sensitive data with the highest levels of security and compliance while delivering exceptional AI-driven experiences for employees.
+Enterprise understanding: Our platform understands employees' needs, regardless of the language they use, right out of the box. By leveraging best-in-class foundation models, Moveworks stays at the forefront of AI technology, ensuring highly accurate and personalized conversational AI experiences that cater to the complexity of enterprise data.
+Actionable recommendations: We provide valuable insights into your support environment, enabling organizations to identify gaps, customize user experiences, and streamline workflows for continuous improvements.
+Rapid implementation: Our platform can be deployed within days, not weeks or months, ensuring a quick return on your investment.
+Omnichannel support and deep native integrations: Moveworks ensures seamless integration with a wide range of enterprise systems through deep native integrations and APIs, empowering end-to-end automation, lookups, and searches for a superior user experience across various channels, like Microsoft Teams and Slack.
+Extensibility and configuration controls: With Moveworks' intuitive development interface, organizations can create custom use cases and conversation flows, allowing them to tailor conversational AI solutions to meet their specific needs.
+No matter your industry, conversational AI from Moveworks can elevate your employee experience, improving every interaction throughout their journey. Don’t just take our word for it — leading companies like Hearst and Palo Alto Networks have experienced incredible results with our platform. 
+See what the Moveworks-Carahsoft partnership can do for you. Request a demo.
+news
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

@@ -1,0 +1,1130 @@
+
+
+
+
+
+Nutanix Reduced MTTR With AI Implementation Strategy | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Customers
+
+
+
+          Nutanix
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    How Nutanix massively reduced IT wait times in <7 weeks with AI
+  
+
+
+
+
+    Nutanix reduced mean time to resolution in less than two months with an AI implementation strategy focused on rapid time to value.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Founded in 2009, Nutanix is an industry leader in cloud software and hyperconverged infrastructure solutions. 
+
+Download the PDF
+
+
+
+
+
+
+            <7weeks
+
+
+Time it took for Nutanix to implement its AI strategy
+
+
+
+Challenge
+Modernizing legacy IT support process that caused costly delays
+
+
+Result
+After implementing AI, mean time to resolution (MTTR) was reduced from days to seconds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem
+
+    Nutanix’s innovation challenge for enterprise IT
+  
+
+
+
+Wendy Pfeiffer, CIO,  joined Nutanix with a focus on improving the employee experience of IT and adopting more automation to bring gains in productivity and efficiency. 
+Despite using state-of-the-art ITSM tools, the process for employees to get access to applications, or to get help resolving issues, was broken. Simple application requests would sit in the queue for hours before an agent reviewed them. Delays caused by email communication between agents and employees meant that it could be more than a week before the employee finally got access to the application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Solution
+
+    An AI implementation strategy focused on fast time to value
+  
+
+
+
+In less than 2 months, Nutanix launched Moveworks in the form of X-Bot. Moveworks’ combination of advanced conversational AI and natural language understanding (NLU) enables X-Bot to resolve employees’ IT support issues conversationally, directly in their enterprise messaging platform without any training or behavior change. This centralized way of answering commonly asked questions, combined with easy integration with Nutanix’s ITSM solution and other systems of record, allows X-Bot to transform tedious tasks into painless conversations that last only a few seconds.
+In the past, simple application requests would typically sit in a help desk queue for seven hours before an agent reviewed it. And it could take an additional day of agent’s time collecting business justifications, chasing approvals, and carrying out admin tasks. But with Moveworks, these requests are being resolved autonomously in just a few seconds.
+
+“With Moveworks, backend systems get pushed to the background — so employees don’t have to know they exist,” said Pfeiffer. “They just have this delightful, modern AI layer that communicates with them and solves their problems, right there and then.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+With Moveworks the results were immediate. We had a delightful user experience and improved productivity across the company within the first few days of rolling it out, not weeks or months later. Moveworks is a rare breed of technology that immediately provides value back that we can invest in other areas of IT.
+
+
+
+Wendy M. Pfeiffer
+CIO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Result
+
+    Fast support across the enterprise
+  
+
+
+
+Moveworks allowed Nutanix to realize extremely rapid time to value with the implementation of autonomous AI that resolves IT issues for employees. Unlike other AI solutions, the Moveworks AI platform comes pre-trained with enterprise IT knowledge so Nutanix didn’t need to invest time training or configuring the platform.
+While Nutanix’s initial focus was on autonomously resolving IT issues with AI, Pfeiffer now hopes to use the Moveworks platform to improve employee support across the enterprise. But already, by resolving more than half of all IT issues with no involvement from the help desk, Nutanix has accelerated workflows, supercharged productivity, and boosted satisfaction throughout the company.
+
+“Moveworks is a rare breed of technology that immediately provides value back that we can invest in other areas of IT,” Pfeiffer said.
+
+← Back to all Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    Key Integrations
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about Moveworks
+
+
+
+
+Tech support in seconds
+Solve employees’ IT issues instantly and automatically — with conversational AI built for the enterprise.
+
+Learn more
+
+
+
+
+
+
+
+
+Automate IT with a true partner
+Achieving your goals requires a data-driven, ML-based effort and the professional expertise of our CS team.
+
+Read the datasheet
+
+
+
+
+
+
+
+
+Make employee support effortless
+Fast companies use Moveworks. Here are 8 game-changing things that only we can do.
+
+Go deeper
+
+
+
+
+
+
+
+
+
+
+
+ Create the world's best workplace
+
+ Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

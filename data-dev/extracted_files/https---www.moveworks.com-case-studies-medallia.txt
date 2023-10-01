@@ -1,0 +1,187 @@
+95% Of Medallia Uses A Chatbot To Engage Employees | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Medallia
+    95% of Medallia turns to their bot when they need help
+    To free up its IT team, Medallia invested in a chatbot that put employee engagement first — with conversational AI.
+Medallia is the pioneer in Experience Management. It’s a global market leader that leverages AI to understand, measure, and improve corporate experiences — for both customers and employees.
+Download the PDF
+            95%
+Of Medallia’s employees use a chatbot to get IT help
+Challenge
+Freeing up the IT team to focus on digital transformation projects
+Result
+Automated IT issue resolution to buy back time for the IT team
+The Problem
+    Medallia needed a way to automate common issues and free up IT staff 
+Founded in 2001, Medallia is a global market leader that leverages AI to understand, measure, and improve corporate experiences — for both customers and employees. As a result, the company also prioritizes fast and frictionless end user journeys for its internal processes, including the IT support experience.
+To provide rapid tech support to its workforce, Medallia’s IT team investigated machine learning and AI solutions, attempting to use a chatbot to engage employees and automatically resolve their support issues in real time. 
+This automated approach offered another benefit for a fast-growing company like Medallia: the ability to support more employees without additional IT resources. This way IT teams could focus more on challenging problems, not busy work. With this in mind, Medallia sought a partner who had deep expertise in enterprise IT. That’s where Moveworks came in.
+The Solution
+    95% of Medallia’s workforce self-services IT support in seconds
+In March 2018, Medallia deployed Jarvis — the company’s in-house name for the Moveworks platform — and never looked back. Immediately after the chatbot’s implementation was complete, Medallia employees could engage with Jarvis conversationally on Slack to instantly self-service their tech issues, from unlocking accounts to resetting MFA tokens to accessing new software. 
+“We didn’t do any training for Moveworks; our people figured it out,” said Jillian Middleton, Corporate IT Architecture & Engineering Team Lead at Medallia.” You talk to the bot, and it gets right to work for you.”
+Problems that once took several days to fix manually suddenly were resolved in just seconds — fundamentally transforming the experience for both employees and the IT team.
+We’re pioneering a new model for employee experience, powered by AI. Our partnership with Moveworks has enabled us to deliver a level of automation that many people don’t realize is possible.
+Ashwin Ballal
+CIO
+The Result
+    With a chatbot that engages employees, IT has time to transform the employee experience.
+Moveworks has not only made life easier for Medallia’s general workforce, but has also improved the IT team’s outlook. “With any support organization, especially IT, where you’re answering the same questions over and over, you worry about burnout and employee turnover,” Middleton said. 
+Ultimately, IT’s satisfaction with Jarvis is part of a greater success story. In Moveworks, the company has found a partner committed to exactly that goal. “Our company helps our customers — and their customers — be better,” Middleton said. “Implementing Moveworks was our way to make IT better for everyone we work with and work for.”
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Medallia
+Speed up your help desk with one thing
+Know employees' preferred channels of support — and the one really effective lever to pull to reduce wait times.
+See the data
+How AI finds answers across the enterprise
+Moveworks leverages your company’s disparate data to match questions to precise, personalized answers.
+Read the blog
+Machines learned the secrets of language
+Natural language understanding and conversational AI have streamlined interactions between people and machines.
+Learn more
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

@@ -1,0 +1,158 @@
+Respond To IT Issues However They’re Reported | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Anytime, anywhere: Respond to IT issues however they’re reported
+Ahmed Al-Bahar, Product Lead
+ October 22, 2019
+linkedin
+facebook
+twitter
+email
+We live in a world of choice. If I want to talk to my friends, I can choose to call them, text them, ping them on WhatsApp or maybe Facebook Messenger, I can email them, or even send them a letter! 
+There is no single communication channel to rule them all, and there probably never will be, because we’re all a little bit different: we have likes and dislikes, habits, behavioral traits, and experiences that make us unique. And our preferences and styles shift over time, too.
+So it should come as no surprise that when an employee is in a moment of need in the workplace — they just got locked out of their account, or their monitor won’t turn on, or they need a license for a new app — they will want to reach out for help through a channel that makes sense to them at that moment in time, for that specific situation, and for that particular issue.
+Figure 1: IT teams need to support many communications channels
+An important factor to consider is that getting help from an IT support team is something most of us do roughly once a month. Sometimes we might go months without an issue, and other months we file a bunch of tickets, all in one go. But on average, it’s a once-a-month thing, and that means that even with the best of intentions, you’ll find it hard to remember about the new “self-service portal” that your IT team rolled out a few months ago, or the “app” they told you about that you forgot to download, or that “walk-up station” that was mentioned in a company newsletter… “What floor is that on again?”
+Chatbots are the new kid on the block when it comes to IT support channels, but the truth is that many chatbots become burdened by the same issues that hurt other channels. If your employees don’t know the chatbot exists, or don’t immediately think of it in their moment of need, it’s going to be a very lonely chatbot. This is why at Moveworks we obsess about making sure the chatbot gives employees results that are so good, they’ll want to return with their next question. It’s why we specialize in the art and the science of driving the adoption of AI-powered chatbots. More on this shortly. 
+Many avenues for employee support
+When we think about the effectiveness of employee support channels, we need to consider two sides of the coin: which channels are best for employees, and which channels are best for IT service desk agents?
+Consider a good old-fashioned email. For an employee, it’s a great channel, because you can simply type out your issue, fire off an email to the service desk, and then forget about it until someone is ready to help you. But on the IT agent’s side, things are more complicated. The IT agent has the task of parsing the unstructured text of an email, and on top of that, employees are not always super explicit about what they need. If the agent needs to gather more information from the employee, back-and-forth conversations over email (to clarify the request) are notoriously slow. 
+Figure 2: Issues filed and managed via email often suffer delays in resolution
+All of this shifts the burden onto the agent. It might be easy for an employee to submit a ticket this way, but the inefficiency of email means it takes a long time for the issue to get fully resolved.
+This is why IT teams have been so keen to find alternatives, like self-service portals. Portals looked like a huge opportunity for improving IT efficiency: if only employees had the foresight to use the portal and could correctly self-diagnose their issue, if only they'd find their way to the right form and fill out all the required fields, then the IT team could implement all sorts of workflows, scripts, and automation to handle the rest. Alas, “if only” is the operative term here: truly automated self-service was the theory, but rarely the reality.
+So are portals effective?
+It’s worth pointing out that some employees do use portals. Some even prefer portals. Portals haven’t completely failed enterprise employees. But they aren’t the panacea that many had hoped for. According to the Service Desk Institute, less than 12% of organizations have realized their anticipated return on investment in self-service portals. 
+Figure 3: As portals become complex, employees find them hard to navigate 
+The logic behind portals seemed reasonably sound a few years ago. It went something like this: Amazon.com is really popular for shopping; people must love the Amazon UI experience; therefore, let’s create an “Amazon-like” web UI for IT support. And so, creating an “Amazon-like” employee experience became the mantra of many IT support teams building out portals.
+However, there are some flaws in this logic.
+First, only a small portion of people actually shop through an Amazon-like experience. Even today, Amazon represents only 5% of the retail market in the US. Even the entire e-commerce category accounts for just 14% of retail sales. So while some people do like the Amazon experience, most people still prefer to go to a physical store. Old habits die hard, in both retail and IT support. 
+Second, there is a big contextual difference between shopping and getting help. When you’re sitting down to browse an online store, you’re probably pretty relaxed; you’re up for reading a few reviews, looking at some suggested alternatives, and enjoying the whole shopping experience. But when you need urgent support, things are a little different. Imagine you’ve just been involved in a car accident. Would you want to navigate to a web page and identify which service you require, select the most relevant incident type, and then fill out a form to provide details? Or would you prefer to call the emergency services, tell them what happened, and have them figure out the best course of action? Probably the latter. In a moment of need, you want to shift the burden onto somebody else (an expert) as quickly as possible.
+Of course, your computer crashing isn’t as serious as your car crashing. But it’s important to understand the difference in mindset of someone who needs help compared with someone who needs new shoes. It’s a different experience.
+There are more things to consider here:
+Infrequent use: When employees have only one IT support issue a month, it’s difficult to instill a new ticket filing habit. How do you get them to bookmark a portal URL in their browser? Do they need to be on the VPN to use it? How do you get them to make the mental connection between having an IT issue and navigating to the portal?
+Steep learning curve: Portals are like filing systems. The IT team creates menus, sub-menus, and navigation structures to help employees find a relevant form. But portals are typically organized the way IT teams think they should be organized, and this doesn’t always make sense to employees. For example, the following series of menus and forms makes logical sense: Hardware Request > AV Equipment > Accessory Request Form. But if I need an HDMI cable for my monitor, there’s a good chance I’ll never discover this form; after all, from my perspective, I want an HDMI cable, not an Accessory.
+Generic Requests: Most portals include a “Generic Request” form, which employees can fill out if they haven’t found (or can’t be bothered to look for) a more specific form. Generic request forms typically include fields for a short description and long description. The resulting tickets look pretty similar to what you’d get via an email: highly unstructured, free-form text. We’ve seen companies where as many as 80% (!) of form completions through the portal are generic request forms; for a typical company, about 50% of form completions are generic requests. The prevalence of unstructured, generic requests defeats the entire purpose of IT support portals. We’ll share some data on this in future posts.
+Growing cost: Portals require a lot of maintenance. You have to update the form titles and descriptions, the images and workflows, the automations and integrations, the UI, the navigational structure, and so on. The initial build-out of a portal can easily take several months, and later, continuous management and maintenance usually require a dedicated team.
+Supporting employees where they are and when they need help
+When thinking about the relevancy and efficiency of channels, it’s important to understand the wider context of IT support communications beyond just filing tickets.
+Consider a few common scenarios in IT support: 
+an IT agent reaches out to an employee to clarify an ambiguity in a ticket the employee just filed;
+an IT agent reaches out to inform an employee that their request for a new software license requires a manager's approval; or
+IT proactively notifies employees because a system alert has identified an issue that affects them.
+Many of these scenarios require two-way, back-and-forth communication, which is why enterprise messaging platforms are becoming increasingly popular as a support channel.   
+When an employee needs help
+Being human, employees want an easy way of requesting help. Until recently, most employees would choose email or chatting with a live agent. Now, with enterprise chat quickly becoming the predominant way for employees to get work done, a growing number of employees prefer to engage with the IT team over chat. A statistic from Slack illustrates this point: 87% of Slack’s enterprise chat users say that chat messaging improves communication and collaboration in their organization.
+When an IT issue needs the employee’s attention
+Often an employee’s input is needed to resolve an issue. If you've just requested a new monitor, but forgot to mention what size monitor you need, then the service desk agent will add a comment to the ticket asking you which size to order. This comment generates an email, but you don't notice it in your inbox for a few days. There's a better way. A modern support system must be able to reach out to the employee in a way that gets their attention instantly and without wasting their time.
+Enterprise chat offers the solution for this. An average of 60-70% of employees are active on their enterprise chat platform each week, and that number is growing steadily. That makes chat a great way to contact the employee when the IT team needs information to help resolve the issue, or just to update the employee on progress.
+Best of all, it doesn't matter what channel the issue originated in. Even for an issue that started out as an email, a reach-out over chat will usually get a faster response from the employee.
+When IT detects a problem that the employee should know about
+A well-instrumented IT environment often knows about an issue before the affected employee is aware of it. For example, IT knows the minute an employee has exceeded the limit of failed login attempts and been locked out. In this case, a quick chat message from IT can save hours of time for the employee.
+Figure 4: IT systems can reach out to employees to alert them about issues
+Likewise, the IT team wants to be able to alert employees in advance of planned downtimes and migrations. Here, too, the IT team can reach affected employees over chat before trouble has a chance to happen.
+Intercepting issues across channels
+The cases we outlined above seem wide-ranging — when an employee needs a fast way to ask for help; when an employee has filed a ticket, but now the agent needs more information; and when IT needs to inform the employee about an issue — but what they have in common is a need to work across many channels with a minimum of burden on the employee and agent. This demands a system that can inform itself of issues across a wide range of channels, and respond appropriately.
+And that's what Moveworks has built. We've addressed this by building an AI platform that can intercept tickets across the board, seamlessly, through its integrations with other enterprise platforms. There is no new app for employees to install or portal for IT to maintain. Moveworks simply plugs into an organization’s existing infrastructure. Because Moveworks is accessible as a chatbot in enterprise chat, it’s nearly effortless for employees to ask for help. They simply type their questions or describe their issues using everyday language. Moveworks takes care of the rest and resolves the issues completely, often in just a few seconds.
+Why chat is powerful for IT communication
+Enterprise chat platforms fill a void left in the patchwork of IT-related communications that happen via phone, email, portals, and walk-up counters. A majority of employees now spend their day communicating over enterprise chat, so they’re quick to embrace an IT bot on that platform. Chat platforms are built for fast, lightweight communication, which is essential for fast IT support: employees tend to read and respond quickly to IT reach-outs over chat, regardless of whether they’re currently using their laptop or mobile device. 
+To see how this plays out in an organization that's quickly adopting chat as its main IT support channel, see the guest post from Stanley Toh, Head of Enterprise End-User Experience & Services at Broadcom. Toh talks about how his team has driven chat adoption for IT help and explains that employees have embraced chat-based support so fully that he expects to turn off telephone-based support soon for L1 issues. 
+Other relevant case studies include:
+Broadcom takes on new challenges and new employees, helped by a new AI solution
+Medallia finds success and satisfaction with Moveworks
+Nutanix gets rapid results using AI for IT support
+chatbot
+it-support
+portal
+product features
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

@@ -1,0 +1,917 @@
+
+
+
+
+
+Why are organizations choosing service desk automation? | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Why are organizations choosing service desk automation?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category-leading companies know that employee experience is important now more than ever. That’s why the best organizations pride themselves on being able to deliver incredible support to every employee — instantly.
+But, only industry-leading organizations know how to deliver the best support while also:
+
+Minimizing burnout within support teamsMeeting their employees where they are — in enterprise chat platformsDelivering equitable support across global teams at a scale
+In an era when personalized experiences are the norm, organizations are far behind in providing the same. Employees are burnt out. The last thing they need is to wait multiple days for help.
+So, organizations are using service desk automation to unlock a frictionless employee experience and optimize the IT team.
+
+
+
+
+    What is true service desk automation?
+  
+
+
+
+Service desk automation is the process of using machine learning and conversational AI to streamline repetitive tasks. It provides service agents with a single platform to resolve customer issues with minimum effort so that they can focus on high-impact work. True automation will offer employees end-to-end support, without relegating your IT agents to building out workflows.
+
+
+
+
+    What problems does automation solve?
+  
+
+
+
+Right now, agents and employees alike are having a tough time solving for fast employee support.
+Employees are unable to get fast support for three main reasons:
+Crucial information is scattered across multiple knowledge bases — making it impossible to find the right one in a timely manner.Enterprise search systems can’t match employee issues with solutions.Employees send thousands of emails to IT agents to solve simple issues, effectively overwhelming support.
+IT agents are overwhelmed because:
+They're stuck on mundane tasks, like finding the right knowledge base article.They don’t have any visibility into employee issues — preventing them from addressing the root of the problems — relegating them to a world of nonstop, low-level maintenance.Onboarding is an endless cycle of answering the same questions.
+To solve all these issues, organizations are turning to an AI service desk and adopting knowledge centered services — with great results.
+
+
+
+
+    Building an in-house tool vs buying a tool that integrates
+  
+
+
+
+When it comes to introducing service desk automation into your organization, there are two approaches you can take:
+Build your own automation processes in-house orOnboard an out-of-box solution for end-to-end automation
+There are benefits and challenges to both, so let’s dive in.
+
+
+
+
+    Build-your-own tools
+  
+
+
+
+Some organizations choose to build tools in-house. This can offer up a lot of flexibility for service teams to incorporate edge cases, save money in the long run, and align your automation strategy with your organization’s “build in-house” culture.
+If you have a large team of developers that are passionate about building dialogue flows, customizable scripts, and getting into the nitty-gritty of the building process, building your own tools can be beneficial.
+It's important to consider what resources you have on offer before building your own in-house automation tool — this approach requires a lot of manual effort, but can be hugely beneficial in the long run.
+
+
+
+
+    Out-of-the-box service desk automation
+  
+
+
+
+Other organizations choose to implement an existing automation tool. the most effective way to rapidly scale your service desk, without piling work onto your IT team or having to onboard new members. Industry-leading organizations are choosing to pursue this route for many reasons, including:
+Faster time to value. Because you don’t have to spend time building out each automation, you can start solving problems and creating impact right away.Lower cost of ownership. The right tools will need very little oversight — it won’t be necessary to dedicate an entire team to maintain it.zz
+
+
+
+
+    Benefits of Service Desk Automation
+  
+
+
+
+No matter which way you choose to automate your service desk, there’s a whole host of benefits that can create a wide-ranging impact. Automation can easily transform your business processes and make your entire organization — from IT agents to employees — a more productive, happier workforce. Let’s take a closer look:
+
+
+
+
+    1. Transform business processes
+  
+
+
+
+Employees are constantly interacting with existing business processes — through onboarding, requesting access, routine communications, and so much more. Automation is an opportunity to streamline all interactions employees have with the help desk to ease massive amounts of day-to-day friction.
+Automation is also a massive cost-savings method. It takes, on average, 30 hours for a service desk agent to resolve a ticket, whereas automation can enable self-service and give agents back their time.
+
+
+
+
+
+    2. Increase IT efficiency
+  
+
+
+
+Right now, service desk agents may spend their days running after mundane tasks — resetting passwords, routing tickets, or directing people to the right knowledge base article. With service desk automation, organizations can turn the corner towards faster resolution without overburdening agents with manual help.
+
+
+
+
+    3. Decrease employee support wait times
+  
+
+
+
+Automation can solve common problems instantly, dramatically reducing wait times for employees. Of course, there will always be issues that only a help desk agent can solve. While agents are working on that, you can automate standard employee communications — updating them on the ticket, and keeping them in the loop.
+With the right automation strategy, you can even proactively engage with employees — solving issues before they become tickets, answering questions before they become blockers.
+To put this into context, let’s apply these benefits to some everyday use cases.
+
+
+
+
+    Top 3 service desk automation use cases
+  
+
+
+
+Based on Moveworks data, we know that successful organizations use machine learning and automation for the following three use cases the most effectively:
+Resetting authenticationProvisioning softwareSending employee communications
+These use cases come up on a daily basis and every employee is blocked by them multiple times during their tenure.
+At first glance, an employee facing several challenges during their tenure doesn’t seem like a huge problem. But multiply that with every employee you have. And others who are blocked as a result. Easing day-to-day friction for every employee can be a game-changer.
+Automation is able to alleviate that pain — and more — exponentially.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

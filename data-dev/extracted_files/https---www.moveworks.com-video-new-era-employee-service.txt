@@ -1,0 +1,185 @@
+Stitch Fix Sets Gold Standard for Hybrid Communication | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Stitch Fix
+    Stitch Fix sets the gold standard for employee comms
+    Ravindra Sunku, Senior Director of IT at Stitch Fix, shares his Moveworks-powered hybrid communication strategy that keeps every stylist on the same page
+Stitch Fix is a personal style service with a mission to help men and women look great, save time, and evolve their style.
+Watch the video
+            .
+.
+Challenge
+Communicating in a way that makes it easy for employees to engage, no matter where they work
+Result
+IT uses AI to send targeted, actionable communications that inspire employees to act immediately.
+The Problem
+    Stitch Fix needed a hybrid communications strategy that put employee experience first 
+Stitch Fix has always been focused on building an amazing experience for their employees. But, like many other companies, it faced a major challenge at the beginning of the pandemic: How could IT continue to provide the same, seamless service with everyone suddenly working from home? 
+One of the biggest challenges was communication. Conventional mass communication, like emails, are often ignored when change needs to happen. If employees aren’t prepared for software migrations, security updates, and policy changes, thousands of predictable issues flood support teams’ queues. Addressing these ad hoc requests from more than 10K employees with just 12 IT agents was simply impossible.
+The Solution
+    Hybrid communication at scale with a Moveworks chatbot
+Moveworks for Employee Communications allowed Stitch Fix to craft targeted, actionable messages that cut through the noise via their chatbot, Astra. 
+By precisely targeting comms based on employees’ locations and departments, our bot dramatically increases engagement. Moveworks also has built-in and customizable proactive notifications to prevent account lockouts and expiring passwords from getting in the way of employees. Messages sent via a Moveworks bot prevent delays by allowing employees to take action directly from chat and ask follow-up questions.
+With natural language understanding, Moveworks can point every employee to the right solution, whether that’s an account unlock or a knowledge base article. People are used to self-service, and Moveworks’ AI makes it possible for everyone to solve their own issues.
+Ravindra Sunku
+Senior Director of IT, Stitch Fix
+The Result
+    With a hybrid communications strategy, Stitch Fix has unprecedented visibility into employee engagement
+There’s always been a way to communicate with employees — whether by mass email or all-hands meetings. But frequently, internal messaging is an afterthought. Using email to jumpstart change across an entire company, especially with employees working from anywhere, it’s just assumed that any big transition can take years or never happen at all. 
+With Moveworks, Stitch Fix’s campaigns don’t end after a message is sent. Moveworks provides insight into how each update performs: who’s seen it, who’s acted, and who needs a reminder — so IT can adjust its strategy in real-time. Clear engagement analytics and automated follow-up make it possible for Stitch Fix’s IT team to focus on the digital transformation efforts that matter, not the busywork.
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Send more than a message with AI
+Moveworks for Employee Comms can send targeted messages at scale, preventing issues before they happen.
+Read the blog
+Send messages that inspire action
+With Moveworks, your messages reach the right employees and make it easy for them to move forward.
+Learn more
+Boost engagement with your comms
+How can companies engage thousands of employees as effectively as people do one-on-one? 
+Read on
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

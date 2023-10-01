@@ -1,0 +1,190 @@
+Equinix Makes IT Queues Disappear With AI Triage | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Equinix
+    Equinix’s AI-powered L1 service desk makes IT queues disappear
+    Equinix transforms employee support with an AI-powered chatbot that instantly routes support requests to the right expert or group — with 96% accuracy.
+Equinix is the world’s largest interconnection and colocation platform. The company’s leading position in global market share is a tribute to the power of centralization: Its data centers allow customers to consolidate the entire digital business and reach anyone on demand via a single service.
+Download the PDF
+            96%
+Accuracy in routing IT issues to the right experts
+Challenge
+Keeping IT headcount flat while scaling a global company
+Result
+Speed up IT service delivery with an AI-powered triage ticketing system that delivers the right resolution faster, while reducing costs
+The Problem
+    Equinix asks how to instantly support a worldwide workforce
+The task of supporting a massive, distributed workforce is not an easy one, even for a company that prides itself on collaboration. Equinix’s IT headcount stands at roughly 400, and for CIO Milind Wagle, keeping that number flat while scaling the larger enterprise meant exploring automation. 
+“Our strategy is always focused on automation and scale, which is why we’ve had our sights set on AI,” Wagle said. “But for a while, it was all just marketing slides — not something we could actually put in place to transform the employee experience.”
+A particular pain point for the Equnix team was ensuring that each support ticket is routed to the right expert. Service desk agents have to remember hundreds or even thousands of assignment groups, which means that misrouted tickets are inevitable, leading to seemingly endless support queues. With Equinix’s help desk based in the Philippines while the majority of its international workforce concentrated in the US and UK, Equinix wanted to avoid having IT issues pile up in a distant time zone.
+The Solution
+    Equnix lets AI triage its support tickets
+In April 2019, Equinix launched Moveworks — better known to the company’s employees as E-Bot. Moveworks’ combination of advanced conversational AI and natural language understanding (NLU) enables E-Bot to resolve employees’ IT support issues directly in Microsoft Teams, no matter how they ask. 
+“The Moveworks bot facilitates self-service capabilities that didn’t exist before,” commented Wagle, adding that such capabilities allow his team to focus on more rewarding projects. He sees E-Bot taking on an even bigger share of the workload as Moveworks’ machine learning models continue to improve with each new interaction.
+But that’s only part of the story. Crucially, E-Bot learned to distinguish between thousands of Equinix’s IT assignment groups, triaging issues to the right experts instantly. Instead of high-touch tickets requiring time-consuming agent attention, the Moveworks Triage Skill allows E-Bot to assign the tickets it can’t finish resolving to the correct subject matter experts — with the same 96% accuracy rate achieved by help desk agents.
+Between updating passwords, creating distribution lists, unlocking accounts, provisioning software, looking up colleagues, finding conference rooms, filling out forms, and more, E-Bot transforms tedious tasks into painless conversations that last only a few seconds. Employees spend less time waiting for help — and more time on what matters.
+We’ve had our eye on AI and ML for some time, and Moveworks is the first service that actually improves IT service delivery — providing the right resolution faster — while reducing costs.
+Milind Wagle
+CIO
+The Result
+    Agent-level accuracy, at the speed of AI
+Just ten months into Moveworks’ deployment, E-Bot is resolving thousands of IT tickets automatically, end to end, without agent intervention. While on average, L1 service desks take five hours to read and then route employees’ support issues, E-Bot automatically sends each issue to the correct assignment group within 30 seconds, making the queue disappear. In fact, E-Bot now routes 82% of Equinix tickets, reducing the average lifespan of all its tickets by almost a third. 
+“My team in the Philippines doesn’t have to read through each ticket anymore, which is a big boost to productivity,” Ogle said. “We have a very high rate of employee satisfaction with IT — 96% — and that number will continue to grow as E-Bot lets agents resolve — not route — complex IT tickets. More Importantly, we will continue to be able to scale and maintain our high level of customer satisfaction without adding additional headcount.” 
+The Triage Skill has not only expedited resolution for employees but also freed up agents to focus on higher level work. Once a laborious task that took four hours out of the agents’ workday, ticket routing is increasingly done by Moveworks, automatically, on their behalf. Every issue that Moveworks routes is work saved for the service desk. For large companies, that frees up millions of dollars to reallocate toward high impact projects.
+Indeed, Moveworks is a unique asset: one that appreciates in value. Every interaction that users have with the bot is another data point to improve its models, which today benefit from 70 million IT tickets. “Moveworks is only going to get smarter over time,” Wagle said. “Anyone who’s in an IT leadership role should actively be evaluating and using this kind of AI bot.”
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Let Moveworks' AI triage your support tickets
+Moveworks' AI routes complicated support request to the right expert of group with 96% accuracy.
+Learn more
+Create your own conversational AI strategy
+A conversational AI strategy is a necessity in the modern workplace. Here's what you need...
+Read more
+13 things you can actually do with conversational AI
+There are an infinity use cases for conversational AI. Here are just 13 of many ways you can use it today.
+Read the blog
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

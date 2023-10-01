@@ -1,0 +1,188 @@
+Events Workspace: Send Messages From Any System | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Creator Studio
+Events Workspace
+Send actionable messages to your employees straight from your business systems. 
+Learn more
+Previous
+Next
+Pause
+Play
+Cost Reduction
+Trusted by CIOs and employee experience leaders everywhere 
+Never miss a single beat
+Moveworks makes it simple for you to keep up with events in every enterprise system. Every time a contract is ready to send out or your laptop is due for an upgrade, our API messages your employees directly in chat.
+Meet employees where they are
+Your employees each have a unique way they work. Some are on Slack while others use email. Events workspace simplifies multi-channel messaging, letting you reach users on their preferred platform.
+Integrate with any system in seconds
+You don’t need a team of experts to set up integrations in Events workspace. Our API is simple yet powerful, able to support thousands of messages every minute across every system, from Salesforce to Workday.
+Create smarter automations with Dynamic Flow
+Automations need to adapt to your ever-changing environment, but rule-based systems just can’t keep up. Moveworks’ Dynamic Flow gets the right users the right answer every time.
+The possibilities are endless
+Benefits enrollment
+Track budgets
+Legal team reminders
+Never miss benefits enrollment.  
+Send proactive notifications to your employees during open enrollment making sure they review their benefit selections.
+Keep your team’s budget on track.
+Give your employees real-time updates on their department’s budget to help them make informed purchasing decisions.
+Stay on top of every contract you need to review. 
+Whenever a document is ready for your Legal team to review, they will automatically receive a reminder in chat.
+“Creator Studio directly integrates with data sources like Snowflake, demonstrating a new way of approaching conversational AI development that is more accurate, has fewer points of failure, and lower latency.”
+Rory Regan
+Director of Infrastructure, Coca-Cola Consolidated
+Connect Moveworks to any enterprise system
+Download the full guide
+Connect Moveworks to any enterprise system
+Blog
+Learn how to generate any use case in seconds with Creator Studio.
+Read the blog
+Datasheet
+Creator Studio connects people to enterprise systems through natural language.
+Download the datasheet
+Guide
+Build unlimited use cases by connecting Moveworks to your enterprise systems.
+Download the guide
+Start sending AI-powered messages today.
+Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

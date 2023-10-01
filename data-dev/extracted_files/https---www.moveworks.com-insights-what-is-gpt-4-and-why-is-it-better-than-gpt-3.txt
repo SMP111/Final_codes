@@ -1,0 +1,178 @@
+What is GPT-4 and Why is it Better Than GPT-3? | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+GPT-4: Everything you need to know and why it's better than GPT-3
+Andrew Mairena, Group Product Manager
+ March 16, 2023
+linkedin
+facebook
+twitter
+email
+Forty-eight hours ago, I watched GPT-4 turn a hand-drawn sketch into a functional website. And it was all thanks to the latest AI model from OpenAI, GPT-4. 
+Since ChatGPT’s launch last November, the world has been eagerly anticipating the release of GPT-4. Now the wait is over, and after watching the mind-blowing GPT-4 demo, the race to test this tech is on.   
+Today, we'll explore everything you need to know about GPT-4, taking a closer look at…
+What is GPT-4?
+What does GPT-4 do differently?
+What can GPT-4 do for the enterprise?
+What are the potential limitations of GPT-4?
+How to use GPT-4 now
+What is GPT-4?
+GPT-4 is the latest model addition to OpenAI's deep learning efforts and is a significant milestone in scaling deep learning. GPT-4 is also the first of the GPT models that is a large multimodal model, meaning it accepts both image and text inputs and emits text outputs.
+To offer a bit of background, GPT stands for "Generative Pre-trained Transformer," and the GPT-series models have evolved significantly to become more sophisticated since the first GPT-1 model's release in 2018. 
+For example, GPT-4’s predecessor, GPT-3, was a breakthrough in the field with the ability to generate text often indistinguishable from human-generated content. And readers might be most aware of GPT-3.5, the brain behind ChatGPT.
+What is a large multimodal model?
+Large multimodal models are designed to process and generate multiple modalities, including text, images, and sometimes audio and video. These models are trained on large datasets containing text and image data, allowing them to learn the relationships between different modalities. Large multimodal models can be used in many ways, including image captioning, visual question answering, and content recommendation systems that use text and image data to provide personalized recommendations.
+Large language models only accept text inputs and produce text outputs, meaning they do not directly process or generate other media forms like images or videos.
+What does GPT-4 do differently?
+GPT-4 boasts several new impressive capabilities. These advancements are just a glimpse of what GPT-4 can do, and OpenAI plans to release further analyses and evaluation numbers soon. Here are the highlights:
+Visual Inputs: GPT-4's ability to process text and images together represents a major step forward in language modeling. This means it can now handle tasks involving both vision and language, such as generating captions for images or answering questions about a video. OpenAI’s demo showed off this update with style. GPT-4 took a photo of a hand-written website mock-up and turned it into a colorful website in a matter of moments. Initial results suggest that GPT-4 can perform similarly to state-of-the-art vision models on various tasks. 
+Steerability: With the launch of GPT-4, OpenAI provided additional controls within the GPT architecture. System messages now allow developers and users to customize the AI's style and tasks in a more significant way. For example, I can prescribe the AI's tone, word choice, and style, allowing for more nuanced and specific responses. Importantly, OpenAI has also made it possible to clearly define what is a developer instruction and what is a user instruction. While GPT-4 can still be jailbroken, the chances are now lower because the model should prioritize developer instructions.Enhanced steerability represents a significant leap forward in language modeling and could make GPT-4 an even more versatile and powerful tool for developers and users.
+How much better is GPT-4 compared to previous conversational AI models?
+Although it may be challenging to distinguish between GPT-3.5 and GPT-4 at a glance, the contrast between the two becomes apparent when tackling complex tasks. 
+GPT-4 surpasses its predecessor in terms of reliability, creativity, and ability to process intricate instructions. And it can handle more nuanced prompts compared to previous models, processing up to 32,000 tokens compared to GPT-3.5’s 4,096 tokens. To put that in more relatable context, GPT-4 can process approximately 24,000 words, while GPT-3.5 is limited to about 3,000 words.
+Benchmarking GPT-4's performance
+To gauge GPT-4’s performance compared to previous GPT models, OpenAI conducted a series of evaluations and tests across various benchmarks detailed below:
+OpenAI tested GPT-4's performance on language-based exams designed for humans, including the Uniform Bar Exam, LSAT, and SAT Math. Compared to GPT-3, GPT-4 showed significant performance improvements, achieving higher percentiles on all exams tested.Although these exams aren't the only measure of intelligence, they serve as a way to assess comprehension. GPT-4 can better understand context in complex enterprise applications and provide more intelligent responses.
+GPT-4's ability to process and respond to images makes it multimodal, enabling it to support a broader range of enterprise applications and workflows than previous models. Considering OpenAI's Whisper model, we wouldn't be surprised if voice capabilities are included in future GPT versions.
+OpenAI tested GPT-4’s multilingual abilities by translating a suite of 14,000 multiple-choice problems in the MMLU benchmark into different languages using Azure Translate. The evaluation found that GPT-4 outperforms the English-language performance of GPT-3.5 and other large language models, including low-resource languages such as Latvian, Welsh, and Swahili.
+GPT-4's safety and precision surpass those of GPT-3.5. Thanks to reinforcement learning via human feedback, GPT-4 is 82 percent less likely to respond to requests for content that OpenAI prohibits and 60 percent less likely to fabricate information.
+Example GPT-4 applications in the enterprise
+GPT-4's advanced capabilities have profound implications for various industries and applications. With its ability to handle more complex and nuanced instructions, GPT-4 is ideal for support, sales, content moderation, and programming.
+Here are some ways GPT-4 alone can aid different teams in the enterprise today:
+IT use cases:
+Recommend a solution to an image of a broken piece of hardware
+Auto-generate knowledge articles on the fly
+Create summaries of long or verbose support tickets
+Human resources use cases:
+Summarize and pull highlights from performance reviews
+Auto-generate internal communications for Open Enrollment
+Create onboarding programs tailored to specific departments and roles
+Finance use cases:
+Help draft negotiation letters for vendors and suppliers
+Automate data entry for complex financial analysis
+Convert vendor agreements in image form to text
+Sales use cases:
+Auto-generate outreach for different personas
+Format a photo of a price quote for a billing tool
+Summarize and communicate technical topics succinctly
+Marketing use cases:
+Create slides or graphics based on drawn images
+Write copy for email or ad campaigns
+Turn hand-drawn notes into landing page mock-ups
+The enterprise isn’t the only place GPT-4 will have an impact. Here are some example applications already in development:
+Duolingo: GPT-4 acts as an AI conversation partner for people looking to learn a new language
+Be My Eyes: GPT-4’s new visual input capability is being used to support people who are blind or have low vision.
+Stripe: GPT-4 is used to streamline the user experience and combat fraud.
+Morgan Stanley: GPT-4 was deployed to help organize the financial giant’s knowledge base.
+Khan Academy: GPT-4 can help students with an instant one-on-one tutor.
+Here at Moveworks, our team already has access to the API, and we’re actively exploring how this update can continue to up-level our AI stack and deliver more value to our customers.
+What are the potential challenges and limitations of GPT-4?
+With the launch of GPT-4, it’s essential to recognize the potential challenges and limitations that may come with this new model. Despite the significant advancements it clearly demonstrated in its recent demo, GPT-4 is not immune to the current concerns we have observed in previous GPT-series models.
+One of the significant issues is the risk of hallucinations, which refer to the model's generation of false or inaccurate information. Additionally, there is a concern about harmful content, disinformation, and influence, which can have severe consequences. 
+It may seem counterintuitive, but as models become more accurate and provide truthful information in familiar areas, hallucinations can actually become more dangerous. This is because users may develop trust in the model, even when it generates false information. However, OpenAI has acknowledged these challenges in the GPT-4 system card, where they identify the same concerns present in GPT-3.
+Moreover, GPT-4 will need real-time data access to provide relevant and up-to-date information, which is crucial, especially in dynamic enterprise environments. So there is a need for continuous monitoring and improvement of GPT-4 to ensure its effectiveness and accuracy.
+Lastly, we can’t overlook ethical concerns around the use of AI in customer interactions. As GPT-4's capabilities expand, it is essential to consider how it may affect human interaction and ensure that its use aligns with ethical principles. While GPT-4 holds tremendous promise that cannot be understated, addressing these challenges and limitations will be crucial to its success and responsible use.
+How to use GPT-4 now
+To use GPT-4 now, developers can sign up for the waitlist to get rate-limited access to the API. OpenAI will gradually increase availability and rate limits to balance demand with capacity. Developers can get prioritized API access to GPT-4 for contributing model evaluations to OpenAI Evals. 
+ChatGPT Plus subscribers will have access to GPT-4 on chat.openai.com with a usage cap, although API access will still be through the waitlist. Free access to GPT-4 is not yet available, and its release date is to be determined.
+GPT-4: OpenAI's most impressive deep learning model yet
+GPT-4 is the latest and most remarkable addition to OpenAI's deep learning efforts. It is a large multimodal model that can accept both image and text inputs, displaying human-level performance on various professional and academic benchmarks. 
+With its ability to process text and images together, GPT-4 can perform tasks that involve both vision and language, such as generating captions for images or answering questions about a video. 
+GPT-4's enhanced steerability is another significant improvement over its predecessor, GPT-3, making it an even more versatile and powerful tool for developers and users alike. 
+GPT-4 surpasses its predecessor in terms of reliability, creativity, and ability to process intricate instructions, making it a significant milestone in scaling up deep learning.
+With its potential to improve productivity, enhance decision-making, and streamline workflows, GPT-4 is poised to become a game-changer for businesses across industries. As natural language processing and machine learning evolve in the coming months, GPT-4 represents a significant step forward in developing intelligent systems that can understand and respond to human language in more sophisticated ways.
+Contact Moveworks to learn how AI can supercharge your workforce's productivity.
+conversational
+technology
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

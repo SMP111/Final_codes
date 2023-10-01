@@ -1,0 +1,301 @@
+AI Terms Glossary: AI Terms To Know In 2023 | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+AI Term Glossary
+Your guide to AI terms curated by the Moveworks AI team.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+A
+                      AI Copilot
+                      An AI copilot is a conversational interface that uses large language models to support users in various tasks and decision-making processes across multiple domains within an enterprise environment.
+                      Adapter
+                      Adapters are an advanced method for making pre-trained AI models adaptable to new tasks without complete retraining. These modules save time, money, and resources by efficiently repurposing existing models for different tasks in areas like natural language processing, computer vision, and robotics.
+                      Annotation
+                      Annotation is the process of labeling data with additional information to help machine learning algorithms understand and learn.
+                      Artificial General Intelligence (or "AGI")
+                      Artificial General Intelligence (AGI) refers to an AI system that possesses a wide range of cognitive abilities, much like humans, enabling them to learn, reason, adapt to new situations, and devise creative solutions across various tasks and domains, rather than being limited to specific tasks as narrow AI systems are.
+                      Artificial Intelligence (or “AI”)
+                      The simulation of human intelligence in machines that are programmed to think and learn like humans. Example: A self-driving car that can navigate and make decisions on its own using AI technology.
+                      Associative Memory
+                      Associative memory refers to a system's ability to store, retrieve, and process related information based on connections between elements, enabling it to efficiently identify and use relevant data for decision-making.
+C
+                      ChatGPT
+                      A chat interface built on top of GPT-3.5. GPT-3.5 is a large language model developed by OpenAI that is trained on a massive amount of internet text data and fine-tuned to perform a wide range of natural language tasks. Example: GPT-3.5 has been fine-tuned for tasks such as language translation, text summarization, and question answering.
+                      Chatbot
+                      A user-friendly interface that allows the user to ask questions and receive answers. Depending on the backend system that fuels the chatbot, it can be as basic as pre-written responses to a fully conversational AI that automates issue resolution.
+                      Controllability
+                      Controllability is the ability to understand, regulate, and manage an AI system's decision-making process, ensuring its accuracy, safety, and ethical behavior, and minimizing the potential for undesired consequences.
+                      Conversational AI
+                      A subfield of AI that focuses on developing systems that can understand and generate human-like language and conduct a back-and-forth conversation. Example: A chatbot that can understand and respond to customer inquiries in a natural and human-like manner.
+                      Cost of Large Language Models
+                      The cost of large language models primarily stems from their size and complexity, which demand significant computational power, storage, and resources for training and deployment. These factors can result in substantial expenses for building, maintaining, and using such models, sometimes amounting to several dollars per conversation or thousands of dollars per month. 
+D
+                      Data Augmentation
+                      Data Augmentation is a technique used to artificially increase the size and diversity of a training set by creating modified copies of the existing data. It involves making minor changes such as flipping, resizing, or adjusting the brightness of images, to enhance the dataset and prevent models from overfitting. 
+                      Deep Learning
+                      A subfield of ML that uses neural networks with multiple layers to learn from data. Example: A deep learning model that can recognize objects in an image by processing the image through multiple layers of neural networks.
+                      Deterministic Model
+                      A deterministic model follows a specific set of rules and conditions to reach a definite outcome, operating on a cause-and-effect basis.
+                      Discriminative Models
+                      Models that classify a data example and predict a label. For example, a model that identifies whether a picture is a dog or a cat.
+F
+                      Fine Tuning
+                      The process of adapting a pre-trained model to a specific task by training it on a smaller dataset. For example, an image classification model trained on all intersection pictures can be fine turned to detect when a car runs a red light. At Moveworks, we’ve been fine-tuning LLMs for enterprise support for years.
+                      Foundation Model
+                      Foundation models are a broad category of AI models which include large language models and other types of models such as computer vision and reinforcement learning models. They are called "foundation" models because they serve as the base upon which applications can be built, catering to a wide range of domains and use cases.
+G
+                      GPT-3
+                      GPT-3 is the 3rd version of the GPT-n series of models. It has 175 billion parameters — knobs that can be tuned — with weights to make predictions. Chat-GPT uses GPT-3.5, which is another iteration of this model.
+                      GPT-4
+                      GPT-4 is the latest model addition to OpenAI's deep learning efforts and is a significant milestone in scaling deep learning. GPT-4 is also the first of the GPT models that is a large multimodal model, meaning it accepts both image and text inputs and emits text outputs.
+                      Generative AI
+                      Generative AI models create new data by discovering patterns in data inputs or training data. For example, creating an original short story based on analyzing existing, published short stories.
+                      Generative adversarial networks (or "GANs")
+                      GANs are a powerful type of neural network capable of generating new, never-seen-before data that closely resembles the training data.
+                      Generative Pre-trained Transformer (or “GPT”)
+                      A type of deep learning model trained on a large dataset to generate human-like text, the underlying architecture of ChatGPT
+                      Grounding
+                      Grounding is the process of anchoring artificial intelligence (AI) systems in real-world experiences, knowledge, or data. The objective is to improve the AI's understanding of the world, so it can effectively interpret and respond to user inputs, queries, and tasks. Grounding helps AI systems become more context-aware, allowing them to provide better, more relatable, and relevant responses or actions.
+H
+                      Hallucination
+                      Hallucination refers to a situation wherein an AI system, especially one dealing with natural language processing, generates outputs that may be irrelevant, nonsensical, or incorrect based on the input provided. This often occurs when the AI system is unsure of the context, relies too much on its training data, or lacks a proper understanding of the subject matter.
+I
+                      Instruction-tuning 
+                      Instruction-tuning is an approach where a pre-trained model is adapted to perform specific tasks by providing a set of guidelines or directives that outline the desired operation.
+L
+                      Large Language Model (or “LLM”)
+                      A type of deep learning model trained on a large dataset to perform natural language understanding and generation tasks. There are many famous LLMs like BERT, PaLM, GPT-2, GPT-3, GPT-3.5, and the groundbreaking GPT-4. All of these models vary in size (number of parameters that can be tuned), in the breadth of tasks (coding, chat, scientific, etc.), and in what they're trained on.
+                      Low-code
+                      Low-code is a visual approach to software development that enables faster delivery of applications through minimal hand-coding.
+M
+                      Machine Learning (or “ML”)
+                      A subfield of AI that involves the development of algorithms and statistical models that enable machines to improve their performance with experience. Example: A machine learning algorithm that can predict which customers are most likely to churn based on their past behavior.
+                      Multi-hop Reasoning
+                      Multi-hop is a term often used in natural language processing and, more specifically, machine reading comprehension tasks. It refers to the process by which an AI model retrieves answers to questions by connecting multiple pieces of information present in a given text or across various sources and systems, rather than directly extracting the information from a single passage. 
+                      Multimodal Language Model
+                      Similar to a large language model, a multimodal language model is a type of deep learning model trained on large datasets, but unlike large language models which are only trained on textual data, multimodal language models are trained on both textual and non-textual data. This allows it to generate responses to multiple input modalities, like text, images, audio, and video.
+N
+                      N-Shot Learning
+                      Zero/Single/Few shot learning are variations of the same concept – providing a model with little or no training data to classify new data and guide predictions. A “shot” represents a single training example. Fun fact: Within the GPT prompt, you can ask for “N” examples to improve the accuracy of the response. 
+                      Natural Language Ambiguity
+                      Natural language ambiguity refers to situations where a word, phrase, or sentence can have multiple meanings, making it challenging for both humans and AI systems to interpret correctly. 
+                      Natural Language Generation (or “NLG”)
+                      A subfield of AI that produces natural written or spoken language. 
+                      Natural Language Processing (or “NLP”)
+                      A subfield of AI that involves programming computers to process massive volumes of language data. Focuses on transforming free-form text into a standardized structure.
+                      Natural Language Understanding (or “NLU”)
+                      A subtopic of NLP that analyzes text to glean semantic meaning from written language. That means understanding context, sentiment, intent, etc.
+                      Neural Network
+                      A machine learning model inspired by the human brain's structure and function that's composed of layers of interconnected nodes or "neurons." Example: A neural network that can recognize handwritten digits with high accuracy.
+                      No-code
+                      No-code is an approach to designing and using applications that doesn't require any coding or knowledge of programming languages.
+O
+                      OpenAI
+                      The organization that developed ChatGPT. More broadly speaking, OpenAI is a research company that aims to develop and promote friendly AI responsibly. Example: OpenAI's GPT-3 model is one of the largest and most powerful language models available for natural language processing tasks.
+                      Optimization
+                      The process of adjusting the parameters of a model to minimize a loss function that measures the difference between the model's predictions and the true values. Example: Optimizing a neural network's parameters using a gradient descent algorithm to minimize the error between the model's predictions and the true values.
+                      Overfitting
+                      A problem that occurs when a model is too complex, performing well on the training data but poorly on unseen data. Example: A model that has memorized the training data instead of learning general patterns and thus performs poorly on new data.
+P
+                      Parameter-efficient Fine-tuning (or "PEFT")
+                      Parameter-Efficient Fine-Tuning, also known as PEFT, is an approach that helps you improve the performance of large AI models while optimizing for resources like time, energy, and computational power. To do this, PEFT focuses on adjusting a small number of key parameters while preserving most of the pretrained model's structure.
+                      Pre-training
+                      Training a model on a large dataset before fine-tuning it to a specific task. Example: Pre-training a language model like ChatGPT on a large corpus of text data before fine-tuning it for a specific natural language task such as language translation.
+                      Probabilistic Model
+                      A probabilistic AI model makes decisions based on probabilities or likelihoods.
+                      Prompt Engineering
+                      Identifying inputs — prompts — that result in meaningful outputs. As of now, prompt engineering is essential for LLMs. LLMs are a fusion of layers of algorithms and, consequently, have limited controllability with few opportunities to control and override behavior. An example of prompt engineering is providing a collection of templates and wizards to direct a copywriting application.
+R
+                      Reasoning
+                      AI reasoning is the process by which artificial intelligence systems solve problems, think critically, and create new knowledge by analyzing and processing available information, allowing them to make well-informed decisions across various tasks and domains.
+                      Recursive Prompting
+                      Recursive prompting is a strategy for guiding AI models like OpenAI's GPT-4 to produce higher-quality output. It involves providing the model with a series of prompts or questions that build upon previous responses, refining both the context and the AI's understanding to achieve the desired result. 
+                      Reinforcement Learning
+                      A type of machine learning in which a model learns to make decisions by interacting with its environment and receiving feedback through rewards or penalties. GPT uses reinforcement learning from human feedback. When tuning GPT-3, human annotators provided examples of the desired model behavior and ranked outputs from the model.
+                      Responsible AI
+                      Responsible AI refers to the approach of creating, implementing, and utilizing AI systems with a focus on positively impacting employees, businesses, customers, and society as a whole, ensuring ethical intentions and fostering trust, which in turn enables companies to confidently scale their AI solutions.
+S
+                      Sequence Modeling
+                      A subfield of NLP that focuses on modeling sequential data such as text, speech, or time series data. Example: A sequence model that can predict the next word in a sentence or generate coherent text.
+                      Speech-to-text
+                      The process of converting spoken words into written text.
+                      Stacking
+                      Stacking is a technique in AI that combines multiple algorithms to enhance overall performance. By blending the strengths of various AI models, stacking compensates for each model's weaknesses and achieves a more accurate and robust output in diverse applications, such as image recognition and natural language processing.
+                      Steerability
+                      AI steerability refers to the ability to guide or control an AI system's behavior and output according to human intentions or specific objectives. This involves designing AI models with mechanisms that understand and adhere to the preferences provided by users, while avoiding unintended or undesirable outcomes. Improving steerability requires ongoing research and refinement, including techniques like fine-tuning, rule-based systems, and implementing additional human feedback loops during AI development.
+                      Supervised Learning
+                      A type of machine learning in which a model is trained on labeled data to make predictions about new, unseen data. Example: A supervised learning algorithm that can classify images of handwritten digits based on labeled training data.
+T
+                      Text-to-speech
+                      Text-to-speech (TTS) is a technology that converts written text into spoken voice output. It allows users to hear written content being read aloud, typically using synthesized speech.
+                      Tokenization
+                      The process of breaking text into individual words or subwords to input them into a language model. Example: Tokenizing a sentence "I am ChatGPT" into the words: “I,” “am,” “Chat,” “G,” and “PT.”
+                      Transformer
+                      A type of neural network architecture designed to process sequential data, such as text. Example: The transformer architecture is used in models like ChatGPT for natural language processing tasks.
+U
+                      Unsupervised Learning
+                      A type of machine learning in which a model is trained on unlabeled data to find patterns or features in the data. Example: An unsupervised learning algorithm that can cluster similar images of handwritten digits based on their visual features.
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

@@ -1,0 +1,95 @@
+Instant IT Issue Resolution with Moveworks on Microsoft Teams
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+    Moveworks
+MOVEWORKS AND MICROSOFT TEAMS BRING INSTANT I.T. ISSUE RESOLUTION.
+Slow IT support limits the productivity of your workforce. An employee submits, on average, 1.1 IT tickets per month, with a typical wait time of five hours before an agent sees the ticket, and three days before it’s resolved. More than 60% of these tickets could be resolved entirely by AI.Moveworks is the cloud-based AI platform that’s resolving issues and answering questions right now in some of the largest enterprises in the world. Instead of tracking issues, we use advanced AI to solve them, instantly—without agent intervention. 
+We apply machine learning and natural language understanding (NLU) at every step. To understand the request, identify the optimal resolution, and then automate the actions to complete the task.Moveworks delivers resolution from day one and gets smarter with every interaction. Employees chat with the Moveworks bot in everyday language using Microsoft Teams. The bot resolves issues instantly through its integrations with IT systems, including Active Directory, Azure AD, Office 365, and System Center Orchestrator, and it answers questions using knowledge hosted in Microsoft SharePoint. 
+Key Benefits
+Microsoft Teams becomes the unified IT support hubIntegrating with Moveworks enables Microsoft Teams to become a unified, natural language UI/UX for enterprise apps and services, including ServiceNow.
+Faster adoption of Microsoft TeamsGetting IT support is a problem for every employee. The Moveworks and Microsoft Teams integration allows enterprises to demonstrate the benefits of messaging to employees across the entire organization. As a result, employees organically adopt Microsoft Teams when they see it delivers faster IT support.
+Better employee experienceMoveworks autonomously resolves, on average, 40% of all IT support tickets with a resolution time of 60 seconds. Employees get their IT support issues solved in seconds instead of days—all with a simple, natural language chat in Microsoft Teams.
+More ROI from existing automationEnterprises running Microsoft Teams and Moveworks derive better ROI on their existing automated services. Moveworks makes this possible because its conversational AI understands the IT issue when the employee reports it in a Microsoft Teams chat. Moveworks takes immediate action, executing the appropriate automated service.
+Equinix delivers IT answers and help with an AI chatbot in Microsoft Teams
+“Moveworks is a rare breed of technology that immediately provides value back that we can invest in other areas of IT.”
+Milind Wagle, CIO, Equinix
+View the case study
+    More Moveworks/Teams success stories
+        Interested? Learn more?
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

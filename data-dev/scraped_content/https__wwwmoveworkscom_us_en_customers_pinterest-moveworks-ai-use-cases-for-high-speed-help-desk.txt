@@ -1,0 +1,1128 @@
+
+
+
+
+
+Pinterest Uses AI to Power Its High-Speed Help Desk | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Customers
+
+
+
+          Pinterest
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    How this AI bot gives Pinterest a ridiculously fast help desk
+  
+
+
+
+
+    Pinterest uses a Moveworks bot to support its employees in seconds, whether they need a new password, a software license, or a critical update.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pinterest is the home of inspiration. More than 400 million users around the globe rely on the social platform to find and share ideas in real time.
+
+Watch the video
+
+
+
+
+
+
+            99%
+
+
+Reduction in issues rate for Pinterest’s top comms campaign
+
+
+
+Challenge
+Employees don’t learn about critical changes until it’s too late, so IT is stuck on routine issues — instead of preventing future problems.
+
+ 
+
+
+Result
+Pinterest can target specific employees, sending them dynamic messages via Slack and helping them take action immediately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem
+
+    Pinterest was stuck in a failed communication loop
+  
+
+
+
+If you’re an IT leader, you know you need help desk automation to keep your team moving fast. But with so many automation and AI solutions on the market, it’s hard to pick the right strategy.
+Derrick Diaz, Head of Global Helpdesk at Pinterest, saw automation as a solution to the communication issues straining his IT team. However, when it comes to deploying automation, he felt like there are two bad options: create simple automated workflows that need constant maintenance, or buy experimental AI solutions that take years to deliver value.
+Those options weren’t going to cut it. Diaz needed a way to engage employees and communicate critical updates now. With information on tool migrations or scheduled maintenance getting lost in employees’ inboxes and creating more and more preventable issues for his IT team, he looked for a way to scale automation and implement and AI solutions that propelled employees forward, instead of holding them back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Solution
+
+    Pinterest takes a practical approach to AI with Moveworks
+  
+
+
+
+Now at Pinterest, help desk automation is a reality — and it has a friendly face. Pinterest uses an AI bot named K9, powered by Moveworks, to support its employees in seconds, whether they need a new password, a software license, or a critical update.
+While in the past employees couldn’t find the right email, FAQ, or knowledge base article, employees can reach out to K9 on Slack and immediately get the support they need. The trick is giving employees a single place to easily get help at work. By steering everyone towards K9 on Slack, Diaz knows that employees can get fast, accurate help just by asking their questions conversationally. 
+As a result, the Pinterest help desk is no longer spending the majority other their days fighting fires. Instead, they’ve turned to a proactive approach: sending targeted communications through K9. By letting people know about what’s coming, agents can stop issues before they happen. For that very reason, the help desk can spend more of their time working on the digital transformation efforts that matter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It shouldn’t be the employee’s job to find IT. When an employee needs something, they should get it ASAP, just by asking. And that’s what Moveworks does. That’s joyous. That’s fun. And that’s something that’s going to scale the business.
+
+
+
+Derrick Diaz
+Head of Global Helpdesk, Pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Result
+
+    Pinterest prevents issues with targeted communication
+  
+
+
+
+The most impactful thing Pinterest is doing with K9 is sending targeted messages to prevent issues, before they happen. Most IT teams communicate using no-reply emails, which either confuse employees or don’t get read at all.
+But with K9, Diaz and his team can message only the employees they want, since it lets them filter by location, department, seniority, or employees who haven’t responded to a previous message. By meeting employees where they already are — on Slack — and the help desk can set each message to go out at the right time of day, adjusting for different time zones.
+The best part is that K9 isn’t just sending a static message. It can answer follow-up questions by searching our entire knowledge base, and it helps employees take the right action. And on the admin side, Pinterest can see exactly how many employees have read the message, and how many have taken the action so far.
+With Moveworks for Employee  Comms, Pinterest has been able to massively reduce issues. In fact, the top performing comms campaign reduced follow-on issues by 99 percent! At the end of the day, it’s clear that Pinterest is well on its way to transforming the employee experience by driving efficient communication.
+← Back to all Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    Key Integrations
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about Moveworks
+
+
+
+
+Send messages that inspire action
+With Moveworks, your messages reach the right employees and make it easy for them to move forward.
+
+Learn more
+
+
+
+
+
+
+
+
+How Robert Half used AI-powered comms
+Read how AI-powered communication was the key to Robert Half's digital transformation.
+
+Read the blog
+
+
+
+
+
+
+
+
+Boost engagement with your comms
+How can companies engage thousands of employees as effectively as people do one-on-one? AI.
+
+See for yourself
+
+
+
+
+
+
+
+
+
+
+
+ Create the world's best workplace
+
+ Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

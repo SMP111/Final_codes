@@ -1,0 +1,188 @@
+Wellstar Saw AI Chatbot ROI In Days With Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Wellstar
+    Wellstar’s chatbot delivered ROI in days
+    Instead of manually building a toolkit chatbot, Wellstar transformed its employee experience with AI that works out of the box.
+Wellstar is the largest healthcare system in Georgia. The non-profit pledges to put patients first by investing in innovative, life-saving technologies, providing convenient access to medical care, and ensuring the highest safety standards.
+Download the PDF
+            >100K
+Conversations with the Moveworks bot
+Challenge
+Automating personalized support for over 26K healthcare employees without overextending IT                                        
+Result
+Employees self-service their own support, engaging in over 100K one-on-one conversations with their Moveworks bot
+The Problem
+    Wellstar wanted to put its people first
+Dianne Kokotoff, Executive Director of Enterprise Solutions and Automation at Wellstar, wanted to extend Wellstar’s focus on specialized support to the company’s employees. But building a better employee experience wouldn’t be as simple as updating a few policies.
+At Wellstar, the question was not choosing to automate but choosing how to automate. Like many organizations before them, Kokotoff and her team’s options were to either manually build out a solution using a conventional chatbot “toolkit” or find an option that works out of the box. And they needed ROI fast.
+Valued team members, from frontline medical professionals to IT, were burning out, just from dealing with frustrating tech problems. That’s why Kokotoff and her team were looking for a solution that could be up and running fast.
+Kokotoff and Larry Ross, the ServiceNow manager, wanted a super personalized, conversational support experience. But creating a homegrown chatbot with this level of sophistication would require a monumental amount of work upfront, work their team was not equipped to manage. To do this, they’d need a partner like Moveworks.
+The Solution
+    An AI chatbot that works out of the box
+In May 2020, Wellstar deployed its Moveworks bot, better known to the team as WALi. Powered by the Moveworks Intelligence Engine™, chatbot WALi delivered ROI on day one — understanding company lingo, automatically syncing with backend systems, and adapting to user feedback — so the IT team is free to focus on other priorities instead of constantly maintaining dialog flows. 
+Today, WALi ensures employees get the help they need through natural conversations. Whether a frontline worker is locked out of their account or an office-based admin has a question about a new policy — the bot understands each request, determining the most relevant solutions in seconds.
+Quote, Author, Company: “I’ve built bots, and I’ve bought bots. Unless you have a huge development team, I recommend you buy. That way, you can get all the expertise, the knowledge, the wisdom, and the talent of the people involved.” — Larry Ross, ServiceNow Manager, Wellstar
+I’ve built bots, and I’ve bought bots. Unless you have a huge development team, I recommend you buy. That way, you can get all the expertise, the knowledge, the wisdom, and the talent of the people involved.
+Larry Ross
+ServiceNow Manager
+The Result
+    The best employee experience puts people first
+Kokotoff and Ross have made a concerted effort to always think about the end-user first, instead of just clicking boxes. This approach is harder than the status quo, but it’s certainly paid off. 
+By investing time and energy into building the best employee experience — not manually building a bot — they were able to launch a chatbot that genuinely helps their employees do their best work and delivers ROI instantly.
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Why Wellstar chose Moveworks
+Wellstar uses conversational AI to instantly support its healthcare workers.
+Watch the video
+Why Wellstar supports its people with AI
+Wellstar’s employees do their best work with conversational AI that puts them first.
+See the interview
+Why conversational AI is the future
+Learn what it takes to engineer a chatbot capable of real conversation.
+Read the blog
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

@@ -1,0 +1,935 @@
+
+
+
+
+
+
+The Practical Guide to NLP and NLU | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+main menu
+
+
+
+
+
+
+
+Search for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Platform
+
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+
+
+Solutions
+
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+
+Customer Stories
+Resources
+
+Resource Center
+Blog
+Help Center
+
+Company
+
+About us
+Careers
+Newsroom
+Contact us
+Trust
+
+
+
+
+
+
+
+
+
+
+
+Demo request
+skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+
+
+
+
+
+
+        First Name *
+      
+
+
+
+
+
+
+
+        Last Name *
+      
+
+
+
+
+
+
+
+        Email *
+      
+
+
+
+
+
+
+
+        Company *
+      
+
+
+
+
+
+
+
+        Phone
+      
+
+
+
+
+
+
+
+        How did you hear about us? *
+      
+
+
+
+
+
+
+
+
+
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+
+
+
+
+
+
+
+
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+
+
+  Close this modal
+  
+
+
+
+
+
+  Go back
+  
+back to form
+
+
+
+
+back to tab selection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Practical Guide to NLP and NLU
+
+
+
+
+
+
+
+
+
+Jiang Chen, VP of Machine Learning
+
+
+Tomasz Jurczyk, Machine Learning Engineer
+
+
+
+
+
+
+
+
+
+
+
+ December 22, 2020
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+      
+
+
+
+
+
+
+facebook
+      
+
+
+
+
+
+
+twitter
+      
+
+
+
+
+
+
+email
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many people assume computers will never understand human language. But as a company that builds artificial intelligence to do just that, it's our job to overcome this assumption. There's no doubt that AI systems are capable of solving remarkably complicated problems. Why should language — perhaps the most impactful problem of all — be any different?
+
+So here's the challenge: making inherently ambiguous language more like the highly structured world of chess. And to develop that structure, two techniques have proven equally critical: natural language processing (NLP) and natural language understanding (NLU). NLP organizes language into the structured data that computers require to process, while NLU interprets that data to derive meaning.
+To appreciate the strides computers have already made toward understanding language, let’s talk about one of the first major challenges put before them: chess. Chess is no less complex than language, and yet computers were capable of defeating even chess grandmasters decades ago. By considering a huge amount of situational data, chess-playing programs not only figure out their next move; they also anticipate the next three moves, five moves, and even ten moves down the line.
+ 
+In this blog, we’ll cover:
+
+How NLP gives structure to unstructured language
+How NLU uses such structure to figure out a user's intent
+Why NLP and NLU must work in tandem to understand language
+
+NLP: structuring unstructured language
+To learn why computers have struggled to understand language, it’s helpful to first figure out why they're so competent at playing chess. Chess, needless to say, isn’t easy. There are more possible moves in a game than there are atoms in the universe.
+But while playing chess isn’t inherently easier than processing language, chess does have extremely well-defined rules. There are certain moves each piece can make and only a certain amount of space on the board for them to move. Computers thrive at finding patterns when provided with this kind of rigid structure. Yet language is not so formulaic. It breaks rules all the time.
+In the lingo of chess, NLP is processing both the rules of the game and the current state of the board. How can you move your bishop? Where is your opponent's queen? An effective NLP system takes in language and maps it — applying a rigid, uniform system to reduce its complexity to something a computer can interpret. Matching word patterns, understanding synonyms, tracking grammar — these techniques all help reduce linguistic complexity to something a computer can process.
+Figure 1: At its most basic level, NLP involves treating each utterance as a unique string of words, with minimal interpretation. In this example — a chatbot only knows the preprogrammed phrase “I need Zoom,” and it is unable to respond to slightly altered phrasing.
+The easiest way to structure unstructured language is to treat each unique utterance as its own data point. The equivalent in chess would be making moves completely dependent on the opponent’s last move: advancing a pawn simply because the other person moved their rook. Obviously, this is a losing strategy — both in chess and in language learning. 
+While creating a chatbot like the example in Figure 1 might be a fun experiment, its inability to handle even minor typos or vocabulary choices is likely to frustrate users who urgently need access to Zoom. While human beings effortlessly handle verbose sentences, mispronunciations, swapped words, contractions, colloquialisms, and other quirks, machines are typically less adept at handling unpredictable inputs.
+Figure 2: The goal of NLP is to provide structure to unstructured, ambiguous language.
+In Figure 2, we see a more sophisticated manifestation of NLP, which gives language the structure needed to process different phrasings of what is functionally the same request. With a greater level of intelligence, NLP helps computers pick apart individual components of language and use them as variables to extract only relevant features from user utterances.
+With NLP, we reduce the infinity of language to something that has a clearly defined structure and set rules. To put it simply, we make language more like chess. Crucially, however, the job isn’t done yet. 
+NLU: playing the language game
+Assembling the information extracted by NLP, NLU focuses primarily on comprehension: understanding utterances in the context of the broader conversation to choose the right response.
+A number of advanced NLU techniques use the structured information provided by NLP to understand a given user's intent. These techniques include paraphrase detection, which determines whether a pair of utterances has the same meaning, and topic switching, which enables AI to follow a non-linear conversation that naturally jumps around different subjects.
+Figure 3: NLU goes beyond processing language at face value: it illuminates a user’s underlying intent.
+NLU is an integral part of NLP. If NLP is about understanding the state of the game, NLU is about strategically applying that information to win the game. Thinking dozens of moves ahead is only possible after determining the ground rules and the context. Working together, these two techniques are what makes a conversational AI system a reality. Consider the requests in Figure 3 — NLP’s previous work breaking down utterances into parts, separating the noise, and correcting the typos enable NLU to exactly determine what the users need.
+While NLP and NLU are not interchangeable terms, they both work toward the end goal of understanding language. There might always be a debate on what exactly constitutes NLP versus NLU, with specialists arguing about where they overlap or diverge from one another. But, in the end, NLP and NLU are needed to break down complexity and extract valuable information.
+Figure 4: Both NLP and NLU play an important role in understanding a user’s request, but the line where one approach ends and the other begins is blurry.
+The endgame of language understanding
+To win at chess, you need to know the rules, track the changing state of play, and develop a detailed strategy. Understanding language involves the same three elements. And like playing chess, the key is constant improvement. Chess and language present more or less infinite possibilities, and neither have been "solved" for good. Yet the more we know, the better decisions we make. 
+By working diligently to understand the structure and strategy of language, we’ve gained valuable insight into the nature of our communication. Building a computer that perfectly understands us is a massive challenge, but it’s far from impossible — it’s already happening with NLP and NLU.
+
+Contact  Moveworks to learn how AI can supercharge your workforce productivity.
+
+
+
+
+
+
+
+
+
+
+
+technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More blog posts
+
+
+
+
+
+
+
+
+How to unlock continual service improvement with AIOps
+
+
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How conversational AI can drive mission success for the public sector
+
+
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+
+
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How conversational AI is transforming healthcare
+
+
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Moveworks uses LLMs to create a seamless conversational AI experience
+
+
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How AI is changing IT operations analytics
+
+
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Subscribe to our blog
+  
+    Get notified about Moveworks’ latest posts.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Customers
+
+
+Resources
+
+
+Blog
+
+
+Sitemap
+
+
+
+
+Platform
+
+
+Platform overview
+
+
+Moveworks API
+
+
+System status
+
+
+
+
+Company
+
+
+About us
+
+
+Newsroom
+
+
+Contact us
+
+
+Careers
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+image/svg+xml
+
+
+    ©2023 Moveworks, Inc.
+  
+
+Privacy policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,723 @@
+News | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Moveworks Newsroom
+In the News
+Press Releases
+Awards
+Moveworks in the News
+September 25, 2023 
+            How Moveworks is Revamping Conversational AI with LLMs
+            Analytics India sat down with Moveworks CTO and co-founder, Vaibhav Nivargi, to discuss Moveworks' journey, it's goals in India, and for the larger company, and what's the come for Moveworks in the future. 
+              Read on Analytics India 
+September 6, 2023 
+            Top CEOs of AI Product Firms 2023
+            Moveworks CEO, Bhavin Shah, was named one of Analytics India Magazine's top CEO's of AI product firms for 2023 
+              Read on Analytics India
+August 9, 2023 
+            The Cloud 100 
+            Moveworks was named to the Forbes Cloud 100 list for 2023 — a definitive list of the top private cloud companies in the world. 
+              Read on Forbes
+July 31, 2023 
+            Event Recap: The State of VC Investing in Data and AI Startups
+            The Information shared a recap of a recent AI and data investing panel, including commentary from Moveworks CEO, Bhavin Shah
+              Read on The Information 
+July 26, 2023 
+            The State of VC Investing in Data & AI Startups
+            Moveworks CEO, Bhavin Shah, joins fellow industry leaders to discuss the state of AI & Data investing
+              Read on The Information 
+July 21, 2023 
+            The White House Meets with 7 Big Tech Companies – Releases Commitments on Managing AI
+            Moveworks CEO, Bhavin Shah, shares his thoughts on recent AI regulation efforts by the White House. 
+              Read on InsideBigData
+July 16, 2023 
+            International Students Key To AI As Researchers And Entrepreneurs
+            Forbes highlights Moveworks as a top company with mostly immigrant founders. 
+              Read on Forbes
+July 9, 2023 
+            65% Of Top AI Companies Have Immigrant Founders
+            Forbes includes Moveworks as one of the top AI companies with immigrant founders
+              Read on Forbes
+May 31, 2023 
+            Six Ways to Bolster Your Data and AI Team In a Down Economy
+            Moveworks CEO, Bhavin Shah, shares the impact generative AI can have on employee satisfaction and productivity 
+              Read on Datanami 
+May 17, 2023 
+            AI Chatbots: A Hedge Against Inflation?
+            Alex Woodie from Datanami shares segments from Moveworks CEO, Bhavin Shah's, recent keynote at Moveworks Live
+              Read on Datanami
+May 12, 2023 
+            Moveworks, Carahsoft Offer New Public-Sector AI Tool
+            Moveworks and Carahsoft partner to bring conversational AI to the public sector. 
+              Read on Government Technology 
+May 5, 2023 
+            Best Places to Work in the Bay Area 2023: Large companies
+            Moveworks is named Silicon Valley Business Journal's #3 Best place to work in the Bay Area for large companies. 
+              Read on Silicon Valley Business Journal 
+May 5, 2023 
+            How the workplace culture is evolving
+            Silicon Valley Business Journal reporter, Alisha Green, sits down with Moveworks CEO, Bhavin Shah, to discuss how Moveworks maintains its culture amid economic uncertainty. 
+              Read on Silicon Valley Business Journal 
+April 26, 2023 
+            Moveworks launches no-code conversational AI creation platform for enterprise
+            Moveworks launches Creator Studio — the first ever no-code, generative AI platform for building any conversational AI use case for the enterprise. 
+              Read on SiliconAngle
+April 26, 2023 
+            Moveworks debuts Creator Studio to build AI-driven employee copilots
+            Moveworks launches Creator Studio — a generative AI platform for businesses to develop enterprise-wide copilots. 
+              Read on VentureBeat
+April 11, 2023 
+            2023 Forbes AI50
+            Moveworks is included in Forbes AI50 list for the 5th consecutive year. 
+              Read on Forbes
+April 6, 2023 
+            Meet generative AI's breakout stars of the Bay Area
+            SF Business Times reporter, William Hicks, sits down with Moveworks CEO, Bhavin Shah, to discuss the recent generative AI boom. 
+              Read on SF Business Times
+February 28, 2023 
+            Large Language Models Aren‘t the Silver Bullet for Conversational AI
+            Moveworks Founder and CTO of AI, Jiang Chen, discusses the limitations of large language models, and how to fine-tune them for enterprise-grade results. 
+              Read on The New Stack 
+February 13, 2023 
+            Zero-shot learning and the foundations of generative AI
+            Moveworks Director of Engineering, Chang Liu, discusses the benefits of few-shot learning and large language models as the foundation for generative AI.
+              Read on InfoWorld
+February 6, 2023 
+            Albemarle supercharges employee experience with federated automation
+            Albemarle CIO, Patrick Thompson, shares his Moveworks success story with CIO Mag
+              Read on CIO
+February 6, 2023 
+            The Race to Build a ChatGPT-Powered Search Engine
+            Moveworks founder and VP of machine learning, Jiang Chen, weighs in on whether he believes chatGPT will replace search. 
+              Read on WIRED
+January 18, 2023 
+            Microsoft will add OpenAI’s ChatGPT to its cloud offering Azure: CEO Satya Nadella
+Microsoft announced the general availability of Azure OpenAI Service. Moveworks CTO, Vaibhav Nivargi, discusses the unique use-cases Moveworks has been able to develop in partnership with Azure OpenAI service.
+              Read on Economic Times
+January 18, 2023 
+            Microsoft launches general availability of Azure OpenAI Service
+            Moveworks CTO, Vaibhav Nivargi, comments on the general availability of OpenAI's APIs, something Moveworks has had early access to. 
+              Read on TechRepublic
+January 6, 2023 
+            The Drawbacks of ChatGPT for Production Conversational AI Systems
+Moveworks Founder and VP of Machine Learning Jiang Chen sits down with Datanami to share his thoughts on the development of ChatGPT, and what it means for enterprise conversational AI applications.
+              Read on Datanami
+December 12, 2022 
+            How To Build an Employee-First Workplace with the Help Of AI
+            Moveworks CTO, Vaibhav Nivargi, shares how Moveworks customers have leverages Moveworks tech to streamline and automate both IT and HR issue resolution. 
+              Read on All Things Talent
+December 9, 2022 
+            Moveworks Scales IT Support for Lucid Software While Keeping Costs Flat
+            Moveworks provides Lucid Software with scalable, quality IT support while keeping costs flat.
+              Read on AIThority 
+November 29, 2022 
+            Heard on the Street – 11/29/2022
+            Moveworks Director of Engineering, Chang Liu, discusses the benefits and considerations for teams looking into one-shot and few-shot learning. 
+              Read on InsideBigData
+November 18, 2022 
+            Moveworks and Wipro Partner to Deliver Scalable, Best-in-Class IT Support with AI
+            Moveworks and Wipro partner to provide AI-powered IT support that's scalable, efficient, and personalized to each employee. 
+              Read on AIThority
+November 15, 2022 
+            Four Investments to Succeed in a Struggling Economy
+            Moveworks CEO, Bhavin Shah, shares the four things you should invest more in during a struggling economy
+              Read on Spiceworks
+November 8, 2022 
+            Top AI Startups
+            eWeek recognized Moveworks as one of the top AI startups of 2022
+              Read on eWeek
+October 12, 2022 
+            Moveworks bets on NLU and ML to help CIOs improve employee experience
+            Moveworks launches Employee Experience Insights! The first analytics solution that uses natural language understanding and machine learning to help CIOs identify and prioritize high-impact initiatives. 
+              Read on VentureBeat
+October 3, 2022 
+            The importance of monitoring machine learning models
+            Moveworks Principal Product Manager, Rahul Kayala, joins industry experts to discuss the importance of machine learning model monitoring. 
+              Read on InfoWorld
+September 16, 2022 
+            16 Expert Tips To Help Tech Leaders Ensure Remote Work Arrangements Succeed
+            Moveworks CTO, Vaibhav Nivargi, shares how IT can impact the employee experience and go from a cost center to a strategic asset. 
+              Read on Forbes
+September 3, 2022 
+            3 model monitoring tips for reliable results when deploying AI
+            Moveworks Principal Product Manager, Rahul Kayala, shares 3 tips for ensuring your AI models are performing their best
+              Read on VentureBeat
+August 12, 2022 
+            Moveworks: Building (and running) teams with circular model theory 
+            Moveworks Principal Product Manager, Rahul Kayala, shares how IT teams can reduce waste and continuously improve.
+              Read on ERPToday
+July 26, 2022 
+            Microsoft partner ecosystem revved up, riled by 2022 event
+            Manoj Gupta, Moveworks VP of partnerships, discusses the value businesses can achieve through partnering with both TCS and Moveworks 
+              Read on TechTarget
+July 21, 2022 
+            Nexthink and Moveworks delivers autonomous resolution to most IT support issues
+            Moveworks and Nexthink join forces to transform IT support within the enterprise 
+              Read on Enterprise Times
+July 14, 2022 
+            How AI Bots Became The Face Of The World’s Most Innovative Companies
+            Autodesk, DocuSign, and Unity share how Moveworks bots have transformed critical business processes. 
+              Read on Forbes
+July 12, 2022 
+            TCS Partners with Moveworks to transform the Service Desk with AI
+            Moveworks partners with TCS — one of the most trusted consulting firms in India — to help transform the traditional service desk model for businesses around the world.
+              Read on Analytics India
+June 20, 2022 
+            AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise
+            Moveworks CTO, Vaibhav Nivargi, comments on the intricacies of conversational AI, and what's possible today. 
+              Read on Datanami 
+June 14, 2022 
+            Golden Opportunity: How SF Tech Provides Career-growing Experiences for Product Managers
+            Moveworks product manger, Rahul Kayala, shares his experience working on projects that impact businesses around the world. 
+              Read on BuiltIn
+June 10, 2022 
+            Inside 7 San Francisco Tech Companies Hiring for Engineers
+            Ankoor Shah, Moveworks software engineer, shares his experience on the engineering team. 
+              Read on BuiltIn
+June 8, 2022 
+            How Onboarding New Hires Can Become Your Most Impressive Win At Work
+Forbes met with Moveworks to discuss how onboarding can be your most impressive professional win yet with the help of AI. 
+              Read on Forbes 
+May 9, 2022 
+            AI 50 2022: North America’s Top AI Companies Shaping The Future
+            Moveworks was recognized on the Forbes AI 50 list for the 4th consecutive year 
+              Read on Forbes
+May 6, 2022 
+            Best Places to Work: Moveworks strives to empower its employees
+            Moveworks is recognized as Silicon Valley Business Journal's #2 Best Place to Work. 
+              Read on Silicon Valley Business Journal
+May 2, 2022 
+            Heard on the Street – 5/2/2022
+            Moveworks CTO, Vaibhav Nivargi, discusses why multilingual chatbots are so challenging to get right. 
+              Read on InsideBigData
+April 28, 2022 
+            Introducing Moveworks For HR: The First AI Solution That Provides Personalized HR Support
+            Moveworks announces Moveworks for HR — the first AI-solution that provides personalized HR support
+              Read on AIThority 
+April 28, 2022 
+            Moveworks,The First AI Solution That Provides Personalised HR Support
+            Moveworks HR is the first AI solution that delivers personalized HR support 
+              Read on BW People Business World
+April 28, 2022 
+            Moveworks launches AI solution ‘Moveworks for HR'
+            Moveworks launches Moveworks for HR — the first AI solution that provides instant, personalized help to every employee based on their unique role, department, seniority, benefits, location, and language.
+              Read on Media Brief 
+April 22, 2022 
+            How IT can fix the employee experience [Q&A]
+            BetaNews interviews Varun Singh, Moveworks co-founder and VP of Product, about the key role IT plays in improving the work experience for employees.
+              Read on BetaNews
+March 30, 2022 
+            US-based AI firm Moveworks opens its first office in Bengaluru
+            Moveworks opens its first India-based office and plans to double its employee base in first next months. 
+              Read on Analytics India 
+March 29, 2022 
+            Moveworks to expand India business, double headcount
+            Moveworks opens its second headquarters in Bengaluru, India - continuing explosive growth for the company.
+              Read on The Economic Times
+March 27, 2022 
+            A Wave Of Billion-Dollar Language AI Startups Is Coming
+Moveworks is recognized as a leader in conversational AI for internal employee engagement.
+              Read on Forbes
+March 9, 2022 
+            Why Palo Alto Networks rebuilt its workplace with AI
+Palo Alto Networks partnered with Moveworks to create an AI-powered digital workplace that gave its employees the freedom to choose how and when they want to work.
+              Read on VentureBeat
+March 8, 2022 
+            America's Best Startup Employers
+Moveworks ranked as the 12th Best Startup Employer in America out of 500 startups by Forbes.
+              Read on Forbes
+February 24, 2022 
+            Why the true test for today’s conversational AI chatbots is time
+Conversational AI requires a careful balance between speed and sophistication. Jiang Chen, Moveworks VP of Machine Learning, explains how our AI systems can deliver relevant responses — in real time.
+              Read on VentureBeat
+January 13, 2022 
+            Scale Your Team Like a Bay Area Sales Leader
+Moveworks CRO Marcello Gallo shares his blueprint for building a successful sales team.
+              Read on Built In
+January 13, 2022 
+            How Moveworks used Conversational AI to support hybrid work
+VentureBeat reports on how Moveworks uses Conversational AI to support the world’s top companies as they shift to hybrid work.
+              Read on VentureBeat
+January 5, 2022 
+            Best Places to Work 2022
+Moveworks ranked #1 Overall Best Place to Work in the San Francisco Bay Area by Built In.
+              Read on Built In
+December 29, 2021 
+            2021 was a breakthrough year for AI
+VentureBeat recaps the most exciting AI developments of 2o21, including Moveworks raising $200 million in Series C funding.
+              Read on VentureBeat
+October 24, 2021 
+            How Moveworks’ AI platform broke through the multilingual NLP barrier
+In this exclusive story, VentureBeat explains how Moveworks created the first multilingual AI platform that’s built to support employees.
+              Read on VentureBeat
+October 6, 2021 
+            How Hearst aims to tower again – with the help of AI
+Hearst has dominated the media industry for 134 years. But to remain relevant in this era of instant news, its CTO needed to support a lightning-fast workforce — with Moveworks AI.
+              Read on Diginomica
+September 20, 2021 
+            Moveworks Expands, Canva Raises $200M, and More Austin Tech News
+Built In, the online community for tech companies and startups, features Moveworks’ expansion to Austin in its weekly roundup.
+              Read on Built In
+September 17, 2021 
+            The Water Cooler: Skills 4 tech execs target in IT recruiting
+What's the most important skill for IT professionals today? Our VP of Product Varun Singh shares why top IT teams are focused on mastering employee experience technology. 
+              Read on CIO Dive
+August 26, 2021 
+            How This Company Hit Unicorn Status in 5 Years
+Moveworks CEO Bhavin Shah talks about how an employee-centric culture has contributed to the company's rapid growth. 
+              Read on Built In
+August 12, 2021 
+            Why machine learning models fail
+Moveworks CTO Vaibhav Nivargi explains how data is the key to creating AI models that survive real-world challenges.
+              Read on SD Times
+July 23, 2021 
+            Fake It to Make It: Companies Beef Up AI Models With Synthetic Data
+How are the world's top AI companies using synthetic data? Moveworks CTO Vaibhav Nivargi tells The Wall Street Journal how synthetic datasets allow for even more accurate predictions with machine learning.
+              Read on The Wall Street Journal 
+July 10, 2021 
+            More unicorns were created in the second quarter than all of 2020, as 2021 venture funding continues to break records. Here are all 136 of them.
+The unicorn club grew at a record pace in Q2 2021 with 136 startups, including Moveworks, crossing the billion-dollar valuation mark for the first time.
+              Read on Business Insider
+July 9, 2021 
+            The Self-Improving Enterprise: Building a Digital Business that Doesn’t Break
+Moveworks CEO Bhavin Shah discusses on eWeek what it takes to build tech that not only keeps working, but also improves over time.
+              Read on eWEEK
+July 6, 2021 
+            Discord’s Acquisition, Zipline Raised $250M, and More SF Tech News
+Bay Area trend spotter Built In calls out Moveworks as an industry leader following last week's $2.1 billion valuation.
+              Read on Built In
+June 30, 2021 
+            Moveworks raises $200M to automate enterprise IT tasks
+VentureBeat reports today that Moveworks, a start up using AI to revolutionize how companies support their employees, announced that it closed a $200 million series C funding round.
+              Read on VentureBeat
+June 30, 2021 
+            Workplace Chatbot Firm Moveworks Reaches $2.1 Billion Valuation
+Bloomberg sat down with Moveworks CEO Bhavin Shah to discuss the company’s $200 million Series C round — and what it means for the future of support at work.
+              Read on Bloomberg
+June 30, 2021 
+            AI-powered automatic IT support startup Moveworks raises $200M at $2.1B valuation
+Following Moveworks’ latest funding round, SiliconANGLE breaks down how the company built its conversational AI platform — overcoming significant technical barriers along the way.
+              Read on SiliconANGLE
+June 30, 2021 
+            The Funded: Accel and three unicorns score jumbo deals at midweek
+In a week of newly minted unicorns, Moveworks stands out with a $200 million C Series funding round, the largest investment ever made in an AI platform for employee experience.
+              Read on Silicon Valley Business Journal
+June 30, 2021 
+            Moveworks Raises $200 Million in Series C Funding to Support Work-from-Anywhere with AI
+Now valued at $2.1 billion, Moveworks is the first AI platform that provides instant help to remote and in-office employees. 
+              Read on Yahoo Finance
+June 24, 2021 
+            7 SF companies discuss growing rapidly while ensuring employees stay engaged
+Sustaining fast company growth in 2021 means prioritizing the employee experience. Moveworks' Head of People Ops Al-Husein Madhany tells Built In exactly what it takes to keep scaling — without lowering the hiring bar. 
+              Read on Built In
+June 17, 2021 
+            How 14 SF tech leaders are setting up for post-pandemic scale
+How do the fastest-growing companies, like Reddit, MasterClass, and Gong, make every employee feel at home — wherever they work? Built In interviewed their Heads of People Operations, including Moveworks’ own Al-Husein Madhany, to find out.
+              Read on Built In
+June 7, 2021 
+            You can’t have a successful hybrid workplace without this one thing
+The future of work is anybody's guess. Moveworks CEO Bhavin Shah tells Fast Company how to build a workplace designed for any kind of collaboration.
+              Read on Fast Company
+April 26, 2021 
+            AI 50: America’s Most Promising Artificial Intelligence Companies
+The shift to hybrid work has accelerated the use of artificial intelligence across the economy. In its third annual list of the most promising AI companies, Forbes shares the technology that's defining the new normal.
+              Read on Forbes
+March 31, 2021 
+            Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications
+The Moveworks Founders take ZDNet under the hood of the new Moveworks platform, which now solves HR, Finance, and Facilities issues.
+              Read on ZDNet
+March 31, 2021 
+            Moveworks helps enterprises automate IT self-service tasks
+Everything at Moveworks is inspired by a simple idea: It shouldn’t take days to get help at work. Today, after half a decade, Moveworks delivers instant help to all lines of business.
+              Read on VentureBeat
+March 31, 2021 
+            Moveworks expands IT chatbot platform to encompass entire organization
+Today, Moveworks announced its platform: a single solution that resolves employees’ requests across all lines of business. Moveworks CEO Bhavin Shah tells TechCrunch why the platform is tailored to the new normal of work.
+              Read on TechCrunch
+March 15, 2021 
+            Experts Disagree on the Utility of Large Language Models
+What do the latest large language models — like GPT-3 and Switch Transformer — mean for the future of NLP? Moveworks CTO Vaibhav Nivargi gives his expert opinion.
+              Read on Datanami
+January 21, 2021 
+            DocuSign Automates to Scale IT for Big Business Growth
+Digital signature and contract management company DocuSign's IT automation projects paid off when the pandemic lockdowns hit. Here's why.
+              Read on InformationWeek
+January 20, 2021 
+            Autodesk CIO Wants to Create ‘Netflix’ Experience for Employees
+The pandemic and the effects of remote work, with employees isolated from colleagues and the Help Desk, has led to a renewed focus by some CIOs on improving employee user experience.
+              Read on The Wall Street Journal
+January 7, 2021 
+            2021 Career-Launching Companies
+Find out which tech companies have enough momentum to become successful businesses and accelerate your career growth.
+              Read on Wealthfront
+December 30, 2020 
+            The Future-Proof Service Desk: Preventing Tomorrow’s Tech Issues With AI
+Moveworks CTO Vaibhav Nivargi explains how AI is making proactive tech support a reality.
+              Read on Forbes
+December 29, 2020 
+            How AI is Revolutionizing Business Processes
+In this eWEEK EXPERT Q&A, Moveworks CTO Vaibhav Nivargi explains why we're seeing more AI in more apps in more places than we've ever seen before.
+              Read on eWEEK
+December 8, 2020 
+            Moveworks Founder & CEO Bhavin Shah: Transforming the Service Desk with AI
+Our CEO Bhavin Shah shares how truly interactive AI frees up the service desk.
+              Read on HMG Strategy
+December 2, 2020 
+            The 50 Most Promising Startups
+The Information selected 50 companies across six sectors to be on our inaugural list of the most promising private tech startups. 
+              Read on The Information
+November 30, 2020 
+            5 Chatbot Use Cases to Steal
+Chatbots are the top use case of AI in the enterprise. If you are looking for a chatbot use case, here are five to consider.
+              Read on InformationWeek
+October 21, 2020 
+            Why ‘primitive’ enterprise search must change in a remote-first world
+Moveworks CTO Vaibhav Nivargi explains how we’re finally fixing enterprise search.
+              Read on Tech Monitor
+October 8, 2020 
+            The secrets of small data: How machine learning finally reached the enterprise
+Transfer learning and collective learning enable enterprises to build machine learning models using small data when big data isn't available.
+              Read on VentureBeat
+September 8, 2020 
+            Sapphire's 2020 CIO Innovation Index focuses on startup engagement amid COVID-19
+Sapphire Ventures released its second annual CIO Innovation Index, which includes insights from more than 100 CIOs to better understand spending, strategies guiding innovation, and more.
+              Read on TechRepublic
+September 1, 2020 
+            Don't Settle: 5 SF Companies Hiring Now
+Bay Area professionals speak to the career openings they’ve been given –– particularly when it comes to chasing innovation in product and technology in their respective industries. 
+              Read on Built In
+August 24, 2020 
+            The Universal UI: Why Natural Language Is The Ultimate Interface For SaaS
+In the battle for your attention, SaaS applications must engage with you on your terms to emerge victorious. 
+              Read on Forbes
+August 20, 2020 
+            Chatbots Are Machine Learning Their Way To Human Language
+Natural Language Understanding (NLU) has made progress in reducing the language barrier between people and AI by solving semantics with mathematics.
+              Read on Forbes
+August 12, 2020 
+            Startup Winners in the AI Boom
+The information compiled a list of 12 AI startups worth watching. 
+              Read on The Information
+August 5, 2020 
+            How Will COVID-19 Shape The Future Of Work?
+How Will COVID-19 Shape The Future Of Work? Answer by Josh Coyne, Investor at Kleiner Perkins.
+              Read on Forbes
+July 21, 2020 
+            Equinix Prioritizes AI Investments Amid Pandemic
+Equinix CIO Milind Wagle provides an update on the company's AI initiatives and how they helped during the COVID-19 crisis.
+              Read on InformationWeek
+July 15, 2020 
+            Natural Language Understanding with AI for IT Support
+Vaibhav Nivargi, CTO of Moveworks, talks about Natural Language Understanding, interacting with users using chatbots, and augmenting customer service with AI.
+              Read on The Cloudcast
+July 10, 2020 
+            AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19
+Forbes AI 50 founders predict what artificial intelligence will look like post coronavirus.
+              Read on Forbes
+July 5, 2020 
+            Gartner's Top 25 Enterprise Software Startups To Watch In 2020
+Forbes compiled a list of the 25 best enterprise software startups to watch in 2020.
+              Read on Forbes
+July 3, 2020 
+            AI 50: America’s Most Promising Artificial Intelligence Companies
+Forbes second annual AI 50, a list of private, U.S.-based companies that are using artificial intelligence in meaningful business-oriented way.
+              Read on Forbes
+June 10, 2020 
+            50 Future Unicorns
+CB Insights put together a list of 50 future unicorns, companies they think will eventually be valued at $1B or more.
+              Read on CB Insights
+May 28, 2020 
+            Next Billion-Dollar Startups 2020
+Forbes list of the 25 fastest-growing venture-backed startups most likely to reach a $1 billion valuation.
+              Read on Forbes
+May 22, 2020 
+            Return to work: Automation projects move up the agenda
+A new report shows that three-quarters of business leaders expect automation to accelerate in the wake of the crisis.
+              Read on ZDNet
+May 21, 2020 
+            The Small Data Revolution: AI Isn't Just For The Big Guys Anymore
+The abstract challenge of “democratizing AI” can be reduced, in part, to a concrete technical problem: how to fuel machine learning with small data. And — even more fortunately — that problem is fast getting solved.
+              Read on Forbes
+May 16, 2020 
+            15 enterprise tech startups poised to come out stronger from the COVID-19 crash
+Here are 15 tech startups that Darling, Chambers, and two other VCs plucked from their portfolios that they expect to come out of the COVID-19 crisis stronger than before.
+              Read on Business Insider
+April 30, 2020 
+            Coronavirus crisis spurs IT innovation
+The coronavirus crisis sees CIOs accelerating their adoption of automation, analytics and new processes to cope with the pandemic’s disruptions and steer the enterprise forward in uncertain times.
+              Read on CIO
+April 28, 2020 
+            IT Science Case Study: Using AI to Quickly Resolve Enterprise IT Issues
+Freedom Financial Network wanted to prioritize its employees’ experience by resolving their IT issues within seconds—not days. Moveworks now enables those employees to get the IT support they need, straight on Slack, in real time.
+              Read on eWEEK
+April 6, 2020 
+            SaaStr 323: The Core Challenges in Moving To Remote Work Overnight
+The Core Challenges in Moving To Remote Work Overnight, What Does Great Change Management Look Like & The Optimal Position For Customer Success In The Organisation with Bhavin Shah, Founder & CEO @ Moveworks
+              Read on SaaStr
+March 25, 2020 
+            IT modernisation series – Moveworks: Why modernised IT depends on conversational AI
+Moveworks CTO Vaibhav Nivargi explains how conversational AI bots have finally modernized IT support — allowing employees to get tech help on their terms.
+              Read on ComputerWeekly
+March 24, 2020 
+            Putting on the AI ‘white gloves’ makes routine support services less tedious at AppDynamics
+AppDynamics has found its year-old installation of Moveworks devours  more of the support tickets generated by a four-figure workforce.
+              Read on Diginomica
+March 10, 2020 
+            Three Tricks to Amplify Small Data for Deep Learning
+Moveworks has swung above its weight and developed deep learning models that are much more accurate and precise compared to traditional machine learning approaches.
+              Read on Datanami
+February 26, 2020 
+            Geek of the Week: Bhavin Shah, CEO, and Founder of Moveworks
+Moveworks aims to utilize natural language processing together with AI to decipher and solve everyday IT problems that users may send tickets to resolve.
+              Read on CloudWedge
+January 22, 2020 
+            72 startups that will boom in 2020, according to VCs
+Business Insider reached out to a select group of successful venture capital firms and asked them name the startups that are poised to have very good years.
+              Read on Business Insider
+December 22, 2019 
+            Top 25 AI Startups Who Raised The Most Money In 2019
+$10.7B was invested in AI startups this year in their seed, early-stage venture, or late-stage venture funding rounds.
+              Read on Forbes
+December 20, 2019 
+            Moveworks: A Very Human AI Platform
+Moveworks AI is focused on resolving internal IT help desk issues autonomously.
+              Read on Siliconindia
+December 19, 2019 
+            47 enterprise startups to bet your career on in 2020
+47 enterprise startups to bet your career on in 2020
+              Read on Business Insider
+December 18, 2019 
+            52 Best Startup Companies To Watch Out For in 2020
+In this collection, we put together a list of some of the most interesting startups to keep on your radar in 2020. The list is based on our internal survey of numerous AngelList employees who interact with thousands of startups every year.
+              Read on AngelList
+November 27, 2019 
+            The 10 Hottest AI And Machine Learning Startups Of 2019
+CRN looks at the 10 hottest startups of 2019 that are developing new offerings for artificial intelligence and machine learning.
+              Read on CRN
+November 14, 2019 
+            Moveworks Raises $75 Million in New Funding
+Moveworks raised an additional $75 million in venture capital, bringing its total raised to $105 million.
+              Read on The Wall Street Journal
+November 14, 2019 
+            Moveworks raises $75 million to automate tech support
+Moveworks today revealed that it’s raised $75 million in a series B fundraising round, bringing the company’s total amount raised to $105 million following a $30 million round in April 2019.
+              Read on VentureBeat
+November 14, 2019 
+            Moveworks snags $75M Series B to resolve help desk tickets with AI
+Moveworks, a startup using AI to help resolve help desk tickets in an automated fashion, announced a $75 million Series B investment today.
+              Read on TechCrunch
+November 14, 2019 
+            Conversational AI Specialist Moveworks Lands $75 Million in Series B Round
+Conversational AI specialist Moveworks has raised $75 million in a Series B financing round, bringing the company’s total amount raised to $105 million, putting a chunky feather in the cap after a blistering 2019 during which it came out of stealth mode.
+              Read on Computer Business Review
+November 14, 2019 
+            Going deeper: Moveworks snags $75M in new money to bolster deep learning in enterprise
+Moveworks has been bringing natural-language bots to help desk applications, and it just got a giant new round of funding to commercialize large-scale NLP processing models such as Google's BERT.
+              Read on ZDNet
+November 14, 2019 
+            Here’s the pitch deck AI startup Moveworks used to convince Kleiner Perkins to lead a $75 million funding round after missing the opportunity 2 years ago
+Here’s the pitch deck AI startup Moveworks used to convince Kleiner Perkins to lead a $75 million funding round after missing the opportunity 2 years ago.
+              Read on Business Insider
+November 11, 2019 
+            CIO Spotlight: Yousuf Khan, Moveworks
+Yousuf Khan, CIO of Moveworks, discusses his career and the greater tech landscape in today's edition of CIO Spotlight.
+              Read on IDG
+October 21, 2019 
+            Five Questions with… Moveworks CTO & Co-founder Vaibhav Nivargi
+Every Monday morning we fire five questions at a leading C-suite figure. Today we’re pleased to be joined by Vaibhav Nivargi, co-founder and CTO of conversational AI and IT support company Moveworks.
+              Read on Computer Business Review
+September 17, 2019 
+            AI 50: America's Most Promising Artificial Intelligence Companies
+Artificial  intelligence is infiltrating every industry, allowing vehicles to  navigate without drivers, assisting doctors with medical diagnoses, and  giving financial institutions more nuanced ways to predict risk. But for  all the authentic use cases, there's a lot of hype too.
+              Read on Forbes
+September 13, 2019 
+            Artificial intelligence: The future IT help desk
+Artificial intelligence can provide timely and efficient IT support, freeing up tech pros' workloads.
+              Read on TechRepublic
+September 12, 2019 
+            No, There Will Be No AI Winter
+This  time is different for a simple reason: artificial intelligence, in its  latest incarnation, called deep learning, has become "industrialized."
+              Read on Forbes
+August 20, 2019 
+            Startup Moveworks has raised $30 million to use AI to automate the most common IT tasks — but it doesn't want to replace the IT department
+Moveworks  is an AI startup that uses AI and natural language processing resolve  basic IT issues in a company. The company has raised $30 million.
+              Read on Business Insider
+June 21, 2019 
+            AI help desk software frees IT ops to take on SRE skills
+A financial services company will retrain its help desk staff to be app developers and SREs, while AI handles the grunt work for the company's call center employees.
+              Read on TechTarget
+May 24, 2019 
+            Moveworks bets IT overload is a natural language processing problem
+Help-desk tickets are regularly stranded for 72 hours while admins try  to figure out what people are actually asking. Startup Moveworks is  adapting natural language understanding to decipher and automate those  mysterious requests.
+              Read on ZDNet
+May 20, 2019 
+            Moveworks is on Jeff Bussgang's Rocket Ship Startup List: 2019
+New graduates should jump on board one of these high flying companies and go along for the ride
+              Read on Medium Blog
+May 15, 2019 
+            CIOs Turn Automation on Their Own Departments
+More tech tasks are being done by robots as businesses look to keep costs down
+              Read on The Wall Street Journal
+April 17, 2019 
+            Moveworks Raises $30 Million To Stop Employees From Hating IT
+The three-year-old firm is coming out of stealth mode on the heels of a  $30 million Series A investment from Lightspeed Venture Partners and  Bain Capital with a product that can automatically complete a range of  tech support chores like unlocking accounts or managing email lists.
+              Read on Forbes
+Moveworks Press Releases
+August 17, 2023 
+           Moveworks Bolsters Bengaluru Team with Key Engineering and HR Leadership Hires
+              Moveworks, the leading AI copilot platform for the enterprise, today announced two key appointments to its Bengaluru office: Mayank Khanwalker and Rajesh Anandaramu 
+February 9, 2023 
+           Moveworks Named as a Finalist in the 2023 Edison Awards™
+              Moveworks’ NLU-powered analytics solution, Employee Experience Insights, is being honored as an innovative service and software solution 
+January 11, 2023 
+           Moveworks’ AI Enables Starburst to Streamline Employee Onboarding Amid Rapid Growth
+              Within one month of deployment, Starburst saw 50% autonomous IT and HR issue resolution with the Moveworks bot 
+December 15, 2022 
+           Moveworks Scales IT Support for Lucid Software While Keeping Costs Flat
+              Moveworks’ AI-powered solution will enable Lucid employees with sophisticated self-service support so IT agents will be freed up to work on high impact projects 
+November 17, 2022 
+           Moveworks and Wipro Partner to Deliver Scalable, Best-in-Class IT Support with AI
+              The partnership offers customers a cost-effective IT solution that delivers the quality, personalized experience employees expect 
+November 16, 2022 
+           Moveworks’ AI Platform Powers Jamf’s New Standard for Hybrid Work Support
+              Jamf will leverage Moveworks’ conversational AI platform to scale a best-in-class hybrid work support model 
+October 12, 2022 
+           Moveworks Launches Employee Experience Insights to Help CIOs Identify and Prioritize High-Impact Initiatives
+              EXI uses new techniques in Natural Language Understanding to help businesses identify the biggest issues slowing employees down 
+July 21, 2022 
+           Nexthink and Moveworks Join Forces to Enable Proactive Tech Support in the Digital Workplace
+              By combining DEX management with conversational AI, businesses can minimize workplace disruptions and dramatically increase productivity 
+July 12, 2022 
+           Moveworks Partners with TCS to Transform the Service Desk with AI
+              Moveworks partners with  Tata Consultancy Services to provide seamless support to their employees at any time, in any language, and from any location. 
+June 23, 2022 
+           Moveworks Wins ‘Best Overall Bot Solution’ at the 2022 AI Breakthrough Awards
+              Moveworks today announced that it won the “Best Overall Bot Solution” at the fifth annual AI Breakthrough Awards, 
+April 27, 2022 
+           Introducing Moveworks for HR: The first AI solution that provides personalized HR support
+              Employees can automatically resolve workplace requests through simple conversations with Moveworks — freeing up HR teams to focus on the projects that matter most 
+March 29, 2022 
+           Moveworks opens first office in India to strengthen its leadership in conversational AI
+              The company will hire top engineers at its new headquarters in Bengaluru to improve the world's leading conversational AI platform. 
+March 17, 2022 
+           Moveworks expands across Europe to support flexible work with AI
+              As European companies compete to deliver the best employee experience, Moveworks brings its AI platform to the UK, France, and Germany. 
+March 16, 2022 
+           Moveworks announces API to proactively prevent issues at work
+              The API enables companies to send their employees critical messages and requests — with workflows that are automatically triggered by events across the business. 
+October 20, 2021 
+           Moveworks pioneers the first multilingual AI platform built to support global companies
+              Employees can now instantly resolve their workplace requests by asking Moveworks in English, Spanish, Italian, French, German, and Portuguese. 
+September 15, 2021 
+           Moveworks expands U.S. footprint with new office in Austin, Texas
+              The company continues its hyper-growth by establishing a presence in Austin -- an emerging hub for top talent. 
+July 28, 2021 
+           AI at scale: Moveworks enhances conversational AI platform to support the world's largest companies
+              Moveworks unveils a new, self-learning conversational AI technique, which solves employees' requests by generating customized responses based on real-time data. 
+June 30, 2021 
+           Moveworks Raises $200 Million in Series C Funding to Support Work-from-Anywhere with AI
+              Now valued at $2.1 billion, Moveworks is the first AI platform that provides instant help to remote and in-office employees 
+March 31, 2021 
+           Instant help at work: Moveworks announces next evolution with AI-powered Employee Service Platform
+              Moveworks now automatically resolves issues across all lines of business, including IT, HR, Finance, and Facilities. 
+June 9, 2020 
+           Moveworks Integrates with Microsoft Teams to Transform Enterprise IT Support
+              Integration of leading AI and Natural Language Understanding platform with Microsoft Teams turns chat and collaboration platform into an autonomous IT support channel 
+February 13, 2020 
+           Moveworks Launches "Channel Resolver" to Accelerate Resolution of Employee IT Issues
+              New AI and Natural Language Understanding solution identifies IT support issues in any channel within the Slack collaboration hub, and resolves them automatically 
+November 14, 2019 
+           Moveworks Announces $75M Round Led By Kleiner Perkins, ICONIQ Capital and Sapphire Ventures
+              Oversubscribed financing round underscores significant impact of autonomous AI solution; Company acquires new customers Align Technology, LinkedIn, Symantec, Belkin, Stitch Fix, AppDynamics and more 
+April 17, 2019 
+           Moveworks Unveils Advanced AI Solution to Autonomously Resolve Employee IT Support Issues
+              Company emerges after three years in stealth with dozens of Fortune 500 and leading enterprise customers, and venture backing from Bain Capital Ventures and Lightspeed Venture Partners 
+Moveworks Awards
+Moveworks was named one of top private cloud companies in the world.
+Moveworks is a Leader in Intelligent Virtual Assistants
+Moveworks is a Leader in Intelligent Virtual Assistants for the Enterprise
+BuiltIn named Moveworks the #1 Best Place to Work in the Bay Area in 2022
+Silicon Valley Business Journal names Moveworks the #2 Best Place to work in the Bay Area in 2022
+Forbes names Moveworks the #12 Best Startup Employer in America in 2022
+Moveworks wins the 2021 AI Breakthrough Award for “Best Chatbot Solution”
+Moveworks was included in the 2022 Forbes AI50 list for the 4th consecutive year 
+Inc. names Moveworks as a 2022 best workplace 
+Named one of Newsweek's 100 Most Loved Workplaces 2022
+EXI was honored as an innovative service and software solution.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

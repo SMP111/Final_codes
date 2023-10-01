@@ -1,0 +1,187 @@
+Verisk Increased Employee Engagement With AI Comms | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Verisk
+    The “best business decision” Verisk ever made? Conversational comms.
+    Verisk used AI comms to dramatically increase employee engagement and keep its hybrid workforce on the same page.
+Verisk is one of the world’s largest data analytics companies with a market cap of approximately $30 billion.
+Download the PDF
+            96%
+Of Verisk’s employees are engaged with Moveworks
+Challenge
+Verisk had to find a better solution than no-reply emails to keep its workforce engaged.
+Result
+Dramatically boosted employee engagement with AI-powered internal comms
+The Problem
+    AI offers a new approach to employee engagement
+Operating across 34 countries, Verisk’s top priority is keeping everyone on the same page. Integrating and supporting so many employees across different time zones is an enormous undertaking. So when it came down to employee communications, Verisk faced major obstacles.
+For one, company policies were constantly changing during this era of hybrid work. Updates sent in mass emails tended to get ignored or lost in the inbox, so many employees were missing vital information. 
+Additionally — a conventional communications strategy depends on email. But sending irrelevant messages to employees is incredibly noisy. And finally, Verisk’s service desk struggled to address the follow-up questions that their comms generated. Even when employees understood the update, it was hard for them to get more info or take action.
+The Solution
+    Vic brings a new employee engagement strategy to Verisk
+In August 2020, Verisk rolled out Moveworks, known as Vic to its employees. Vic is an advanced AI chatbot available inside Microsoft Teams, Verisk’s hub for collaboration. By deeply understanding employees’ requests with AI, Vic maps each one to the right solution, whether it’s a snippet from a troubleshooting guide, a form to order new hardware, or a map of the company headquarters.
+Perhaps more importantly, with Moveworks for Employee Communications, Vic delivers targeted updates and reminders to only the affected employees. Vic even allows Verisk to schedule messages at a certain time for employees in different time zones. For instance, when an employee’s password is set to expire, Vic reminds her beforehand via Teams so she won’t get locked out later. This proactive engagement strategy has been particularly crucial for Verisk, given the number of people working remotely.
+We have employees all around the world. Keeping everyone informed is about delivering relevant messages and letting them take action, without leaving Teams. That’s how Moveworks takes our comms strategy to the next level.
+David Lewis
+AVP of Compute Services
+The Result
+    Verisk moves together in the face of change
+Verisk has overcome the obstacles of conventional employee engagement with Moveworks for Employee Communications. Rather than sending out static mass emails to the entire workforce, Vic delivers targeted updates and reminders to only the affected employees, meeting them on Microsoft Teams where they’re already working. Vic even allows Verisk to schedule messages at a certain time for employees in different time zones, so that nothing gets lost in the shuffle. 
+Messages from Vic are also interactive, allowing employees to take the requested action or ask follow-up questions directly through the bot. In other words, Vic isn’t just a messenger; it’s an expert assistant that can provision new software or provide a snippet from the latest travel policy, right there in chat.
+The best part? The payoff has been huge. 96% of Verisk’s employees are engaged with the bot.
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+Machines learned the secret of language
+Natural language understanding and conversational AI have streamlined interactions between people and machines.
+Read the blog
+Send messages that inspire action
+With Moveworks for Employee Comms, your messages reach the right employees and make it easy for them to move forward.
+Learn more
+3 strategies to boost engagement 
+Companies can engage thousands of employees with an AI-powered employee comms strategy.
+Learn more
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

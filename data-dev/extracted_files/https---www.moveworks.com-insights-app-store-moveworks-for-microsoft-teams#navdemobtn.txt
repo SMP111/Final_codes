@@ -1,0 +1,123 @@
+Moveworks chatbot app on Microsoft AppSource or Teams store
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Advanced AI, available on the app store: Adding Moveworks to Microsoft Teams is now easier than ever
+Bhavin Shah, CEO and Founder
+ September 28, 2020
+linkedin
+facebook
+twitter
+email
+If you’re an IT leader, you know that most useful technology takes way too much of your time to build, deploy, and maintain. And unless you happen to have a team of world-class AI experts on hand, this do-it-yourself model makes truly game-changing technology seem out of reach.
+At Moveworks, we’ve built a conversational AI chatbot that assists employees to instantly resolve their IT issues within Microsoft Teams — without forcing you to hire your own AI experts. We build, deploy, and maintain the hundreds of machine learning models that power our bot in-house, which means your help desk’s workload starts disappearing on day one.
+Now, the Moveworks chatbot app is available for customers to install directly from either Microsoft AppSource or the Teams store. Going from implementation to impact with enterprise AI has never been easier.
+“By helping to quickly resolve employees’ IT issues within Microsoft Teams, Moveworks allows companies to work faster. And in a world that now relies on technology to collaborate, it’s never been more critical to provide real-time, location-agnostic tech help.”
+Mike Ammerlaan, Director, Microsoft 365 Ecosystem at Microsoft
+End-to-end IT resolutions on Teams
+Provision software Unlock accounts Deliver answers Create email lists Triage IT tickets
+In the past, fully deploying our bot took eight weeks, but with the Moveworks chatbot app now available from Microsoft AppSource, you can shrink that time-to-value even further — thanks to these added capabilities:
+Rapidly roll out the bot to your workforce
+Access the latest Moveworks features on Teams faster
+Build your custom bot avatar, alongside our design team
+Easily contact Moveworks for rapid assistance
+For enterprise Teams customers like Equinix, Moveworks has significantly enhanced the Teams platform in two distinct ways. First, Moveworks allows Equinix employees already using Teams to fix their tech problems — from accessing software to editing email lists to unlocking accounts — via quick, painless conversations with our chatbot. And second, Moveworks intercepts IT issues submitted through other channels and then resolves those issues on Teams, bringing new users to the platform. 
+You can read Equinix’s success story here on Microsoft.com.
+Bringing new users to Microsoft Teams
+Building a unified virtual workplace
+Particularly in this new normal of remote work, the ability to remain productive anywhere and anytime defines successful employees. But without a physical office or access to in-person help, these employees often don’t know where to find critical resources.
+With Teams, however, every key team member, workflow, and file is consolidated in a single place. And by adding Moveworks to Teams, getting IT support is just as simple.
+“Microsoft Teams is a powerful platform, and Moveworks makes it even more valuable. It’s a symbiotic relationship.”Greg Ogle, VP of Global IT Infrastructure, Equinix
+Contact Moveworks to demo and deploy our AI chatbot in your Teams environment.
+news
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

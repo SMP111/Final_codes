@@ -1,0 +1,188 @@
+Generative AI: What it is and why it matters | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Generative AI: What it is and why it matters
+Margo Poda, Content Marketing Manager
+ April 6, 2023
+linkedin
+facebook
+twitter
+email
+The world of Generative AI is vast and ever-expanding, with the potential to transform entire industries and change how we create and consume content.
+Generative AI is a subset of artificial intelligence that can produce an array of content such as images, videos, audio, text, and even 3D models. As a result, it is becoming a valuable tool across industries such as gaming, entertainment, and product design.
+But before we get ahead of ourselves — what exactly is Generative AI, how does it work, and what can it do? These are the questions we will explore today. From the recent breakthroughs in the field, such as GPT-4 and Midjourney, to its real-world applications and tools, we will cover everything you need to know about Generative AI. 
+With its potential to assist in scientific research, create art, and solve complex problems, Generative AI is an emerging technology poised to shape our world in the years to come. So, let's dive in and discover the fascinating world of Generative AI.
+This article will answer the following questions:
+What is Generative AI?
+How does Generative AI work?
+What kinds of output can a Generative AI model produce?
+What are use cases for Generative AI?
+What are the benefits and limitations of Generative AI?
+What are the concerns surrounding Generative AI?
+What are some examples of Generative AI tools?
+What’s the difference between Generative AI and generative conversational AI?
+What’s the future of Generative AI?
+What is Generative AI?
+Generative AI is a type of artificial intelligence that can create new data, such as images, music, or text. It uses algorithms to learn patterns and produce new content that mimics the style and structure of existing data. 
+For example, if you give a Generative AI model a few lines of poetry, it can use that to create an entirely new poem with similar themes and language. It's like having a virtual artist or writer that can come up with new ideas and content off the cuff.
+How does Generative AI work?
+Generative AI learns patterns from existing data, then uses this knowledge to generate new and unique outputs. 
+Unlike traditional AI models designed to classify or predict based on existing data, Generative AI creates new data from scratch. It's like having a machine that can dream up new ideas and concepts without human intervention.
+The key to Generative AI is using large language models, typically trained on massive datasets — think entire collections of books and vast amounts of web content — to understand and generate content with impressive fluency.
+But what sets Generative AI apart are its core strengths: extraction, summarization, and generation.
+Extraction refers to the ability of a Generative AI model to sift through large datasets and identify relevant patterns and trends that may be difficult for human analysts to spot.Extraction allows Generative AI to act as an entity detection or keyword detection model capable of detecting and isolating specific pieces of information, such as entity names or keywords, from a given dataset.
+Summarization refers to using Generative AI to produce a condensed version of a longer text such as an article, report, or document. Given a long piece of text, it can summarize the meaning of the text in fewer words and then provide a brief to the reader.This capability has already come to life in many applications, starting with call summarization and note-taking applications such as Microsoft Teams' premium offering.
+Generation refers to creating new data or content from scratch quickly and easily. From producing music and images to writing novels and even developing apps, Generative AI is transforming how we create. This capability has already been leveraged by various standalone applications such as  Jasper AI and Writer and more recent developments in document writing applications like Coda and vertical applications like Microsoft Dynamics 365. 
+What kinds of output can a Generative AI model produce?
+Generative AI models can produce a wide variety of output, including text, images, audio, and video. Let's take a look at some examples.
+Generative AI examples
+Text Generation: Generative AI has made remarkable strides in the field of text generation, where it can produce an impressive range of written content that spans news articles, essays, stories, and more. OpenAI's GPT-3 and Hugging Face's BART are advanced models that employ natural language processing and machine learning algorithms to generate coherent, high-quality articles. These models can adjust the writing style and tone based on the desired output, such as formal language for academic papers or conversational language for social media posts.
+Image Generation: Generative AI is capable of creating brand-new images or modifying existing ones, including realistic portraits, landscapes, abstract art, and even photorealistic scenes.  Models like Midjourney and DALL-E demonstrate this capability by generating stunning, high-quality images. With the ability to learn from existing data and patterns, Generative AI can create highly detailed and unique images that can be used in various industries, from art and entertainment to advertising and product design. 
+Audio Generation: With advanced models like Jukebox, Generative AI can create music in various genres and styles, including vocals and instruments. The technology enables the creation of entirely new songs that sound like they were composed by humans, revolutionizing the way music is created and produced.
+Video Generation: With Generative AI, it's possible to create entire videos by piecing together existing video clips or generating new ones. This technology is capable of producing high-quality, photorealistic videos.For instance, Vid2Vid is an advanced AI model that can transform rough sketches into polished videos, while other models can even generate a realistic video of a person based on just a single image.
+What are generative AI use cases?
+Generative AI has become a catalyst for innovation, reshaping how we approach creativity and problem-solving. Here are a few remarkable examples of its transformative potential across various industries:
+Generative AI use cases
+Innovative Product Design: Generative AI can be used in product design to create a wide range of designs based on specific parameters and constraints provided by the user, such as size, weight, materials, and target market. These designs range from simple objects like furniture and home goods to complex machinery and equipment.For example, Airbus has used Generative AI to design and optimize aircraft parts, resulting in lighter and more efficient components that require less material and reduce fuel consumption. Similarly, GE has used Generative AI to design and optimize 3D-printed fuel nozzles for gas turbines, resulting in nozzles that are 25% lighter and five times more durable than previous designs.
+Marketing: Generative AI can create highly personalized content that resonates with individual customers. By analyzing customer data such as browsing history, purchase behavior, and demographic information, Generative AI can create targeted messages, ads, and other marketing materials. For example, a travel company could use Generative AI to create customized travel itineraries based on a customer's preferences and travel history. This level of personalization can lead to increased engagement and conversion rates, as customers are more likely to respond positively to content tailored to their interests and needs.
+Coding: Coding is an area where Generative AI can be particularly useful, as it can help automate software development by generating code based on natural language inputs.OpenAI's Codex is a Generative AI model that can generate code snippets based on natural language descriptions of programming tasks. This can be particularly useful for programmers who are unfamiliar with a particular programming language or need to quickly prototype code.To offer another example, Moveworks gives enterprises a conversational interface that works across every system — from Microsoft to Workday to Salesforce. The company uses Generative AI to translate natural language into workflows. This helps to speed up the development process and reduce the workload of human developers. 
+Design: Generative AI is transforming the field of graphic design by generating custom designs for logos, websites, and other visual content. By analyzing existing designs and data, Generative AI models can create new designs that are unique, eye-catching, and tailored to specific needs.For example, Looka is a Generative AI tool that creates custom logos for businesses using machine learning algorithms to generate design options based on customer preferences. Another example is Canva, which uses Generative AI to suggest design layouts, font pairings, and color palettes for its users.
+Entertainment: Generative AI has transformed the entertainment industry by allowing creators to generate new and original content quickly and easily. With the ability to create scripts for movies, TV shows, or video games and develop new music, Generative AI is changing the way we think about creative expression. For example, the music streaming platform Amper Music uses Generative AI to compose and produce original music for its users, while the AI-based writing platform, ScriptBook, can analyze and generate predictions for a script's potential commercial success.In the video game industry, Ubisoft has used Generative AI as an AI “ghostwriter” tool to write dialogue for some games to keep non-playable characters individually interesting and realistic with less manual work.
+Writing: Generative AI has shown the ability to write books and stories by using natural language processing to create coherent and engaging text. ChatGPT is one example of an AI model capable of generating written content. It has been used to write books such as Alice, a children's book illustrated entirely by Generative AI. And Reid Hoffman's book “Impromptu” was also written in partnership with GPT-4. These applications of Generative AI have the potential to revolutionize the writing and publishing industries.
+Employee support: Generative AI can create knowledge content such as support articles, FAQs, and training materials to assist employees. Using natural language processing (NLP), Generative AI can understand employee queries and provide personalized responses. For example, Moveworks uses Generative AI to create conversational interfaces for employees to interact with support departments, from IT to HR. By leveraging Generative AI, companies can improve employee experience and reduce the workload on HR departments.
+What are the benefits of Generative AI?
+Generative AI has many potential benefits, including:
+Increased efficiency and productivity: Generative AI can automate repetitive tasks and generate new content quickly, freeing up time for humans to focus on more creative and complex work.
+Cost savings: By automating specific tasks and reducing the need for human labor, Generative AI can lead to business cost savings.
+Improved personalization: Generative AI can analyze large amounts of data to create personalized content and recommendations for individual users.
+Enhanced creativity: Generative AI can assist human creativity by generating new ideas and designs that humans may not have thought of independently.
+Scalability: Generative AI can quickly scale to generate large amounts of content, such as product designs or marketing materials, without the need for additional human labor.
+What are the limitations of Generative AI?
+Generative AI has made significant advancements in recent years and has many benefits, but there are also limitations to its capabilities. Here are some of the main limitations of Generative AI:
+Quality: The quality of the output generated by Generative AI can vary significantly depending on the model used and the quality of the input data. Some models may produce low-quality work, making using the generated content in practical applications challenging.
+Bias: Like any AI system, Generative AI models are only as unbiased as the data they are trained on. If the training data is biased or limited, it can result in biased or limited output.
+Complexity: Generative AI models can be complex and require significant computing resources. This complexity can make implementing and scaling these models in real-world applications difficult.
+Lack of control: Since Generative AI models are designed to generate output autonomously, it can be challenging to control the output or ensure that it meets certain quality or style requirements.
+It is essential to consider these limitations when developing and implementing Generative AI systems to ensure they are used effectively and ethically.
+What are concerns surrounding Generative AI?
+Deep Fakes: Generative AI can be used to manipulate audio, video, or images that can deceive viewers into believing something that did not occur. This technology has been used to create and spread misinformation, political propaganda, fake news, and even cyberbullying. OpenAI's GPT-2 was initially withheld from public release due to concerns over its potential misuse to generate fake news and other malicious content. 
+Copyright Issues: The use of copyrighted data for training Generative AI models or the potential infringement of intellectual property rights when Generative AI is used to create new content.
+As Generative AI becomes more widespread, addressing these ethical and legal challenges and establishing guidelines for its responsible use is crucial.
+What are examples of Generative AI tools?
+Generative AI tools are becoming increasingly popular and diverse. Here are some examples of different types of Generative AI tools:
+Generative Text
+ChatGPT: an advanced natural language processing model capable of generating coherent and diverse text content.
+GPT-3: a language generation model that can create a wide range of text content, including articles, essays, and poetry.
+BART: a language generation model that can adjust to specific writing styles and even translate between languages.
+Generative Images
+Midjourney: a Generative AI model that can create stunning and unique images from scratch.
+DALL-E: a Generative AI model that can create images based on textual prompts and specifications, such as "an armchair in the shape of an avocado."
+Generative Audio
+Jukebox: an AI model capable of generating music in various genres and styles, including vocals and instruments.
+AIVA: an AI model that can compose music for various purposes, including film scores and commercials.
+Generative Video
+Vid2Vid: an AI model that can convert rough sketches into photorealistic videos.
+DeepVideoPortraits: an AI model that can create realistic 3D videos of people based on 2D images or videos.
+Generative AI vs. generative conversational AI
+Generative AI refers to AI models that create various types of content, such as text, images, audio, and video. Generative conversational AI, on the other hand, specifically refers to AI models that can generate human-like responses in conversation with users.
+While Generative AI focuses on creating content, generative conversational AI aims to mimic human conversation by generating responses to user input. Both types of Generative AI have unique applications and use cases, with generative conversational AI being particularly useful in chatbots, virtual assistants, and customer service applications.
+Generative AI is paving the way for a more creative and efficient future
+Generative AI is an exciting and rapidly evolving technology that has the potential to transform a wide range of industries, from entertainment to scientific research. With its ability to generate creative and innovative solutions to complex problems, Generative AI is becoming an increasingly valuable tool for businesses and researchers alike.
+While there are still limitations and concerns surrounding Generative AI, such as ethical considerations and potential biases, the future of this technology looks promising. With continued development and advancement, Generative AI has the potential to unlock new frontiers in art, design, and problem-solving.
+As we continue to explore and harness the power of Generative AI, it's important to stay informed and engaged with the latest developments in the field. Whether you're a business owner, a researcher, or simply a curious learner, many resources are available to help you dive deeper into this exciting technology.
+So, let's continue to discover and unlock the possibilities of Generative AI together and see where this technology will take us in the years to come.
+Contact Moveworks to learn how AI can supercharge your workforce's productivity.
+tech
+technology
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

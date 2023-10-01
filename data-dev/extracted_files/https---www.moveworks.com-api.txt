@@ -1,0 +1,106 @@
+Moveworks API - Connect systems to deliver support at scale
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+    Help — just before you need it.
+The Moveworks API allows enterprises to connect their systems with customized automation. Create unique workflows that help every employee get the support they need, instantly. 
+      Get started
+Extend the reach of your Moveworks platform
+Integrating the Moveworks API into your systems unlocks limitless possibilities. You’ll be able to connect your systems in unprecedented ways, letting you deliver automated support, at scale. Whether that means notifying employees of a system outage, proactively reaching out to new hires on their first day, or assisting a user as soon as their device crashes is up to you.
+    The support your team needs — no questions asked.
+      Keep your team productive by automatically sending personalized, targeted messages before they have to ask for help
+      Support your company’s unique needs with workflows tailored to its systems and processes
+      Provide your team with a consistent support experience by integrating the Moveworks platform into any system
+Moveworks’ new API is a game-changer. Disruptive issues like the ‘blue screen of death’ have become a non-issue for us practically overnight. That’s hours and hours of productivity and frustration prevented before they happen.
+Stanley Toh Head of End-User Services & Experience, Broadcom
+Deliver critical updates from any application
+Onboard Employees Instantly
+Set your employees up for success on day one by providing them with all of the applications, accounts, and forms they need before they have to ask.
+Reclaim Unused Software at Scale
+Only pay for the software licenses your team is using by automatically detecting inactive users.
+Resolve Device Issues Before They Happen
+Get ahead of impending problems with automated, actionable messages to employees.
+Deliver Critical Updates Automatically
+Detect issues as they happen and immediately support your employees through outages, security breaches, and other major disruptions.
+FAQs
+How do I get started?Contact your Customer Success Team and they’ll give you all the information you need to get started.
+What if I need technical support?For any technical support questions, email support@moveworks.ai or contact your Customer Success Team.
+Is the API included for all Moveworks customers?Yes! All Moveworks customers can build with the Moveworks API.
+Is this open source?No, this is not open source, but if you have any feedback, we’d love to hear it. Please share your thoughts with your Customer Success Team.
+        Start building today
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

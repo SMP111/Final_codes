@@ -1,0 +1,1031 @@
+
+
+
+
+
+5 Help Desk Metrics and Benchmarks IT Leaders Should Know | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    5 Help Desk Metrics and Benchmarks IT Leaders Should Know in 2023
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The most important responsibility of your IT help desk is to ensure employees get the support they need — quickly. But how do you measure “quick”? To help you contextualize your team’s performance, we analyzed IT ticket data from over 100 companies. 
+We found a dramatic difference between industry-average and industry-leading companies in their mean time to resolution (MTTR). Industry-leading IT teams solved issues in less than half the time. This is a direct result of several key innovations in the IT support process, particularly the use of automation and AI.
+
+
+
+
+    How long are employees waiting for support?
+  
+
+
+
+*This data represents a sample with selected type of issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In this report, we provide help desk benchmarks for high-touch issues, access requests, troubleshooting questions, approvals, and overall MTTR. Across the board, we see a growing divide between the companies that have leaned into innovation and those that haven’t.
+
+
+
+
+
+
+
+
+    High-touch issues submitted to the help desk
+  
+
+
+
+Employees with high-touch issues depend on subject matter experts for solutions. Fixing a broken printer or reconfiguring Salesforce requires more than a single help desk agent. 
+When it comes to high-touch issues, you might assume that automation might hurt, not help. Instead, we’ve found automation is particularly crucial when it comes to solving high-touch issues. 
+
+
+
+
+    When employees submit a high-touch issue, how long are they waiting for support?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The difference in wait time between average and leading organizations is nearly 27 hours. Why?
+Best-in-class organizations triage issues to the right person, improve communications between stakeholders, and accelerate comments. But this can be difficult to manage. With AI, however, companies are able to take much of the friction out of solving these complex functions.
+
+
+
+
+
+
+
+To help employees, you need to first understand what they’re asking for. Using NLU (natural language understanding) and NLP (natural language processing) models, industry-leading companies can significantly speed up complicated processes. 
+
+
+
+
+    Access issues
+  
+
+
+
+There are several use cases — password resets, account unlocks — where it might take an agent minutes to perform the task, but the ticket sits in the queue for hours. Industry-leading companies use this as an opportunity to introduce a back-end automation tool to trigger workflows.
+
+The difference is shocking: a 15-hour discrepancy that employees experience whenever they’re locked out of an account.
+
+
+
+
+    How long do employees wait for access?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the age of hybrid work, not all employees are able to walk over to their favorite help desk agent and describe their problem in seconds. Leading companies use AI to transition that experience, seamlessly, to a digital workplace.
+
+
+
+
+
+
+
+
+    Troubleshooting questions
+  
+
+
+
+All help desks have a collection of knowledge base articles, documenting solutions that only specialists at the company would know. Innovative leaders use AI to transform these long, hard-to-reach articles into bite-sized solutions. 
+In conventional organizations, it takes a lot of time and effort from the help desk agent to offer a customized solution to an employee, impacting wait times. 
+
+
+
+
+    How long do employees wait to get their questions answered?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There’s a 10-hour difference in wait time between companies that leverage automation and those that don’t. 
+Employees expect personalized solutions, and IT agents spend hours gathering information before coming up with the perfect answer. At leading companies, this process is automated — AI is used to gather all context around employee requests, so help desk agents can have a 360-degree view while answering questions. 
+
+
+
+
+
+
+
+
+    The impact of approvals
+  
+
+
+
+There are some use cases that need managerial input. But getting a manager’s attention can be tough at times. 
+
+
+
+
+    How long are employees waiting for approvals?
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People wait nearly 40 hours for approvals due to the primary mode of communication: email and siloed support channels. But automated support happens in real time. In this category, leading organizations are able to attack the root of the problem: poor communication. 
+
+
+
+
+
+
+
+Industry-leading companies have incorporated conversational AI to bring these requests to an enterprise chat platform, allowing managers to give approvals as soon as they see their employees’ messages. 
+To move from an average company to one that’s leading the pack, you will have to prioritize the employee experience. Conversational AI is a powerful tool, with limitless applications. It can help your help desk agents eliminate their pain points and significantly reduce employees’ wait times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

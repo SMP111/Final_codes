@@ -1,0 +1,135 @@
+Microsoft Build Event Recap: 4 Key Takeaways | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+All in on AI: 4 key learnings from Microsoft Build 2023
+Austin Aboav, Senior Product Marketing Manager
+ May 31, 2023
+linkedin
+facebook
+twitter
+email
+Moveworks shares four key takeaways on the latest innovations in AI, user experience, and plugin updates within the Microsoft ecosystem.
+In a world where AI has transitioned from a "nice-to-have" to a necessity, Microsoft's recent investment of $10 billion in OpenAI exemplifies its readiness to challenge competitors and make a lasting impact in the search technology landscape. This dedication was made abundantly clear at Microsoft's annual developer conference, Build 2023, which showcased an array of announcements, reflecting the company's unwavering commitment to investing in generative AI technology.
+Today, we’ll recap notable sessions and announcements, delving into exciting developments within Microsoft's ecosystem. Join us as we explore how these innovations enable businesses to excel in an increasingly competitive landscape:
+​​Integrating Bing with ChatGPT
+Windows Copilot
+Innovative plugins
+Azure AI Studio
+Integrating Bing with ChatGPT
+The tech landscape continues to experience intensified competition, with Microsoft's Bing taking significant strides to optimize its capabilities. The recent Microsoft Build event showcased the integration of Bing with ChatGPT, a collaboration that promises vastly improved answer results by ensuring up-to-date information sourced directly from relevant web pages.
+Microsoft also announced a range of exciting new features for Bing Chat, as well as support for plugins and an open preview that eliminates waitlists. Here's a quick overview of just some upcoming features:
+Chat history support
+Export and share functionality
+Improved summarization of longer documents and webpages
+Bing Image Creator support for over 100 languages
+These innovative developments within Bing Chat illustrate Microsoft's commitment to providing users with a comprehensive and efficient search experience through cutting-edge advancements in technology.
+Windows Copilot
+Microsoft aims to elevate user experience with the introduction of the Windows Copilot. This innovation transforms every user into a Windows power user by enabling them to engage in tasks such as launching focus sessions, switching to dark mode, and silencing notifications.
+Windows Copilot also offers interoperability with plugins, as demonstrated by using the Spotify plugin to play a focus playlist at Build. This cutting-edge AI tool is designed to improve efficiency across various applications by generating suggestions, automating tasks, and offering real-time assistance during meetings. It also adapts to new skills and tasks, adhering to Microsoft's security, compliance, and privacy standards.
+The Windows Copilot is under testing with a selected group of customers, and its widespread release will demonstrate Microsoft's commitment to changing how users interact with technology and boosting productivity across industries.
+New Microsoft plugins
+Microsoft has unveiled an innovative collection of plugins designed to work seamlessly with both Windows Copilot and Microsoft 365 Copilot. With 50 plugins ready for launch, including Moveworks, and even more in development, Microsoft aims to simplify the process of creating additional plugins using low-code techniques.
+Build featured an example with an employee working on a legal document and using the Microsoft 365 Copilot. By calling on a Thomson Reuters plugin, the integration enabled effortless understanding of California law and facilitated content insertion directly into the Word document. As we move forward, it's essential to consider plugins in the same light as app marketplaces, as they are fast becoming a crucial part of the industry landscape.
+Despite other companies undoubtedly launching their own plugins, it’s vital to understand that plugins are designed to fulfill specific tasks and do not encompass an entire application. Instead, they generally cater to their unique use case and aren't designed to work collectively or take action across numerous enterprise systems.
+Azure AI Studio
+Microsoft's Build event unveiled the Azure AI Studio, a comprehensive tool for developing the next generation of AI models. With Azure AI Studio, developers can create AI apps and copilots by using data from Azure or importing it.
+The platform aims to offer a full-cycle tool for building, customizing, and deploying conversational experiences. Developers now have access to models from Hugging Face and other open-source platforms — an advance from previously being limited to OpenAI models.
+Though Azure AI Studio might entice companies willing to build their use cases and copilots, it’s crucial to remember that building AI copilots and use cases is not an easy task. Even developing a single use case demands technical expertise, time, maintenance, and resources. And building multiple use cases, chaining them together, creating a reasoning engine, fine-tuning, securing, and integrating them to achieve more specialized output is an extremely complex and challenging process. Most companies will struggle to build and maintain a solution with the value and efficiency that a more enterprise-focused AI provides out of the box.
+Microsoft and Moveworks are all in on AI
+Microsoft Build 2023 delivered a rich array of ground-breaking announcements, emphasizing the tech giant's commitment to innovation in AI, user experience, and plugin advancements within their ecosystem. 
+These developments have the potential to significantly impact businesses globally as we continue to rely on technology to excel in an increasingly competitive landscape. We realize that these offerings may present new opportunities, and Moveworks remains focused on delivering unparalleled value to its users by addressing the unique needs enterprises continue to face. 
+Now and in the future, we can expect Microsoft's continuous innovations to redefine the way we interact with technology and elevate productivity across various industries.
+Request a demo to see how your business can use conversational AI.
+news
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

@@ -1,0 +1,414 @@
+Moveworks Blog | Conversational AI, Machine Learning, NLU | machine learning
+Skip to content
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+  Posts tagged machine learning
+How Moveworks uses LLMs to create a seamless conversational AI experience
+Read blog post
+How AI finally learned to triage IT support issues, part 2
+Read blog post
+Why enterprise search is broken, and how Moveworks fixes it
+Read blog post
+  All posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+Read blog post
+How conversational AI can drive mission success for the public ...
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public ...
+Read blog post
+Generative AI should be your #1 priority: Key takeaways from the ...
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. ...
+Read blog post
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use ...
+Read blog post
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+Read blog post
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+Read blog post
+Understanding the risks of deploying LLMs in your enterprise
+          How to manage the risks of deploying Generative and Discriminative LLM in your enterprise during pre-training, training, fine-tuning, and usage.
+Read blog post
+Why Moveworks was named one of the top private cloud companies in the world
+          Moveworks is honored to be recognized on the 2023 Forbes Cloud 100 list which spotlights companies that pair strong values with top performance.
+Read blog post
+Grounding AI: How to improve AI decision-making with contextual awareness
+          Grounding AI links abstract knowledge to real-world examples, enhancing context-awareness, accuracy, and enabling models to excel in complex situations.
+Read blog post
+What is data annotation? And how can it help build better AI?
+          Data annotation trains AI systems to tackle complex business challenges. Annotation prepares AI to adapt to unique enterprise use cases.
+Read blog post
+Moveworks expands global reach with new EU and Canadian data centers
+          Moveworks' data center expansion in Europe & Canada means European & Canadian customers have control and flexibility over their data privacy and data residency.
+Read blog post
+The AI transformation roadmap: How to drive productivity with conversational AI
+          Here’s your AI transformation roadmap. Learn more about what AI transformation is, what’s needed to make it happen, and the role AI copilots play.
+Read blog post
+What is an AI copilot?
+          AI copilots can streamline tasks & boost productivity in businesses. Transform your operations & enhance communication with these intelligent assistants.
+Read blog post
+You need an AI copilot strategy
+          Every enterprise needs an AI copilot strategy. Here is a 4-tier framework to successfully implement these powerful tools for efficiency and performance.
+Read blog post
+Total Economic Impact™ study finds Moveworks delivered a 256% ROI
+          Moveworks' Total Economic Impact™ Study by Forrester finds organizations can achieve 256% ROI with average savings of $11.5 Million over 3 years with Moveworks.
+Read blog post
+All in on AI: 4 key learnings from Microsoft Build 2023
+          Microsoft held its annual developer conference, Build 2023. Moveworks shares 4 takeaways on the latest innovations in AI, user experience, and plugins.
+Read blog post
+The Moveworks Enterprise LLM Benchmark: Evaluating large language models for business applications
+          The Moveworks Enterprise LLM Benchmark evaluates LLM performance in the enterprise environment to better guide business leaders when selecting an AI solution.
+Read blog post
+The smarter way to measure the employee experience? AI.
+          Learn how to measure the employee experience with AI analytics, natural language understanding and real-time performance insights with EXI.
+Read blog post
+The all-encompassing guide to conversational AI
+          Conversational AI uses natural language understanding and machine learning to communicate. Learn more about benefits, examples, and use cases.
+Read blog post
+Moveworks Live recap: 8 key takeaways you may have missed
+          Read the Moveworks Live event recap for key takeaways, product innovations, and announcements from all Moveworks Live speakers.
+Read blog post
+Moveworks-Carahsoft partnership brings conversational AI to the public sector
+          The new Moveworks-Carahsoft strategic partnership brings conversational AI to the public sector.
+Read blog post
+The most impactful AI applications in 2023
+          Check out the most impactful Artificial Intelligence applications, from self-driving cars to IT support, and see why you should use AI in your business.
+Read blog post
+Creator Studio: A no-code platform for enterprise conversational AI
+          Introducing Creator Studio, a generative, no-code platform connecting employees to all systems across the enterprise with a unified, natural language interface.
+Read blog post
+The 50 AI companies shaping the enterprises of tomorrow
+          Discover the 50 best private AI companies shaping the enterprises of tomorrow, from chatbots to predictive analytics, to elevate your operations.
+Read blog post
+Conversational AI examples: How companies use conversational AI today
+          What are examples of companies using conversational AI? Learn how 5 leading companies boost efficiency, customer satisfaction, and employee experience.
+Read blog post
+Generative AI: What it is and why it matters
+          What is Generative AI, how does it work, and how can you use it? Let's dive in and discover the fascinating world of Generative AI.
+Read blog post
+Chatbots vs. Conversational AI for the enterprise, explained
+          What's the difference between a chatbot, conversational ai, and a conversational ai chatbot? Let's get into the differences and how it applies to the enterprise.
+Read blog post
+GPT-4: Everything you need to know and why it's better than GPT-3
+          GPT-4 is the first large multimodal model released by OpenAI that can accept both images and text inputs. Learn its applications and why it’s better than GPT-3.
+Read blog post
+Conversational AI platforms: 5 questions to ask during your next demo
+          When evaluating conversational AI platforms it's important to ask 5 key questions to understand the true capabilities and avoid costly investments
+Read blog post
+Chatbot security: Conversational AI trustworthiness in the age of ChatGPT
+          Discover the fundamentals of trustworthy enterprise-grade conversational AI and how to prioritize chatbot security and privacy.
+Read blog post
+The future is now: ChatGPT is ushering in a new era of conversational AI for the enterprise
+          The future of chatbots and LLMs for modernizing the employee experience is here. Learn how conversational AI is transforming businesses.
+Read blog post
+Demystifying LLMs and GPT for Enterprise Leaders with Forrester
+          Unleash conversational AI in your enterprise. Learn how to navigate the opportunities and risks of implementing generative and conversational AI.
+Read blog post
+Large language models: The basics and their applications
+          Large language models (LLMs) are advanced AI algorithms trained on massive amounts of text data for content generation, summarization, translation & much more.
+Read blog post
+Supervised vs. unsupervised learning: What's the difference?
+          Supervised and Unsupervised Learning, what's the difference? The key difference is labeled data. What are the benefits? Let's use ChatGPT as an example.
+Read blog post
+How to reduce wasted spend in IT [+10 things AI can do about it]
+          Reduce IT costs while also focusing on improving the end-user experience. Here are 10 reasons why AI needs to be part of your IT cost reduction strategy.
+Read blog post
+Generative AI: How to spot the real conversational AI companies and get past the hype
+          Understanding the difference between generative ai businesses is crucial when making investments in tech. Here's how to tell which are real and which are hype.
+Read blog post
+ChatGPT — Does it deserve its 15 minutes of fame? Yes, and why generative AI is the future.
+          ChatGPT is only the start of the future of generative AI. Moveworks CEO Bhavin Shah shares his take on ChatGPT and how the Human-AI partnership will progress.
+Read blog post
+Bhavin Shah on HMG Spotlight: 2023 will be the year of conversational AI
+          Bhavin Shah shares his perspective on how ChatGPT will accelerate innovation and spur efficiencies across the modern enterprise in 2023.
+Read blog post
+How to avoid AI investment pitfalls: The most important KPIs to consider
+          Know the value of AI in your organization. Read on to understand the 8 key performance indicators (KPIs) to pay attention to before you invest in AI.
+Read blog post
+ChatGPT is shaking up the status quo: The strengths and weaknesses of large language models
+          ChatGPT is a groundbreaking technology that’s captured our imagination, but it is not without limitations. Moveworks' VP of Machine Learning shares his thoughts.
+Read blog post
+You, too, can scale support to over 100 languages: Breaking down the challenge of multilingual IT
+          AI can now scale multilingual support to 100+ languages. Learn how Moveworks solved the many technical challenges needed to provide multilingual support.
+Read blog post
+Moveworks named a leader in The Forrester Wave™: Chatbots For IT Operations
+          In its latest report on Chatbots for IT Operations, Forrester named Moveworks a leader among top vendors, giving Moveworks the highest possible score in 19 criteria, including chatbot readiness.
+Read blog post
+What it takes to succeed as a new CIO: A candid conversation between industry leaders
+          Being a new CIO is daunting. Yousuf Khan, 5X CIO turned VC, and Bhavin Shah, CEO of Moveworks, have a conversation about what it takes to succeed in the complex C-level role.
+Read blog post
+Employee Experience Insights: Everything you need to know
+          Moveworks' Employee Experience Insights (EXI) uses AI to tap into information hidden in support tickets and reveals your workforce’s everyday experience.
+Read blog post
+Focus on practical AI: 3 Key learnings from Forrester’s Technology & Innovation Forum
+          Fresh from Forrester’s Technology & Innovation Forum, Moveworks shares 3 takeaways on the future of work and how enterprises should focus on practical AI.
+Read blog post
+How 3 companies use help desk forms to improve employee productivity
+          3 companies — DocuSign, Palo Alto Networks, and Procore — optimized help desk forms to upgrade their support processes and improve employee productivity.
+Read blog post
+Here’s how we use our own AI to better onboard new hires
+          Moveworks uses its own conversational AI to better onboard new hires and make sure they have what they need to succeed in their role on Day One.
+Read blog post
+What the heck is the Idea Funnel anyway?
+          Great leaders are great decision-makers. Learn how employee experience leaders, like you, can use the Idea Funnel to turn ideas into impact.
+Read blog post
+What can HR teams do with an AI chatbot? Make an immediate impact.
+          When it comes it using AI in HR, you need a solution that makes an immediate impact. Read on to see just a few of the ways HR teams can use AI now.
+Read blog post
+New Moveworks-Nexthink partnership enables proactive IT support
+          The Moveworks-Nexthink partnership enables proactive tech support in the digital workplace.
+Read blog post
+Introducing Moveworks for HR: The first AI solution that personalizes HR support
+          Today, we’re incredibly excited to announce Moveworks for HR — a sophisticated artificial intelligence solution built for human resources.
+Read blog post
+Work — you’re doing it wrong.
+          Our current way of working isn’t working. But we have the technology and knowledge to make it better, to make an employee experience that’s almost magical.
+Read blog post
+13 things you can actually do with conversational AI
+          There are an infinity use cases for conversational AI. Here are just 13 of many ways you can use it today.
+Read blog post
+Moveworks expands across Europe to support employees with AI
+          As European companies race to support flexible work, Moveworks brings its AI platform to the UK, France, and Germany.
+Read blog post
+Product Launch: Prevent issues before they happen with Moveworks' first API
+          Moveworks API empowers customers to send critical updates through our platform. Now, employees get the support they need — before running into problems.
+Read blog post
+3 ways omnichannel support improves your employee experience
+          With omnichannel support, employees can use whichever channel they prefer to get help and receive the same seamless experience.
+Read blog post
+Our secret to a world-class HR experience: Start small
+          We often believe in the power of big ideas to increase employee satisfaction, but the truth is that small moments define the HR experience.
+Read blog post
+Product Launch: Announcing multilingual support and Moveworks for Web
+          Moveworks announces two major additions: multilingual support and Moveworks for Web. These changes will deeply support the new normal for companies with global workforces.
+Read blog post
+Language is no limit: How Moveworks built a multilingual AI platform
+          Moveworks built the first multilingual AI platform for employee support. To do so, we had to evolve all parts of our Intelligence Engine™. Here's how.
+Read blog post
+Moveworks opens a new office in Austin, Texas
+          Are you interested in joining a ground-breaking AI company? Now you can... in Austin! Moveworks is proud to move our expansion strategy forward in Texas.
+Read blog post
+The 7 metrics to measure the success of your virtual agent
+          Companies are using virtual agents to support their workforce. But what constitutes an impactful virtual agent? Here are the 7 metrics that matter.
+Read blog post
+Secure in the cloud: Moveworks earns Gold certification for CSA STAR Level 2
+          Moveworks earns Gold certification for CSA STAR Level 2, validating our security programs and demonstrating our commitment to safeguarding customer data.
+Read blog post
+Introducing the next generation of Conversational AI
+          How Moveworks' conversational AI technology can generate a tailored response to every single employee request, across all departments.
+Read blog post
+Product Launch: Moveworks enhances AI platform to support the world’s largest companies
+          Moveworks announces major enhancements to its conversational AI platform, designed to automate support for the world's largest companies.
+Read blog post
+How Moveworks raised $200 million in Series C funding
+          Now valued at $2.1 billion, Moveworks is the first AI platform that provides a seamless employee experience to both remote and in-office employees.
+Read blog post
+From request to resolution: How AI solves a support issue
+          The 5 components of the Moveworks Intelligence Engine™ work in unison to make getting help at work effortless.
+Read blog post
+3 strategies to boost engagement with your employee comms
+          How can companies engage thousands of employees as effectively as people do one-on-one? This article explores three strategies to fix employee comms.
+Read blog post
+Why category creators must rethink company culture
+          What does it take to create an entirely new category of product? Ultimately, it's about empowering the right people with the right company culture.
+Read blog post
+HR Service Delivery: how automation unlocks tier 0 employee support
+          We analyzed thousands of real-world HR requests to offer insight into how to HR teams can move closer to Tier 0 service delivery for their companies.
+Read blog post
+Introducing the Moveworks platform
+          Solve every issue for every employee — across IT, HR, finance, and facilities. Introducing the Moveworks employee experience platform built on conversational AI.
+Read blog post
+Every question, one bot: How Moveworks finds answers across the enterprise
+          Moveworks takes every piece of your company’s disparate data into account to match questions to precise, personalized answers.
+Read blog post
+Why people-centric HR teams depend on conversational AI
+          Moveworks helps HR take on the endless barrage of employee requests so HR teams can focus on higher priorities.
+Read blog post
+More than a message: Inspire action with Moveworks for Employee Communications
+          With Moveworks for Employee Comms, employee experience teams can send targeted, personalized messages at scale, preventing support issues before they happen.
+Read blog post
+We fixed forms: Bring your service catalog to life with Moveworks
+          Forms are critical to a self-service IT strategy. See how Moveworks makes forms smarter at every step of the experience.
+Read blog post
+The Practical Guide to NLP and NLU
+          To build a computer capable of understanding language, natural language processing (NLP) and natural language understanding (NLU) have proven critical.
+Read blog post
+Tailor-made tech support: Why employees need personalized IT help
+          Learn what it takes to build an enterprise identity system, how unique identity maps allow for personalized support, and why service desks depend on personalization to manage complex IT environments.
+Read blog post
+Strength in numbers: Understanding unique IT issues with Collective Learning
+          One-of-a-kind IT issues describe surprisingly similar problems. Collective Learning allows Moveworks to see the similarities under the surface.
+Read blog post
+Moveworks named a leader in Forrester New Wave: Chatbots for IT Operations
+          In its latest report on Chatbots for IT operations, Forrester awarded Moveworks the highest possible score for our Strategy and Market Presence.
+Read blog post
+The future is conversational: Part 2 — How machines learned the secrets of language
+          New approaches to natural language understanding (NLU) and conversational AI have streamlined interactions between people and machines.
+Read blog post
+The gold standard for security: Moveworks achieves SOC 2 Type 2 compliance
+          Moveworks is now compliant with SOC 2 Type 2, the gold standard in information security. This compliance validates our continued commitment to protecting your data and affirms the security of our AI solution.
+Read blog post
+The future is conversational: Part 1 — Understanding the language barrier between people and machines
+          In this post, we’ll dive deep into the history of human-computer interaction, from early chatbots to today’s AI-powered conversation engines.
+Read blog post
+How Robert Half turned Microsoft Teams into an AI-powered virtual workplace
+          In this blog, Dan Powers, Director of IT, Robert Half, explains how they used Moveworks to turn Microsoft Teams into an AI-powered virtual workplace.
+Read blog post
+Advanced AI, available on the app store: Adding Moveworks to Microsoft Teams is now easier than ever
+          The Moveworks chatbot app is available for customers to install directly from either Microsoft AppSource or the Microsoft Teams store.
+Read blog post
+Time is money: We built an AI-powered Concierge to speed up IT support
+          Moveworks Concierge streamlines IT communication, allowing employees to add comments, receive updates, and request action on support issues in real time.
+Read blog post
+Moveworks and Microsoft Teams: Adding instant support to the hub for teamwork
+          Moveworks is today announcing its integration with Microsoft to transform Teams into an autonomous IT support channel.
+Read blog post
+Bhavin Shah on SaaStr: Lessons from the front lines of a new economy
+          Fresh off his appearance on the SaaStr podcast, Moveworks CEO Bhavin Shah reflects on how IT teams are transitioning to the new work-from-home economy.
+Read blog post
+What we've learned about providing essential work-from-home support
+          As companies respond to the COVID-19 outbreak by transitioning to WFH, Moveworks has released new capabilities to support remote employees.
+Read blog post
+Moveworks achieves ISO 27001 certification
+          By prioritizing security from day one, Moveworks managed to earn ISO 27001 certification, demonstrating our commitment to safeguarding our customers’ data.
+Read blog post
+How AI fixed Ask-IT: Introducing Channel Resolver for Slack
+          Moveworks Channel Resolver resolves IT support issues posted on Slack channels, saving employees time while eliminating work for the service desk.
+Read blog post
+How AI finally learned to triage IT support issues, part 2
+          Thanks to groundbreaking advances in natural language understanding and deep learning, AI can now instantly route 90% of IT support tickets.
+Read blog post
+How AI finally learned to triage IT support issues, part 1
+          It still takes five hours for the average IT ticket to be routed to the right expert. Learn how AI can help.
+Read blog post
+Time to scale: New funding lets us transform IT support with AI
+          Moveworks raises a $75 million Series B funding round to scale its automated AI resolution of enterprise IT issues.
+Read blog post
+Anytime, anywhere: Respond to IT issues however they’re reported
+          With AI-powered resolution, enterprise chat platforms fill a void left in the patchwork of IT communications via phone, email, portals, and walk-up kiosks.
+Read blog post
+Why enterprise search is broken, and how Moveworks fixes it
+          Overcome enterprise search challenges with machine learning and novel natural language understanding (NLU) techniques like embedding and Seq2Seq.
+Read blog post
+Broadcom employees celebrate a year of fast IT fixes with AI
+          Broadcom celebrates a year with the Moveworks conversational chatbot. Learn how Broadcom automatically resolves 38% of employee IT issues every week with AI.
+Read blog post
+Natural language is hard: 5 reasons your chatbot isn't working
+          Conversational AI chatbots rely on natural language understanding (NLU) to engage people and get work done. We explore how hard it is to get this right.
+Read blog post
+Achieve powers rapid IT support with chatbot in Slack
+          Slack chatbots can automate IT and onboarding processes seamlessly. See how the IT team at Achieve rolled out a MoveWorks powered chatbot in Slack that facilitates onboarding and lets employees ask questions when they need IT help.
+Read blog post
+Why is NLU important for resolving IT support tickets?
+          Advances in Natural Language Understanding (NLU) and machine learning are enabling IT support issues to be resolved instantly and autonomously.
+Read blog post
+Recent Posts
+Subscribe Here!
+Posts by Tag
+technology (34)
+news (33)
+product features (20)
+best practices (18)
+conversational (11)
+employee experience (11)
+chatbot (8)
+tech (7)
+it-support (5)
+nlu (5)
+security (5)
+case-study (4)
+customer (4)
+customer stories (3)
+language (3)
+machine learning (3)
+onboarding (3)
+portal (3)
+COVID-19 (2)
+scaling (2)
+Google-Hangouts (1)
+Slack (1)
+WFH (1)
+chat adoption (1)
+collective learning (1)
+context (1)
+kb (1)
+resolution (1)
+search (1)
+ticket triage (1)
+See all
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

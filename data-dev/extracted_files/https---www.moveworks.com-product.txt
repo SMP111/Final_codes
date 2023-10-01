@@ -1,0 +1,202 @@
+One platform for all your employees’ needs | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Solve every conversational AI use case
+Automate tasks and find information across every enterprise application through a single, natural language interface.
+Watch the demo
+Previous
+Next
+Pause
+Play
+Text 1
+95
+Of Medallia’s employees get help with Moveworks
+75K
+(And counting) of IT issues resolved autonomously at Broadcom
+98
+Employee satisfaction with the Moveworks bot at Procore
+Watch Moveworks make issues disappear
+AI Copilot
+    The enterprise copilot platform
+Your enterprise copilot integrates with every business system, which means it can support any use case across any department. Whether your employees need help resetting a password, requesting PTO, or submitting an expense — they can do it all in chat.
+Out-of-the-box applications and developer tools
+Moveworks provides a suite of products that improve the capabilities of enterprise copilots, consisting of hundreds of out-of-the-box use cases, configurability of those use cases, and developer tools to create completely new use cases.
+Moveworks for IT
+Power your copilot with a set of out-of-the-box capabilities to turbocharge IT support for your employees — like software provisioning, account unlocks, knowledge search, accelerating approvals, and more.
+Learn more
+Moveworks for HR
+Deploy your copilot with a set of out-of-the-box capabilities to make HR support effortless for your employees — from PTO balance lookups and knowledge search to manager lookups and accelerated approvals.
+Learn more
+Enterprise Search
+Enable your copilot with out-of-the-box capabilities to search for any piece of information or file spread across your business. Your copilot comes with 20+ prebuilt knowledge connectors and 100+ public website connectors. Rich analytics help see where your knowledge gaps are.
+Learn More
+Employee Experience Insights
+Uncover hidden insights from the unstructured data inside your support tickets. Using this information, you'll be able to prioritize automation initiatives and investment opportunities to deliver the best experience for every employee.
+Learn more
+Creator Studio
+Empower your developers and service owners to build enterprise-wide conversational AI use cases limited only by their imagination. Create custom and controlled conversation paths, enable the ability to lookup structured data from systems of record, and send targeted notifications based on system events.
+Learn more
+Employee Communications
+Drive change with actionable, targeted messages. Whether it’s a company-wide announcement or a system outage, reach your employees in the channel they spend the most time in — chat. Powerful post-campaign analytics let you understand and improve the performance of each message you send.
+Learn more
+LLM stack
+Get instant access to best-in-class large language models, trained on 6 years of data, millions of annotated conversations, and adapted to your company-specific data.
+Natural language analytics
+Understand your conversation health. Know where you’re getting the highest ROI, which employees are asking for what, where the gaps are, and how to improve.
+Platform services
+Meet the core components powering our enterprise copilot platform, including pre-built connectors, real-time ingestion, adherence to permissions, and certifications for the biggest security standards.
+“We’ve seen how fast the Moveworks platform evolves firsthand. I don’t have to teach the Moveworks bot anything, I don’t have to do any scripting, and I don’t need a team of people to create dialogue flows. It’s true plug-and-play machine learning.”
+Stanley Toh
+Head of End-User Services & Experience, Broadcom
+Learn More
+Datasheet
+Moveworks constantly improves over time — you don’t have to do a thing.
+Learn how
+Blog
+Transform your business immediately with these 13 use cases.
+Read the blog
+Integrations
+Bring together your entire digital workplace with our deep integrations.
+See integrations 
+See Moveworks in action
+Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

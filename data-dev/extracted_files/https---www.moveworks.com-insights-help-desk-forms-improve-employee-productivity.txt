@@ -1,0 +1,135 @@
+3 Companies Use Help Desk Forms To Improve Employee Productivity | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+How 3 companies use help desk forms to improve employee productivity
+The Moveworks Team
+ September 22, 2022
+linkedin
+facebook
+twitter
+email
+Businesses run on processes. When a process works well, it feels smooth and efficient. There’s a clear sense of purpose and direction, and each step flows logically from the one that came before it. But, when a process is slow and cumbersome, productivity plummets, costs rise, and employees burn out.
+That’s why employee-facing teams, such as IT and HR, are always looking for ways to improve their processes. Often faced with a heavy workload and limited resources, these teams increasingly lean on a variety of tools to help them organize a constant flood of internal requests. 
+Implementing help desk forms is one way to alleviate pressure on these teams. Forms offer an opportunity to streamline the support process and redesign the experience to be more user-friendly. No matter the size of your company, easy-to-access, well-built forms can revolutionize clumsy, time-consuming processes and provide massive time savings for both support teams and employees alike.
+In this post, we’ll break down how three companies — DocuSign, Palo Alto Networks, and Procore — upgraded their support processes by optimizing help desk forms in three key ways:
+Making help desk forms easy to find
+Making help desk forms easy to fill
+Improving help desk forms with continuous feedback
+Why create help desk forms?
+Help desk forms bring a company’s service catalog to life by making support resources easily accessible to employees. High-quality help desk forms have cascading benefits: They provide the information needed to reduce the amount of back and forth between support teams and employees, they route issues to the right experts, and they drastically reduce the amount of time it takes to deliver help.
+By filling out a form, an employee can request software, replace hardware, add a new teammate to a distribution list, update healthcare benefits, verify employment, and update a record in Salesforce. And for the help desk, forms are a great way to collect structured information from users, making it easier and faster to deliver a response.
+DocuSign helps employees find forms
+Employees don’t know where to go for help. IT has its systems. HR has other systems. And both these teams are continually adding new forms, knowledge articles, and software tools. So, it’s no surprise that employees are often unaware of the breadth of information at their fingertips. 
+That’s why DocuSign made the entire help desk form experience conversational. Instead of scrolling through a portal, employees can explain their issues to a virtual agent with natural language via Slack. Forms across teams from IT to HR are centralized, making it easy for employees to find what they need. And the virtual agent’s AI eliminates confusion by offering employees the option to simply explain their problem, without worrying about whether it’s an IT or HR or payroll issue. 
+Figure 1: DocuSign’s virtual agent understands what employees need and pulls the right form from the service catalog.
+Now, the primary way DocuSign’s employees access support resources is through help desk forms, which allow agents to quickly deliver the best resolution. Every month, the virtual agent surfaces more than 350 forms in under two seconds, ensuring that much-needed solutions are only a message away.
+Palo Alto Networks fills forms in chat
+Forms can be long and tedious. Spending any amount of time filling in the same, basic information or scrolling through drop-down menus takes precious time from more meaningful work. 
+Because forms are such a crucial element of their self-service support strategy, Palo Alto Networks made it possible for employees to fill out and submit forms via chat. Whether an employee reaches out on Slack or the ServiceNow portal, the form-filling experience is personalized to each specific requestor since the virtual agent automatically syncs the user’s location, permissions, and conversation history across various support channels. In some cases, an employee only needs to fill out a single field. The virtual agent takes care of the rest.
+Figure 2: At Palo Alto Networks, a virtual agent makes it easy for employees to fill out forms conversationally in Slack, the company’s enterprise chat platform.
+Massively reducing friction within the form-filling process makes employees more inclined to complete the process, minimizing the amount of work for the IT team and accelerating solutions. This ultimately adds up to thousands of issues automatically solved every month and hundreds of thousands of hours of productivity saved.
+Forms speed up support at Procore
+Resource gaps are difficult to identify. It’s hard for support teams to determine which resources employees need without visibility into employee requests. 
+In an effort to improve their own forms, support teams at Procore regularly dig into help desk form usage data, highlighting where they have good forms, bad forms, or no forms at all, so they can fill in the gaps. Thinking about the most common services requested by employees over the last week, month, and three months, agents break down patterns, then create new forms or update old ones to keep up with demand.
+Figure 3: Looking to speed up support, Procore prioritizes the creation of new help desk forms to address common pain points, such as adding a contractor to a distribution list, based on user feedback.
+Procore’s service desk works to constantly improve its backend systems, creating a positive feedback loop between what employees need and the resources that are available to them. By paying attention to what’s going on in its support environment, Procore’s support team can prioritize building that content so their virtual agent can answer more questions and, at the end of the day, resolve more issues. Currently, help desk forms are used to provision software automatically almost 50 times a month alone. And this number will continue to grow as the team continues to create more, high quality help desk forms.
+Help desk forms give people back time
+Forms can open your organization to a whole new world of workplace efficiency. Instead of spending hours each day troubleshooting a VPN connection, waiting around for software access, or jerry-rigging a troublesome standing desk, employees at DocuSign, Palo Alto Networks, and Procore are getting the support they need with help desk forms.
+Of course, support teams benefit too! Focusing on help desk forms massively impacts the service desk’s ability to automate hundreds of solutions, saving hours upon hours of productivity.
+See for yourself how AI-powered help desk forms save time. Schedule a demo.
+case-study
+best practices
+product features
+employee experience
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

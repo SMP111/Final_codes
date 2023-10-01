@@ -1,0 +1,187 @@
+Discover The Moveworks Platform | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+The Moveworks Platform
+Meet the core components powering our enterprise copilot platform.
+Previous
+Next
+Pause
+Play
+Cost Reduction
+Trusted by the best: over 100 Fortune 500 companies choose Moveworks
+Conversational AI platform
+        Language is the new UI  
+Leveraging top-tier LLMs, Moveworks presents a versatile AI copilot platform that tackles hundreds of use cases across all enterprise systems, ensuring exceptional security without compromising on performance.
+Large Language Models 
+Harness best-in-class LLMs
+With Moveworks, you’re putting the latest and greatest language models at your employees’ fingertips. We do the heavy lifting — evaluating, fine-tuning, and incorporating LLMs into your business on your behalf. Only with Moveworks will you be able to capture the unique strengths of leading language models trained on a vast repository of enterprise data.
+Resource Ingestion
+Streamline knowledge discovery
+Accessing information from disparate systems can be time-consuming and inefficient. The Moveworks platform brings all your resources to life, eliminating the hassle of sifting through countless documents, portals, files, and workflows. Our platform automatically ingests, standardizes, scans, and annotates every piece of information as it is created converting them into up-to-date, action-oriented snippets. 
+Workflow Orchestration
+Drive workflows across multiple systems
+The Moveworks platform makes it easy to tackle complex tasks involving multiple backend systems, like provisioning software and managing approvals. Built with a deep understanding of enterprise support, our platform streamlines processes leveraging both our out-of-the-box solutions and deep integrations. Let Moveworks' AI handle the complexity, so you can focus on what matters most.
+Connectors
+    Easily connect any enterprise system
+The Moveworks platform offers 100+ deep integrations across ITSM, IDAM, HRIS, ERP, and facilities systems of record — in addition to collaboration platforms, knowledge bases, email groups, workflow automation tools, and RPA systems. Our solution simplifies all your tasks, lookups, and searches, streamlining processes throughout your organization.
+Connect Moveworks to any enterprise system
+Identity & Permissions
+Seamless access management
+Effortlessly manage user access and permissions across your organization. The Moveworks platform is designed to pull relevant user and identity information from backend systems so you don’t have to. By tying these details to a comprehensive, up-to-date identity map, you stay in control, ensuring your team members receive only authorized resources.
+Conversational Analytics
+Unlock actionable insights
+Get unprecedented visibility over the health of their entire support experience. Moveworks’ natural language understanding analyzes unstructured data across your enterprise environment to present a simple, actionable to-do list, so leaders can identify critical issues, prioritize projects, invest in the right technologies, and more.
+Security
+    AI you can trust
+Know that your data is safe and secure. The Moveworks platform prioritizes customer trust with industry-leading security measures and adhering to stringent certifications. We strongly focus on data protection, hardened infrastructure, and responsible AI implementation to ensure your data remains secure, reliable, and compliant with privacy requirements.
+Web
+Explore Moveworks’ copilot: automate tasks and search across systems with one language interface.
+Learn more
+Guide
+Read this guide for a comprehensive primer on how to get the most out of the latest breakthrough of AI in IT.
+Read the guide
+Blog
+Discover how Creator Studio connects people to enterprise systems through natural language.
+Read the blog 
+Learn how the Moveworks platform drives ROI, reduces busy work, and improves employee experience.
+Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

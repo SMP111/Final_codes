@@ -1,0 +1,74 @@
+moveworks-group
+Jump to ContentGuidesv1.0v1.2.0DocumentationDeveloperAcademySupportSign InDocumentationDeveloperAcademySupportSign Inv1.2.0GuidesSearch
+/***************** EDIT HTML/BODY HERE *********************/ 
+          Welcome to the 
+          Moveworks Help Center!
+          Learn more about the Moveworks  enterprise copilot platform.
+Getting Started
+                Everything you should know to hit the ground running.
+Learning AboutProducts
+Moveworks product documentation
+                Configuring andMeasuring Impact
+Analytics and configuration documentation
+Developing on the Platform
+Maximize with Creator Studio
+Integrations
+Integrations documentation
+Security
+Security documentation
+      Learning About Products
+Moveworks for IT
+Account Access
+Software Access
+Group Access
+Answers
+Forms
+Control Center
+Lookups
+Profile Boosting
+Approvals
+Triage
+Concierge
+Moveworks for HR
+Moveworks for HR
+Enterprise Answers
+Enterprise Answers
+Employee Communications
+Employee Communications
+Employee Experience Insights
+EXI
+Routes & Platforms
+Channel Resolver
+Ticket Interception
+Moveworks for Web
+Multilingual Support (MLS)
+Creator Studio
+Creator Studio
+      Configuring & Measuring Impact
+Analytics
+Agent Time-Saving
+Employee Time-Saving
+Analytics Troubleshooting
+IT Resolution Calculation
+Domain and Entity Prediction
+Dashboards
+Executive Insights
+Bot Performance Insights
+Answers Insights
+Triage Insights
+SFTP
+SFTP
+Tableau and SFTP Setup
+      Developing on the Platform
+Creator Studio
+Getting Started with Creator Studio
+Paths
+Queries
+API Reference
+Events
+Webhooks
+Analytics
+      Integrations
+Integrations
+Native Integrations
+Copyright ©Moveworks 2023.  All Rights Reserved.

@@ -1,0 +1,224 @@
+Benefits of Conversational AI in Government | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+How conversational AI can drive mission success for the public sector
+Peter Barrett, Director of Federal Strategy
+ September 14, 2023
+linkedin
+facebook
+twitter
+email
+Remember when ChatGPT exploded onto the scene and showed us how useful conversational AI could be? We're already familiar with conversational AI in our day-to-day lives. But how can it be harnessed to transform public services? Turns out quite a lot.
+Imagine having the option to renew your license just by having a conversation, applying for medical benefits, inquiring about upcoming road or school closures, or even requesting your city take care of the dying tree on your street. Or, if there’s a storm and a downed powerline near you, AI can send targeted notifications to all the area residents to avoid potentially dangerous situations. The use cases are endless and can have a real, immediate impact on the public. 
+Conversational AI isn't just sci-fi fantasy — it's here and now. And government organizations that fail to embrace it today do so at their own peril. Because while they stall, their more innovative counterparts will leapfrog ahead in efficiency, cost-savings, and citizen satisfaction.
+The potential for conversational AI in the public sector is immense. This article will highlight how AI-powered tools, like copilots, can streamline operations, boost productivity, and transform how citizens access services. We'll cover everything from critical use cases to challenges to workforce implications.
+The appetite is already there from the top — 83% of senior public sector leaders say they can and are willing to adopt intelligent technologies like conversational AI. The time to act is now. With the right strategy, public sector organizations can start delivering tomorrow’s services today. Conversational AI could similarly transform how citizens interact with the government. The future is here. Let’s have a chat about it. Today, you’ll learn:
+What conversational AI is in the public sector
+Conversational AI use cases for the public sector
+The challenges of conversational AI in the public sector
+The benefits of conversational AI in the public sector
+What best practices are for AI transformation in the public sector
+How conversational AI will drive mission success for agencies
+How to prepare public sector workforces for AI transformation
+What is conversational AI in the public sector?
+Conversational AI is a sophisticated form of artificial intelligence designed to enable seamless interaction between humans and computers through voice or text. A central technology behind conversational AI is natural language processing (NLP), which enables machines to understand, interpret, and generate human language.
+Unlike simple chatbots that rely on predefined menus and scripts, conversational AI can understand context and intent, allowing for more natural back-and-forth interactions. Some examples of conversational AI technologies include:
+Chatbots: Tools that can simulate human conversation and interact with users through text or voice-based interfaces.
+Copilots: A newer class of conversational AI that uses large language models (LLMs) to generate lengthy responses, summarize documents, answer follow-up questions, and assist with complex tasks. More specifically, enterprise copilots support users in various tasks and decision-making processes across multiple domains within an enterprise environment.
+Within the public sector, conversational AI has the potential to augment and even fully automate aspects of citizen services by providing 24/7 support for everyday administrative tasks. More advanced copilots can also assist public employees in their day-to-day work, reducing process ambiguity and friction points.
+As government organizations pursue digital transformation, technologies like conversational AI will be critical to optimizing operational costs and delivering seamless citizen services. For example, Gartner predicts that by 2026, 60% of government organizations will prioritize business process automation through hyperautomation initiatives to support business and IT processes in government to deliver connected and seamless citizen services.
+Additionally, Gartner foresees that total experience (TX) approaches will become vital to creating synergies among customer experience (CX), employee experience (EX), multi-experience (MX), and user experience (UX). Mapping and visualizing citizen and employee journeys will enable CIOs to reduce experience friction points across these traditionally siloed areas.
+The wide range of possibilities will be explored in more detail in the next section, which outlines some key use cases for deploying conversational AI in government. By understanding the various applications of technologies like conversational AI, hyperautomation, and TX, public sector organizations can start to envision how they could specifically benefit their needs and operations as part of a digital transformation strategy.
+Conversational AI in government examples aren’t just back-office operation use cases
+Much of the conversational AI buzz has been centered around public and private companies, but what use cases can benefit local, state, and federal government services? As it turns out, there are many. Conversational AI offers immense potential to transform public sector operations and services across a multitude of applications:
+Conversational AI use cases in citizen services
+Citizen service chatbots: Enhance citizen engagement with 24/7 automated assistance for common inquiries, appointment booking, status checks, and more.
+Intelligent call routing: Determine caller intents and streamline interactions by rerouting calls to suitable agents and answering common questions. 
+Document processing: Extract vital information from forms and other documents to partially or fully automate various processes.
+Language translation: Break language barriers and provide equal access to services with real-time translation chatbots or phone systems, ensuring non-English speakers can effortlessly access the support they need.
+Smart speakers and other devices: Offer convenient, conversational access to government services and information through smart speakers and devices, like smartphones.
+Conversational AI use cases for internal operations
+HR virtual assistants: Handle employee inquiries about policies, benefits, and HR issues 24/7.
+Meeting summarization: Improve transparency and knowledge sharing by automatically generating discussion summaries.
+Benefits determination: Utilize natural language processing (NLP) for efficient document review and data extraction, streamlining the processing of benefits applications.
+IT help desk support: Provide technical assistance to employees, addressing issues like password resets and offering helpful troubleshooting guides.
+Hiring and recruiting: Enhance the recruitment process with capabilities such as resume matching, interview scheduling, and candidate evaluations.
+Conversational AI use cases for data and analytics
+Survey analysis: Extract valuable insights from text-heavy surveys to derive meaningful conclusions from open-ended survey responses, facilitating improvements in government operations.
+Program targeting: Harness the potential of predictive analytics to optimize program targeting, specifically in the planning and allocation of resources.
+Resource allocation: Implement data-driven resource allocation strategies that maximize efficiency and effectiveness in government operations.
+Customer sentiment analysis: Analyze citizen feedback and complaints to identify areas for service improvements, fostering better public relations.
+Financial oversight: Monitor budget versus actuals, analyze past expenditures, and forecast future financial needs, ensuring responsible financial management.
+Conversational AI use cases for security and compliance
+Regulatory compliance: Ensure strict adherence to regulatory standards and requirements to uphold the integrity and trustworthiness of government operations.
+Fraud detection: Employ advanced technologies to proactively detect and prevent fraudulent activities, safeguarding government resources and data.
+Cybersecurity enhancement: Leverage natural language processing (NLP) for log analysis, threat detection, and vulnerability identification.
+Records management: Efficiently manage and maintain organizational records to meet compliance and operational requirements, safeguarding critical information and supporting transparent governance.
+Conversational AI’s integration into public sector operations and service delivery unlocks 24/7 accessibility, improves efficiency, and generates data-driven insights. As this technology advances, governments must leverage it to provide more responsive and proactive programs for citizens and employees.
+Evaluating the challenges and limitations of conversational AI in the public sector
+Implementing conversational AI in the public sector comes with critical ethical considerations and practical limitations that government organizations must evaluate:
+Algorithmic bias: Like any AI, conversational models can perpetuate biases from flawed training data or developers. Governments must proactively audit algorithms and refine them to ensure fair, unbiased AI.
+Explainability: It often needs to be clarified how AI makes decisions, which is problematic for public sector accountability. Techniques to increase explainability — such as providing transparent and understandable reasoning for the AI’s conclusions and predictions — are essential in building trust.
+Integration difficulties: Connecting AI with legacy systems presents complex technical and cost challenges. An iterative, user-centric approach that starts with the most impactful use cases can mitigate risks.
+Limitations in nuanced understanding: Conversational AI struggles with complex queries and lacks human-level context, which can frustrate users and increase distrust in the AI.
+Scaling difficulties: Training robust models requires expertise and data that governments may lack. 
+Lack of trust: Citizens may distrust AI for sensitive tasks. Building confidence takes time and a focus on ethics, security, and transparency.
+Privacy and security risks: Handling private data securely and ethically is critical. Governments must minimize data exposure and anonymize records.
+High costs: Upfront investment in capable virtual agents is substantial, but starting small and demonstrating benefits can secure buy-in over time.
+Overcoming these barriers requires an iterative, user-focused approach — piloting conversational AI where it shows the most promise first, then expanding use cases carefully as capabilities advance. A hybrid strategy combining AI and people can help address limitations. But used properly, conversational AI can augment public services in many impactful ways.
+The unique challenges facing AI transformation in the public sector
+AI transformation in the public sector faces unique obstacles:
+Workforce resistance: About 24% of public-sector workers are millennials, compared with 34% in the private sector. With an older workforce than the private sector, government agencies may encounter more cultural resistance and aversion to transformational change. 
+Intangible goals: Compared to profit-driven business metrics, government success measures are often intangible and complex, making the benefits of AI transformation harder to quantify.
+External scrutiny: Government AI initiatives face heavy public scrutiny from watchdogs, unions, and opposition voices — all of which intensify pressures for transparency and multi-stakeholder communication.
+Transforming government operations and services with AI is uniquely challenging. However, starting small, focusing on citizen needs, and communicating benefits and limitations clearly can help agencies overcome barriers. The public sector can navigate obstacles to harness AI responsibly with proper care and partnerships.
+The benefits of conversational AI for government operations
+Implementing conversational AI strategically presents a myriad of benefits for public sector organizations:
+Increased efficiency and productivity: By automating repetitive tasks, AI allows employees to focus on higher-value work. 
+Cost and time savings: Automating tedious tasks like paperwork and data processing frees up employee time and reduces servicing costs. For example, a Deloitte study found that automating federal employee tasks could save 96.7 million to 1.2 billion work hours per year and $3.3 to $41.1 billion in costs.
+Improved citizen satisfaction: Conversational AI and intuitive interfaces allow citizens to easily access services, get answers, and resolve issues 24/7, improving satisfaction by meeting citizen needs and expectations.
+More inclusive and accessible services: AI chatbots and voice interfaces expand access for non-English speakers and those with disabilities.
+Better data-driven decisions: Converting raw government data into insights with natural language generation and AI analytics provides policymakers with timely, digestible recommendations rooted in evidence rather than guesswork.
+Enhanced reporting and oversight: Automated reports and meeting summaries improve transparency.
+Targeted service delivery: Ability to optimize programs and resource allocation using predictive analytics.
+Innovation opportunities: Piloting emerging technologies via conversational interfaces provides valuable feedback.
+Improved recruiting and hiring: Conversational AI can remove bias and overhead from talent acquisition processes.
+With careful adoption, conversational AI enables public sector agencies to deliver better services to citizens through automation and data-driven insights. The technology opens the door for more efficient, inclusive, and responsive governance.
+Unlock conversational AI benefits with an ethical, equitable approach
+To fully realize the potential of conversational AI while mitigating risks, government implementations should focus on the following:
+Unbiased training data: Like any machine learning application, conversational AI is only as unbiased as the data used to train it. Governments must ensure diverse, representative datasets free of skewed demographics or labels.
+Transparent capabilities: Being clear and honest about a conversational AI's abilities and limitations builds public trust while overpromising will lead to disillusionment.
+Human oversight: Human review is essential for high-stakes decisions like benefits eligibility to correct AI errors and maintain accountability. 
+Worker displacement avoidance: Conversational AI should complement rather than replace human employees wherever possible. Automating only repetitive tasks preserves jobs requiring emotional intelligence, creativity, and judgment.
+Security and privacy controls: With personal citizen data, strong access controls, encryption, and anonymization are required to maintain privacy.
+With thoughtful implementation guided by ethics and equity from the start, governments can demonstrate AI's immense capability to enhance lives while building vital public trust over time.
+What are the best practices of AI transformation for governments?
+Some best practices of AI transformation are:
+Involve people more: Investments alone are not enough for AI projects. Human and processes aspects also help achieve success in AI projects.
+Enhance technology infrastructure: AI deployment may require restructuring the technology infrastructure for faster system integration.
+Improve data quality and collection: AI is data-hungry. Collecting high quality data is a prerequisite for numerous AI implementations.
+Involve the experts: Recruit professionals proficient in ML and AI deployments. AI consulting and custom AI development firms can provide the necessary experience and talent for governments.
+Reduce bias: Following best practices to reduce AI bias can also guide governments during their AI projects.
+How conversational AI will help drive mission success for agencies
+Integrating conversational AI strategically into operations can help public sector organizations better serve citizens and fulfill their missions:
+The Department of Commerce oversees critical economic data. AI can provide businesses with seamless access to relevant statistics and reports through natural language searches, furthering the mission of promoting economic growth.
+As the federal HR policy leader, the Office of Personnel Management can deploy AI to assist managers and professionals with workplace questions across the public sector. 
+Managing veteran care programs is central to the Department of Veterans Affairs' mission. AI would let veterans easily access services through conversational interfaces, improving access to benefits.
+Local governments can use AI to handle common citizen inquiries on taxes, bills, etc., boosting constituent services and freeing staff for higher-value work.
+In crises, conversational AI can be a lifeline for overwhelmed agencies by rapidly automating processes like unemployment claims with huge volumes.
+Law enforcement agencies can use AI  to provide officers quick access to databases, real-time information, and analytical insights in the field, leading to better community protection.
+These examples demonstrate conversational AI's immense potential to help agencies cut costs, strengthen operations, and further their mission results for the public good. Yet most have only scratched the surface of leveraging AI's benefits. With strategic adoption, more responsive, effective, and innovative government is within reach.
+Preparing public sector workforces for AI transformation
+As government organizations adopt conversational AI systems, they must proactively manage the impact on their workforces and prepare employees for the transition. Some key considerations include:
+Prove value with small use cases: Simple repetitive tasks are ideal processes for conversational AI. Start by automating painful rote tasks to demonstrate benefits to help build support before widescale deployment.
+Prioritize security and compliance: Work with FedRAMP-compliant vendors with robust practices, including data handling and access controls.
+Scale carefully: Expand capabilities gradually once initial ROI is proven. Move from simple to complex use cases.
+Optimize continuously: Gather feedback, monitor usage metrics, and expand knowledge. Note that conversational AI requires a deep understanding of industry and public sector-specific language. Vendors relying solely on generic pre-trained models may struggle with specialized vocabulary.
+Access quality training data: Conversational AI relies on comprehensive, industry-specific data. Vet vendor data sources and test with your own samples.
+See real-world demos: Insist on demos with your own data and users to reveal the conversational AI’s actual performance.
+Find proven AI expertise: Vendors with experience deploying complex enterprise conversational AI have an advantage.
+Mitigating job loss through re-training: Governments can provide skills training and job placement support for workers displaced by automation to transition into new roles.
+New hybrid roles: Blending conversational AI into existing jobs creates opportunities for employees to manage and refine the technology. Most jobs won't disappear but will evolve.
+Adopt an agile mindset: As capabilities evolve quickly, public sector cultures must embrace iteration, testing, and human-centered design.
+With planning, government workforces can be augmented and empowered by conversational AI rather than displaced. Change management and inclusive policies that support workers will enable the public sector to tap the full potential of AI while ensuring no one is left behind.
+The public sector must be ready for AI. 
+The public sector stands at a crossroads. Government organizations can either choose to lag behind as the world races towards an AI-powered future, or boldly lead the charge.
+The potential of conversational AI to transform operations, services, and society is astounding — but only if we dare to harness it. The technology to thrive in the 21st century is here today. We already rely on AI in our daily lives.
+With care, transparency, and responsible leadership, conversational AI can unlock a brighter future, one where high-quality public services are profoundly more accessible, inclusive, and personalized for all. This is the promise of artificial intelligence — if we choose to fulfill it.
+The time for tentative half-measures has passed. Conversational AI is the next indispensable tool in that journey. Its benefits are too great, and risks too manageable, to ignore any longer.
+Contact Moveworks to learn how AI can supercharge your workforce's productivity.
+case-study
+customer
+best practices
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

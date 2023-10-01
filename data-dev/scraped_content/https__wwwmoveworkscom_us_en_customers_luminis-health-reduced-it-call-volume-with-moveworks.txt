@@ -1,0 +1,1126 @@
+
+
+
+
+
+Luminis Health Reduced IT Call Volume By 25% | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Customers
+
+
+
+          Luminis Health
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Luminis Health reduced IT call volume by 25% in 2 weeks
+  
+
+
+
+
+    Decreasing call volume directly reduces IT service costs and gives Luminis Health’s team time to update critical infrastructure.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luminis Health is a not-for-profit health system that serves communities across central Maryland, from DC to Delaware.
+
+Download the PDF
+
+
+
+
+
+
+            15seconds
+
+
+Average IT call wait time
+
+
+
+Challenge
+Increasingly high call volume and wait times, blocking productivity            
+
+
+Result
+Employees transitioned to self-service support, resulting in a 25% reduction in call volume just weeks after launching Moveworks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem
+
+    Luminis Health needed to move fast to provide the best healthcare
+  
+
+
+
+With a mission to enhance the health of the communities it serves, Luminis Health faced a challenge typical of healthcare: a tight budget. Andre Green, IT Director at Luminis Health, was familiar with this challenge, having led support teams at other leading healthcare facilities, including Johns Hopkins.
+Currently responsible for providing IT support to over 9,000 staff members across two hospitals and 80 outpatient clinics, Green understood that — to make the most of the resources he had — he needed to invest in tools that could deliver high-quality service and speed up IT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Solution
+
+    Moveworks reimagines IT support at Luminis Health
+  
+
+
+
+In June 2022, Luminis Health deployed its Moveworks bot, known internally as Lumi. Lumi is an AI-powered chatbot on Microsoft Teams, Luminis Health’s messaging platform. The bot has completely transformed how physicians get help: rather than waiting days, they now get answers in seconds.
+Crucially, Moveworks understands that one size does not fit all when it comes to support. That’s why Lumi’s AI doesn’t just understand what users need; it automates every step of the support process, personalizing solutions to who is asking.
+Powered by the Moveworks Intelligence Engine™, Lumi breaks down physicians’ requests, maps them to solutions across Luminis Health’s entire digital infrastructure, and delivers relevant snippets of information. And because it’s learned the company’s unique org chart, every answer is personalized according to the user’s role, location, and security permissions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Healthcare is one of the most complicated industries to serve. Everything is an emergency, and IT is the first line of defense. Moveworks made an immediate impact, dealing with issues in seconds, so my team has the time it needs to improve service delivery.
+
+
+
+Andre Green
+IT Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Result
+
+    25% reduction in IT call volume in 2 weeks with Moveworks
+  
+
+
+
+Perhaps Lumi’s greatest business impact is how it has sped up support across multiple support channels. With Moveworks, IT issues are resolved instantly, remotely, and often without agent intervention — all directly from a chat conversation. So there’s no need to pick up the phone.
+As a result, call volume dropped dramatically in the first weeks of the bot going live at Luminis Health. Green has even been able to outsource night and weekend calls entirely to Lumi. Call volume isn’t the only KPI that’s dropped; for those who do require phone support, wait times are significantly shorter. Agents pick up calls in under 20 seconds because they’re available to help since Lumi is already taking care of the routine problems. Employees are getting the support they need, the moment they need it!
+And the bot isn’t just helping employees. For the help desk, it’s freed up agents to concentrate on high-impact initiatives and shores up IT staff during the week, so if there’s an emergency, they can jump on it. Now, even as the company adds new people, systems, and tools, Moveworks provides a single interface for support — one that eliminates friction at every step of the process.
+ 
+← Back to all Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    Key Integrations
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about Moveworks
+
+
+
+
+Vituity speeds up healthcare with AI
+Vituity provides faster care at massive scale — by supporting its physicians with AI.
+
+Watch now
+
+
+
+
+
+
+
+
+Verisk supports a global workforce
+Verisk shut down phone support because users prefer going to Moveworks on Microsoft Team.
+
+Read the case study
+
+
+
+
+
+
+
+
+Reduce IT call volume with AI
+Luminis Health reduced IT call volume by 25% with AI on Microsoft Teams.
+
+Watch the video
+
+
+
+
+
+
+
+
+
+
+
+ Create the world's best workplace
+
+ Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

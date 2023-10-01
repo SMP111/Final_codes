@@ -1,0 +1,189 @@
+IT Tickets Become A To-Do List With Employee Experience Insights | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Intercontinental Exchange
+    Intercontinental Exchange turns IT tickets into an actionable to-do list
+    Typical ITSM analytics miss the mark. Moveworks’ EXI uses AI to break down ticket data and understand exactly what’s happening to employees.
+Combining world-class technology with leading data services and operating expertise, Intercontinental Exchange (ICE) operates global financial exchanges and clearing houses and provides mortgage technology.
+Watch the video
+            -
+-
+Challenge
+Prioritizing automation projects that drive an efficient employee experience
+Result
+Employee Experience Insights identify the issues, apps, and services that are slowing employees down the most
+The Problem
+    Building an efficient employee experience that doesn’t hold anyone back
+Chuck Adkins, Senior Vice President at Intercontinental Exchange (ICE) wanted to build an environment where his colleagues and employees could focus on their business and their customers. 
+Like the majority of other IT leaders, Adkins tracked all the usual metrics to see where systems and processes were breaking down: SLAs, employee satisfaction surveys, etc. While these metrics are decent at showing exactly what his team was doing, how many tickets are coming in, and how quickly his IT team was answering them — in Adkin’s mind — these statistics were table stakes. He was missing key information about the everyday employee experience at ICE, what the problems were, and how happy people were with the solutions.
+Adkins was stuck between a rock and a hard place: How could he improve the employee experience while running an efficient IT operation without greater visibility?
+The Solution
+    Employee Experience Insights: The metrics ICE needed to track
+In December of 2020, Intercontinental Exchange launched HelpBot, a Moveworks-powered chatbot that lives on Microsoft Teams. Powered by the Moveworks Intelligence Engine™, HelpBot uses state-of-the-art natural language understanding (NLU) to break down employees requests, determine the right response, and take action across ICE’s digital infrastructure — anytime, anywhere.
+Moveworks’ NLU does more than engage employees conversationally. NLU-powered Employee Experience Insights (EXI) allows IT leaders to understand and optimize the entire support experience. By analyzing unstructured information included in IT tickets, EXI turns thousands of requests into an actionable to-do list to drive change.
+Today, Adkins is using EXI to understand where the problems are across his organization. Does ICE have problems in Sales that don't manifest themselves in Marketing? Does ICE have remote employees with problems that in-office employees don't? 
+Without EXI, Adkins was dependent on conventional IT analytics solutions that only offered a narrrove view. With EXI, he can immediately react to problems proactively and better focus his resources to where they're needed most.
+I’m using EXI to understand where the problems are across my organization. Do we have problems in Sales that don't manifest themselves in Marketing? Do we have remote employees struggling with problems that in-office employees don't have right now? I'm blind to those things. EXI will help us better focus our resources to where they're needed — now.
+Chuck Adkins
+Senior Vice President, Information Technology, Intercontinental Exchange
+The Result
+    EXI offers an actionable to-do list for ICE
+Employee Experience Insights (EXI) allows ICE to turn thousands of requests into a simple, actionable to-do list. This information lets Adkins know which resources to create, how many service desk agents to hire, and where the low-hanging fruit is.
+For example, he and his team were surprised to discover that Outlook was ICE’s largest issue. The team didn’t classify tickets so specifically, because it would require tons of manual work. Moveworks’ EXI was able to distill information from across thousands of tickets and pinpoint the core problem. Now, ICE’s IT team can devote resources to solve these underlying problems and drive efficiency across the organization.
+Employee Experience Insights allows ICE to understand exactly what's happening to its employees, no matter where they are or what group they're in. So IT can efficiently focus its resources and meet every employees’ needs.
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+The 7 metrics to measure the success of your virtual agent
+Here's a guide to help you evaluate which virtual agent is right for your team.
+Read the blog
+Albemarle 2x productivity with EXI
+Albemarle uses Moveworks’ Employee Experience Insights to seamlessly support its global operations.
+Read the case study
+Employee Experience Insights: Everything you need to know
+EXI taps into information hidden in support tickets and reveals your workforce’s experience.
+Learn more
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

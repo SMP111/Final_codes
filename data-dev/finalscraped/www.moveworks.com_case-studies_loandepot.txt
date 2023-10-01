@@ -1,0 +1,1125 @@
+
+
+
+
+
+5-Minute IT Approval Process? loanDepot Says Yes. | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Solutions
+
+
+Customer Stories
+
+
+Resources
+
+
+Company
+
+
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+Overview
+
+
+
+
+Product Overview
+
+
+
+
+How it Works
+
+
+
+
+LLM Stack
+
+
+
+
+Enterprise Copilot
+
+
+
+
+
+
+Key Features
+
+
+
+
+Creator Studio
+
+
+
+
+Employee Experience Insights
+
+
+
+
+Multilingual Support
+
+
+
+
+Moveworks API
+
+
+
+
+Integration Partners
+
+
+
+
+Triage
+
+
+
+
+Performance Dashboards
+
+
+
+
+
+
+Experiences
+
+
+
+
+Answers
+
+
+
+
+Approvals
+
+
+
+
+Concierge
+
+
+
+
+Control Center
+
+
+
+
+Employee Communications
+
+
+
+
+Groups Access
+
+
+
+
+Software Access
+
+
+
+
+
+
+Solutions
+
+
+By Team
+
+
+
+
+IT
+
+
+
+
+HR
+
+
+
+
+Finance
+
+
+
+
+Facilities
+
+
+
+
+Employee Communications
+
+
+
+
+
+
+By Use Case
+
+
+
+
+HR Service Desk
+
+
+
+
+Identity Access Management
+
+
+
+
+IT Service Desk
+
+
+
+
+IT Service Management
+
+
+
+
+Knowledge Management
+
+
+
+
+
+
+By Initiative
+
+
+
+
+Cost Reduction
+
+
+
+
+Employee Onboarding
+
+
+
+
+Multilingual Support
+
+
+
+
+Self Service
+
+
+
+
+
+
+Customer Stories
+
+
+Resources
+
+
+Resource Center
+
+
+
+
+Blog
+
+
+
+
+Help Center
+
+
+
+
+Company
+
+
+About us
+
+
+
+
+Careers
+
+
+
+
+Newsroom
+
+
+
+
+Contact us
+
+
+
+
+Trust
+
+
+
+
+
+
+Request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Customers
+
+
+
+          loanDepot
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Are 5-minute IT approvals the future? loanDepot says yes.
+  
+
+
+
+
+    To build the workplace of the future, loanDepot knew they needed to provide unwavering, fast service. That's why they turned to conversational AI to speed up IT.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Founded in 2010, loanDepot is one of the largest mortgage lenders in the US. Focused on creating a straightforward experience, the company has helped more than a quarter of a million Americans achieve their dreams of homeownership.
+
+Download the PDF
+
+
+
+
+
+
+            <5mins
+
+
+For IT requests to be approved
+
+
+
+Challenge
+Responding to technical support tickets took days, blocking employee productivity                                    
+
+
+Result
+The IT team uses AI to manage approvals in a matter of minutes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem
+
+    At loanDepot the IT approvals process took days
+  
+
+
+
+At loanDepot, there were mounting issues facing the service desk. Responses to technical support tickets were backed up by hours, if not days, and negatively impacted employees’ abilities to do their jobs. That’s why Donald Small, Director of IT Service Management at loanDepot, had his own mission: creating the workplace of the future.
+As a company that prides itself on building genuine people connections, Small recognized that 30 L1 service agents manually solving problems wasn’t fast enough. Employees need their systems to work all the time, so that they can focus on the critical task of serving customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Solution
+
+    loanDepot launched a chatbot to speed up IT approvals
+  
+
+
+
+In February 2022, loanDepot launched its Moveworks chatbot: Elle-Dee. The chatbot uses Moveworks’ conversational AI platform to solve issues and prevent problems at work. It automatically resolves employees’ requests, communicates changes, and shows the loanDepot team what to fix next. 
+Before Elle-Dee, a typical support ticket might take three to five days until resolution. Now, employees get solutions in just minutes. In its first month alone, Elle-Dee answered over 1,000 questions from employees, while also unlocking accounts, provisioning software, and managing approvals. IT has time to work on big digital transformation projects, and employees don't have to wait for support.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At loanDepot, we’re laser-focused on the future. The only way forward is to build an amazing employee experience, where all our people get the support they need to build the best future for themselves and the company. Moveworks’ AI is critical to our strategy.
+
+
+
+Donald Small
+Director of IT Service Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Result
+
+    Now loanDepot’s approvals process takes less than 5 minutes
+  
+
+
+
+Elle-Dee has made a huge impact when it comes to its approval process. After an employee submits a request form, the bot can automatically route approvals to the right hands, directly on Microsoft Teams. 
+Managers can easily accept or deny access using natural language, ensuring that employees get what they need — whether it’s access to software or getting added to a distribution list. In an old-school IT model, approvals can take days. But now, employees who use Elle-Dee can get what they need in as little as five minutes.
+Recognizing that loanDepot’s employees are the company’s greatest assets, Small has plans to look for ways Elle-Dee can do even more. Whatever the next step is, Small, his team, and Elle-Dee are more than up for the challenge of creating an amazing employee experience.
+← Back to all Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Key Integrations  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about Moveworks
+
+
+
+
+13 things you can actually do with conversational AI
+There are infinity use cases for conversational AI. Here are just 13 of many ways you can use it.
+
+Read the blog
+
+
+
+
+
+
+
+
+Bring your service catalog to life with Moveworks
+Forms are critical to self-service IT. See how Moveworks makes forms smarter.
+
+Learn more
+
+
+
+
+
+
+
+
+How 3 companies use forms to improve productivity
+Optimize help desk forms to upgrade support processes and improve productivity.
+
+Read on
+
+
+
+
+
+
+
+
+
+
+
+ Create the world's best workplace
+
+ Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+Solutions
+
+IT
+HR
+Facilities
+Finance
+Employee Communications
+
+
+
+Resources
+
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+
+
+
+Company
+
+About us
+Contact us
+Newsroom
+Careers
+
+
+
+Guides
+
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 Moveworks, Inc.
+
+Privacy policy
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,140 @@
+Avoid AI Investment Pitfalls: KPIs to Consider | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+How to avoid AI investment pitfalls: The most important KPIs to consider
+Brandon Cohan, Head of Business Value Services
+ January 12, 2023
+linkedin
+facebook
+twitter
+email
+We’ve crossed the chasm. AI is no longer just nice to have. It’s as important a building block for your organization as any other. 
+AI has become so ubiquitous that Forrester estimates that by 2025 one hundred percent of companies will leverage it. AI’s economic contributions have become so vast, PwC forecasts that AI will contribute $15.7 trillion to the global economy by 2030. The momentum behind AI is accelerating at a breakneck pace, and more are taking notice — haven't you heard of chatGPT?
+AI has emerged from merely a technology concern amongst data scientists and machine learning wizards. All of a sudden, discussion of large language models (LLMs) has become commonplace in boardrooms, where leaders deliberate over the right conversational AI strategy for their organizations.
+As a business leader, you can’t afford not to be evaluating AI use cases. The opportunity cost is too high, and the potential benefits are too significant. However, in this economy, you also can’t afford to make big investments in AI unless they pay off.  The problem is, as research shows, more than 90 percent of AI projects fail. Clearly, you need AI, but there’s no room for experimentation or educated guesses. You’re stuck between a rock and a hard place. So what do you do?
+In my last blog, I discussed how to make AI practical. There are a few critical steps to consider here. When evaluating AI for your organization, you first need to identify the business objectives you seek to execute against, and this needs to be done collaboratively between your Technology (IT, Data Science, etc.) and Business teams. Ensuring this alignment is critical.
+Second, you need to define the specific use cases to implement and the level of effort, technology, people, process, and data capabilities involved.
+And third, you need to establish the success criteria and KPIs that you’ll use to measure outcomes. Having a framework in place to both assess the value opportunity and measure the value realized will help inform where to invest initially and over the long run. 
+In this blog series, I’ll focus on the third step, walking you through a framework for evaluating the impact of AI on your organization. 
+Aligning AI investments to business outcomes
+Countless research studies highlight the importance of tying technology investments to measurable business outcomes. We’ve all heard the saying, what doesn’t get measured, doesn’t get done. We take that same approach at Moveworks, grounding our AI value framework in three business outcome categories:
+Figure 1: Moveworks’ AI value framework is grounded in three key business outcomes: improving operational efficiency, enhancing experiences, and accelerating business transformation.
+Improved Operational Efficiencies: The ability of an organization to effectively and efficiently utilize its resources (time, people, capital) to achieve its goals.
+Enhanced Experiences: Delivering delightful, optimal experiences across your employees, partners, and customers. 
+Accelerated Business Transformation: Fundamentally changing how your organization operates to improve its performance and competitiveness.
+Once you define your business outcome categories, you need to establish impact areas and associated KPIs to baseline, target, and measure against over time. These will help inform your initial investment, gauge the investment’s success over time, and re-inform additional investment as needed. 
+When working with our customers, we collaboratively define KPIs that map to eight common business impact areas that Moveworks’ conversational AI platform delivers against.
+1. Improved service desk efficiencies: Making the service desk more effective while reducing costs. 
+Implementing new technologies such as AI, automating processes, and optimizing existing technology infrastructure (hardware and software) give support resources more time to focus on higher-value projects, reduce the time and effort required to resolve IT issues, improve the quality of service provided to end users, and increase employee satisfaction, leading to cost savings for the organization and a more productive environment for the workforce.
+2. Reduced manual processes: Replacing manual, time-consuming tasks with automated or digital solutions.
+By automating certain processes, you can eliminate the need for manual intervention altogether. Organizations capable of reducing the time and budget required to complete basic tasks free up staff to focus on more valuable, strategic work. In addition, automated processes are often more reliable and consistent than manual ones, leading to improved quality and employee and customer satisfaction. 
+3. Increased tech stack ROI: Getting the most value out of your technology investments, from your knowledge bases to your ITSM, to your HCMs, CRMs, ERPs, and more. 
+By improving the performance and efficiency of the technology stack, organizations can reduce change management costs and increase productivity in the long term, resulting in increased competitiveness, revenue, and profitability.
+4. Improved employee productivity: Increasing the amount of work or output produced by employees within a given period. 
+Quickly providing employees with the resources and support they need to excel in their roles, automating or streamlining tasks, and improving communication and collaboration among teams all increase profitability per employee.
+5. Improved employee onboarding: How new employees are introduced to a company and its policies, procedures, and culture is deeply connected to their — and their company’s — success. 
+The right tools provide new employees with the knowledge, skills, and support they need to succeed from day one. By helping new employees feel comfortable, confident, and engaged in their work, overall job satisfaction and performance improve, ultimately benefiting the organization.
+6. Reduced employee churn: A decrease in employees who leave an organization. 
+Employee churn, also known as turnover or attrition, can be costly for businesses, leading to a loss of institutional knowledge, reduced productivity, increased hiring and training expenses, and ultimately reduced profitability. Organizations can improve retention, reduce turnover costs, and create a more stable and engaged workforce by reducing employee churn.
+7. Improved support scalability: The ability of a support team to effectively handle an increasing number of customers or users without a corresponding increase in resources. 
+Automating routine tasks, implementing self-service support options, and using data and analytics to identify and prioritize high-impact initiatives and projects all contribute to a support organization’s ability to grow. By improving support scalability, organizations can provide better support to their customers and users, even as the number of people they serve increases.
+8. Improved security posture: The overall effectiveness of an organization's security measures in protecting its assets and data. 
+A strong security posture is essential for businesses, as it helps prevent systems and software vulnerabilities that can have serious consequences. To improve security posture, organizations can implement various measures, such as robust password policies, regularly updating software and security protocols, and providing regular training to employees on security best practices. Improving security posture has numerous benefits, including reducing costs, reducing reputational risk, and protecting revenue.
+Figure 2: Moveworks breaks down each business outcome into eight measurable impact areas.
+Know the value of AI in your organization
+Identifying the business objectives, defining the use cases and capabilities required to deliver against those business objectives, and establishing a value framework with specific KPIs to inform initial and ongoing investment are three important steps to take when evaluating AI for your organization. If you want to learn more, stay tuned for our next post as we kick off our eight-part series diving into the value framework further, or consider attending one of our upcoming webinars or request a demo.
+Contact  Moveworks to learn how AI can supercharge your workforce productivity.
+best practices
+technology
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

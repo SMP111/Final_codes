@@ -1,0 +1,179 @@
+Supervised vs Unsupervised Learning Explained | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Supervised vs. unsupervised learning: What's the difference?
+Varun Singh, VP of Product
+ February 2, 2023
+linkedin
+facebook
+twitter
+email
+Is unsupervised learning truly more powerful than supervised learning in training conversational AI?
+The debate on the superiority of unsupervised over supervised learning has been ongoing in the field of conversational AI. While unsupervised learning has its advantages, it's crucial to understand the role of supervision in fine-tuning and elevating conversational AI models.
+My aim is to provide you with:
+A clear understanding of the differences between supervised and unsupervised learning
+How both approaches play a role in the conversational AI landscape
+The strengths, drawbacks, and utility of using supervised learning versus unsupervised learning and vice versa.
+Why supervised learning is a must-have for conversational AI
+What is the difference between supervised and unsupervised learning?
+The key difference between supervised and unsupervised learning is the use of labeled datasets.
+Supervised learning uses labeled data which means there is human oversight involved in managing training data.
+Unsupervised learning uses unlabeled data which means there is minimal human oversight involved in managing training data.
+What is supervised learning? 
+Supervised learning is a machine learning technique where the model is trained using labeled datasets, meaning the data has been tagged or annotated by experts in the field.
+How does supervised learning work?
+Data annotated by experts provides clear guidance for the model to follow. Once the model has learned the relationship between datasets, it can be used to more accurately predict the outcomes of new inputs.
+The benefit of this supervised approach is that the model can be fine-tuned to perform specific tasks in line with human expectations. That’s why, at Moveworks, we leverage supervised learning to annotate datasets for our conversational AI platform; this approach allows us to provide consistently accurate answers to end users' questions.
+What are the two types of supervised learning? Classification and Regression.
+Classification algorithms aim to categorize data into specific segments, like sorting dogs and cats, or to offer two more technical examples, identifying fraudulent credit card transactions from real transactions or spam detection in email. 
+Common classification algorithms include:
+Linear Classifiers
+Support Vector Machines
+Decision Trees
+Random Forest
+Logistic Regression
+Naïve Bayes
+k-Nearest Neighbor
+Regression models predict numerical values based on data, such as predicting a stock’s performance or sales revenue projections. 
+Common regression algorithms include: 
+Linear Regression
+Logistic Regression
+Polynomial Regression
+Decision Tree Regression
+What are some of the drawbacks of supervised learning?
+The drawbacks of supervised learning are:
+Supervised learning requires human expertise: Expert annotators play an invaluable role in guiding your model’s training, but they can be difficult to recruit.
+Supervised learning is labor-intensive: You’ll need to have a big enough team with relevant expertise to accurately label large datasets.
+Supervised learning is time-intensive: In addition to top talent, you’ll need the bandwidth to accurately annotate the dataset so that your model is capable of producing predictable outcomes.
+In short, supervised learning offers more control and direction for the model, allowing for performance that is more aligned with end-user expectations. While unsupervised learning may provide insights into the underlying patterns within the data, this approach lacks expert guidance to ensure that the model's outputs align with specific goals.
+What is unsupervised learning?
+Unsupervised learning is a machine learning technique where the model is trained using large datasets without any human guidance.
+How does unsupervised learning work?
+Unsupervised learning operates differently, as the model is trained on unlabeled data and is left to identify patterns and relationships within the data on its own.
+While this can lead to the model discovering natural distributions in the data, it also means that there is no expert guidance to align the model's performance with what the end user is looking for. This can lead to the model making inaccurate predictions that are not in line with the intended outcome, which is problematic for applications where the model's outputs have real-world implications.
+What are the three common unsupervised learning tasks? Clustering, Association, and Dimensionality reduction. 
+Clustering sorts data into common sets, such as grouping knowledge articles into topics based on their content. 
+Association finds relationships between variables in a dataset, like identifying correlations between weather and product sales — e.g. ice cream sales increase during hot weather — to make informed decisions on stock and sales projections. 
+Dimensionality reduction simplifies high-dimensional datasets — those with a high number of features or variables — by preserving their integrity, such as reducing factors affecting stock prices to improve stock prediction accuracy.
+What are some of the drawbacks of unsupervised learning?
+The drawbacks of unsupervised learning are:
+Unsupervised learning can produce inconsistently accurate results: With unsupervised learning, the model is trained to discover relationships naturally, so it may result in what’s known as overfitting. Overfitting is when a model is trained too well on the training data to the point where it interprets noise or random fluctuations in the data instead of keying in on the underlying pattern. As a result, the model may perform well on the training data but poorly on new, unseen data. 
+Unsupervised learning requires a large dataset: Unsupervised learning requires massive training sets with a bare minimum of several thousands of data points to produce a desired outcome. For example, GPT-3, the model that powers ChatGPT, is trained on a whopping 45 terabytes of text data from different datasets. 
+Let me offer an analogy. Think of conversational AI as a climbing ivy. Unsupervised learning is like leaving the ivy to grow on its own without any direction or guidance. While it may produce some interesting patterns, it lacks the precision and control that comes with supervision.
+On the other hand, supervised learning is like guiding the ivy along a trellis, directing its growth and ensuring it produces the desired results. When it comes to conversational AI, which approach will lead to the best outcomes for your technology infrastructure? Let's explore the benefits and drawbacks of both supervised and unsupervised learning in the field of conversational AI.
+When to use supervised vs. unsupervised learning?
+Choosing the right method for you depends on the application for which you plan to leverage the output. That’s also assuming you have the required resources, both tech and in-house experts, to accomplish your goal.
+If you need predictable outcomes for new data, you’ll need to go the route of supervised learning. This also means you need to account for all the other requirements that come with it, like, labeling and annotating your datasets, personnel expertise, and above all, time to accurately label data.
+If you need to detect surface-level anomalies, work through a recommendations engine, or try to create customer personas — unsupervised learning would be a better fit. That also means you need to take into account the requirements for this method, some of which are tech-focused, such as having access to a massive dataset relevant to your goal. 
+Unlike supervised learning, where you can leverage programs like R or Python, you’ll also need powerful tools to work through the large amounts of data required to produce an expected output. Even then, you’ll still need to have a person to oversee the output and validate it for accuracy.
+To determine what kind of learning is most relevant to your specific use cases, you need to look at the application of the learning method. Let’s explore a timely example: ChatGPT.
+ChatGPT is both a supervised learning and unsupervised learning example
+ChatGPT is a great reference point for the relative merits of both supervised and unsupervised approaches. GPT-3.5, the large language model underpinning ChatGPT, uses primarily unsupervised learning. Whereas ChatGPT itself applies supervised learning to further train the base GPT model and improve its performance for certain use cases. 
+While annotation was used during GPT's training cycle, there was no domain- or industry-specific expert input. This means that while the model has a wide breadth of knowledge, it could not accommodate more specific use cases without additional layers of models trained on more specific data on top of it. 
+While ChatGPT is based on GPT-3.5, unlike its predecessor, ChatGPT has received additional fine-tuning using both supervised and reinforcement learning techniques, which provided the necessary direction and alignment with human expectations. This fine-tuning allowed ChatGPT to improve its conversational abilities and better understand the nuances of human communication — however, it is still incomplete, requiring additional training to address more specific use cases, such as solving IT issues within an organization.
+The incorporation of both unsupervised and supervised learning techniques in ChatGPT highlights the importance of expert input in the development of conversational AI models. While unsupervised learning can provide valuable insights into the patterns within the data, it lacks the direction necessary to ensure that the model's outputs align with the user’s expectations. In contrast, the use of supervised learning provides the necessary guidance to create models that can effectively and efficiently engage in conversation with people.
+Reinforcement Learning with Human Feedback is the key to ChatGPT’s breakthrough performance
+The combination of unsupervised learning and supervised learning with human feedback, also known as Reinforcement Learning with Human Feedback (RLHF), has been critical to ChatGPT's breakthrough performance. ChatGPT's success can be attributed to the annotators who were involved in its development. These annotators used a multi-step process to provide the necessary supervision and reinforcement to the model.
+First, the annotators had conversations with ChatGPT using pre-defined prompts, creating labeled data for the model to learn from. Next, the annotators evaluated ChatGPT's responses to these prompts, creating a "reward model" that reflected human expectations for conversational behavior. Finally, ChatGPT was able to use this reward model in real-time during conversations, adjusting its behavior based on the annotators' feedback through a process called reinforcement learning.
+This process of RLHF not only aligns the model's performance with human expectations but also allows for continuous improvement through feedback and iteration. The human element in AI training is essential in creating models that can effectively and efficiently engage in conversations with people. The combination of unsupervised learning and supervised learning with human feedback ensures that the model is able to understand and respond to the complexities and nuances of human communication.
+Unsupervised learning is a must-have for enterprise applications of conversational AI
+In the world of conversational AI, the debate between supervised and unsupervised learning has been ongoing. While unsupervised models may seem like the self-sufficient, mature plant in the garden, the truth is that a well-tended and nurtured garden with supervised learning can yield the most beautiful and abundant blooms.
+The importance of supervised learning for companies like Moveworks lies in the fact that it allows us to fine-tune our language models and bring them to perform at a high level of precision.
+By leveraging the skill of over one hundred annotators to label training data and evaluate live performance, we can ensure that our conversational AI models are aligned with human expectations and can effectively handle complex, specific tasks — such as intent and entity mining — as well as rating the quality of answers and actions. This supervised approach allows us to continuously improve and meet the needs of our customers. 
+The power of AI lies in the combination of unsupervised and supervised learning, where the human element adds the necessary understanding to take on more specific use cases. 
+Without guidance and feedback from annotators, AI models may not be able to perform to their full potential. Don't be misled by false claims, the truth is clear: supervised learning is essential in the quest for true AI excellence.
+Contact Moveworks to learn how AI can supercharge your workforce's productivity.
+tech
+technology
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

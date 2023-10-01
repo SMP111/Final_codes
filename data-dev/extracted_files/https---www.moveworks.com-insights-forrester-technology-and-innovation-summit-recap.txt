@@ -1,0 +1,152 @@
+Forrester Technology & Innovation Summit Recap | Moveworks
+Skip to content
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+main menu
+Search for...
+Home
+Platform
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Demo request
+skip to content
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+        First Name *
+        Last Name *
+        Email *
+        Company *
+        Phone
+        How did you hear about us? *
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+  Close this modal
+  Go back
+back to form
+back to tab selection
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+Margo Poda, Content Marketing Manager
+ September 13, 2023
+linkedin
+facebook
+twitter
+email
+Generative AI, propelled into the mainstream by ChatGPT, has been a wake-up call for business leaders everywhere.
+Months later, companies find themselves at very different stages of the AI adoption journey — some just beginning to explore, others already rolling out advanced implementations, and a few already seeing value.
+Wherever you are on the adoption curve, the technology promises to unlock insights trapped in enterprise data, transforming how we interact with systems like CRM, ERP, ITSM, and so much more. It may even spell the end of the traditional web as we know it.
+In fact, insights from this week’s Forrester Technology & Innovation Summit reveal that generative AI may be the most important technology of our lifetime. No wonder enterprise CIOs and their teams are prioritizing investments to stay competitive.
+The good news? AI tools, like copilots, can deliver quick wins by automating repetitive tasks, freeing up employees. These early successes can pave the way for more advanced implementations.
+But simply implementing new tools isn't enough. To fully leverage generative AI requires a thoughtful approach. In upcoming sections, we'll recap key learnings from Forrester around:
+Making generative AI an urgent business priority
+Balancing risks and governance amidst acceleration
+Deploying copilots for immediate productivity gains
+Make generative AI an urgent business priority.
+Generative AI isn't a new concept, but its meteoric rise to prominence in the past year has transformed it into an absolute necessity for businesses. So, why is it imperative? The reasons discussed at Forrester are compelling:
+Unlocking untapped value: Generative AI, when harnessed effectively, has the remarkable power to automate mundane tasks and unearth invaluable insights from data. This capability empowers enterprises to scale their operations efficiently. The applications are limitless, from streamlining supply chains to crafting engaging marketing content. In fact — a recent Forrester study found that 61% of AI leaders see innovation as a key benefit. The potential value is too great to ignore.
+The rise of conversational interfaces: Since ChatGPT and its peers burst onto the scene, it’s clear conversational AI removes friction and unlocks generative models' full potential. The days of searching through the disorganized web seem archaic now. Natural language is undeniably the future.
+Immediate scalability for enterprises: Tailored models designed specifically for enterprises and particular domains are ushering in a new era of swift and customized AI solutions deployment. Thanks to the capabilities of cloud-scale computing, the impact of these solutions can be extended across an organization rapidly.
+Accelerating momentum: The momentum behind generative AI adoption is rapidly gaining speed, driven by the realization that waiting on the sidelines risks obsolescence. Enterprises stand to gain immense efficiency, foster innovation, and experience robust growth by adopting a privacy- and security-focused approach to this technology.
+While it's true that certain risks linger, the moment to harness the potential of this extraordinary technology is now. By establishing a solid foundation in generative AI today, you're not just making progress for the present but setting your business on a trajectory of success for years to come.
+Figure 1: The Moveworks team at Forrester's Technology & Innovation Forum 
+Keep value central to balance generative AI risks and rewards.
+With solutions ranging from app-specific copilots to standalone LLMs to custom development options to everything in between, choosing the right solution for your enterprise is crucial.
+Many organizations rely on simplistic AI workflows that are maintenance-heavy and limited. While promising, it's crucial to recognize that some solutions may be more about hype than actual business value.
+As advised by Forrester, a comprehensive evaluation should revolve around three key aspects:
+Technology readiness: Is the chosen solution equipped to effectively address specific business problems and generate tangible value?
+Architectural preparedness: Is your existing architecture poised to seamlessly integrate and adopt the chosen AI solution?
+Organizational readiness: Does your organization possess the necessary skills and processes to maximize the potential of this generative AI solution?
+Understanding these questions and, more importantly, their corresponding answers within the unique context of your organization forms the bedrock for making well-informed decisions. By balancing the associated risks and rewards in alignment with the overarching goal of delivering value, companies can tap into the extraordinary potential of AI while avoiding the allure of hype-driven solutions that ultimately fail to address real-world challenges.
+As you navigate these ever-changing AI waters, keep value at the center. By grounding the generative AI  journey in tangible benefits, enterprises can elevate every facet of their operations, ensuring that innovation is purposeful and impactful.
+Jamf shows off the power of getting the risk-reward balance right.
+In one Forrester session, Melissa Dunham of Jamf shared how deploying Moveworks' copilot, internally called Caspernicus, led to tremendous productivity gains across their organization — by balancing risks and rewards.
+Figure 2: At Jamf, a Moveworks copilot named Caspernicus started to drive value for employees and support teams from day one.
+In just a short period after implementation, Caspernicus:
+Became the go-to resource for 70%+ of employees
+Resolved nearly 70% of issues without human escalation
+Enabled instant software provisioning through automated approvals
+Delivered contextual knowledge base suggestions
+Efficiently handled high-volume Slack channels
+With Caspernicus handling repetitive support tasks at scale, Jamf's IT team can now focus on more strategic initiatives. Just as crucially, employee frustration is reduced by preventing ticket overload.
+And by empowering Jamf's workforce to operate at its peak, Caspernicus elevates the employee experience through seamless, instant support. As one example, automated software provisioning makes approvals instant, eliminates catalog searching, and enables frictionless onboarding.
+As Dunham explained, meeting employees in tools they already use, like Slack, is key for adoption. Instead of replacing humans, Caspernicus augments them — delivering value from day one.
+Jamf's success highlights the immense potential of generative AI when adopted thoughtfully, with clear goals and value at the center. Dunham’s experience offers a blueprint for risk-balanced implementation.
+Generative AI will shape the future of every enterprise.
+The enthusiasm for generative AI was palpable at Forrester. Clearly — the technology’s potential is coming into focus, making it a priority for enterprise leaders everywhere. 
+Hearing from companies like Jamf and many others featured at the event showed that AI copilots can deliver value from day one by automating repetitive tasks, freeing workers to focus on higher-impact initiatives.
+But to fully leverage generative AI requires rethinking workflows and thoughtfully integrating capabilities and an understanding of your own strengths. Simplistic AI tools alone are not enough. Assessing various technology solutions, your own architecture, and your organization’s readiness are key, along with establishing clear use cases before deploying.
+The future is here and competitive advantage awaits those who act decisively with care and vision. Will you lead your organization confidently to meet it?
+The most innovative companies use practical AI to power their employee experience.
+Read our case studies to learn more. 
+best practices
+news
+technology
+employee experience
+More blog posts
+How to unlock continual service improvement with AIOps
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+How conversational AI can drive mission success for the public sector
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+How conversational AI is transforming healthcare
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+How Moveworks uses LLMs to create a seamless conversational AI experience
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+How AI is changing IT operations analytics
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+    Subscribe to our blog
+    Get notified about Moveworks’ latest posts.
+Solutions
+Customers
+Resources
+Blog
+Sitemap
+Platform
+Platform overview
+Moveworks API
+System status
+Company
+About us
+Newsroom
+Contact us
+Careers
+image/svg+xml
+    ©2023 Moveworks, Inc.
+Privacy policies
+close modal

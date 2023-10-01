@@ -1,0 +1,218 @@
+Moveworks Privacy Policy
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+    Policies  
+    Our Privacy Policy
+Welcome to the web site (the “Site”) of Moveworks, Inc. (“Moveworks”, “we”, “us” and/or “our”). The Site is operated by Moveworks and provides information about our company and our conversation-based, issue resolution product and related service (the “Service”) to our Site visitors (“you”, “your”). This Privacy Policy sets forth Moveworks’ policy with respect to personally identifiable data (“Personal Data”) and other information that we collect from visitors to the Site and users of the Service. This Privacy Policy applies to the Site, and, to the extent not superseded by our customer’s privacy policies, to the Service.
+    Information We Collect
+When you interact with the Moveworks Site or Service, we collect Personal Data and other information from you. If your organization uses the Service, we collect your personal information about you from your organization's identity and access management system (“Organizational Directory”).
+    Personal Data You Provide Through the Site and Service
+We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Site, or use the Service. Wherever Moveworks collects Personal Data through the Site, we make an effort to provide a link to this Privacy Policy.
+By voluntarily providing us with Personal Data, you are giving Moveworks consent to use it in accordance with this Privacy Policy. If you provide Personal Data to us, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Moveworks and Moveworks’ authorized third parties located in the United States.
+    Personal Data We Collect From Your Organization
+If your organization uses the Service, Moveworks collects personal information about you from your Organizational Directory, such as Active Directory or Okta, including your name, your organizational email address, your organizational telephone number, and Organizational Directory information about you.
+    Personal Data We Collect From Other Sources
+We may collect personal information about you from other sources including third parties from whom we purchase Personal Data from publicly available information. These may include your name, business email address, business telephone number, job title and department, company name, business related postal address, and social networking URLs. We may combine information you provide with data we collect from third parties. We use this information to create more tailored advertising to provide services that may be of interest to you. 
+    Other Information We Collect
+    Usage Data
+We collect information when you use the Service, including actions you take in the Service and the messaging conversations you have with the Service. This helps us improve the performance of our machine learning models and make your experience better.
+    Non-Identifiable Data
+When you interact with Moveworks through the Site or Service, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Moveworks may store such information and include it in databases owned and maintained by Moveworks affiliates, agents or service providers. As an example, we may use such information and pool it with other information to track the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. No Personal Data is made available or used in this process.
+In operating the Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. Most web browsers give you the ability to manage cookies to suit you. Please refer to your browser’s Help section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site features.
+    Aggregated Personal Data
+In an ongoing effort to better understand and serve the users of the Site and Service, Moveworks often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Moveworks may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Moveworks may also disclose aggregated user statistics in order to describe our Service to current and prospective business partners, and to other third parties for other lawful purposes.
+    Location Information
+We may collect and use your location information (for example, by using the GPS on your mobile device) to provide certain functionality of our Site or Service. We may also use your location information in an aggregate way, as described above in the “Aggregated Personal Data” section.
+    Analytics and Tracking Technologies
+We may, and we may allow Third Party Providers to, use cookies (as noted above) or other tracking technologies to collect information about your browsing activities over time and across different websites following your use of the Site. For example, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Site. For more
+information on how Google uses this data, go to www.google.com/policies/privacy/partners/
+Our Site currently does not respond to “Do Not Track” (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.
+    Our Use of Your Personal Data and Other Information
+Moveworks uses Personal Data in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data for that reason only. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Site or Service, we will use your Personal Data to provide you with access to such services and to monitor your use of such services.
+Moveworks and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Service, to better understand our users and to improve the Service. Moveworks and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+If Moveworks intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+    Our Disclosure of Your Personal Data and Other Information
+Moveworks is not in the business of selling your information. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+    Business Transfers
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.  
+    Related Companies
+We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+    Your Employer
+If you are using the Service in connection with your role as an employee or contractor of a company or other legal entity, we may share your information with such entity.
+    Agents, Consultants and Related Third Parties
+Moveworks, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function and we are liable to you for any onward transfers of Personal Data made by those other companies to their subcontractors and third-party agents.
+    Legal Requirements
+Moveworks may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Moveworks, (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect against legal liability.
+    Exclusions
+This Privacy Policy does not apply to any Personal Data collected by Moveworks other than Personal Data collected through the Site and Service. This Privacy Policy shall not apply to any unsolicited information you provide to Moveworks through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Moveworks shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+    Children
+The Moveworks Service is not intended for use by people younger than 13 years of age. We do not knowingly collect personal information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site or Service. If you have reason to believe that a child under the age of 13 has provided Personal Data to Moveworks through the Site or Service, please contact us at privacy@moveworks.com, and we will delete that information from our databases.
+    Links to Other Websites
+This Privacy Policy applies only to the Moveworks’ Site and Service. They may contain links to other web sites or services not operated or controlled by Moveworks (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Service do not imply that Moveworks endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+    Security
+Keeping your data secure is important. Moveworks follows current industry standards to protect your Personal Data while that data is in transit and at rest in our data storage. We take reasonable steps to protect the Personal Data provided via the Site and Service from loss, misuse, unauthorized access, disclosure, alteration, or destruction. No network or email transmission is fully secure or guaranteed to be error free. In particular, email sent to or from the Site or Service may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing Personal Data to Moveworks. If you have questions about the security of our Service, please contact us at security@moveworks.com.
+    Your Choices
+We strive to offer you choices over your Personal Data. These include: 
+Cookies - You can opt-out of user analytics tracking by disabling cookies or preventing your browser or device from accepting new cookies. 
+Marketing Communication - If you do not wish to receive targeted marketing communication from Moveworks, our marketing emails permit you to opt-out of receiving further marketing emails. 
+Service  - If your employer is a customer of Moveworks, your employer may have provided your Personal Data to Moveworks under the terms of a written agreement that obliges Moveworks to only use your Personal Data to provide services to your employer.  Moveworks has agreed to abide by your employer’s privacy policy with respect to any Personal Data it receives in this manner.  If you wish not to provide any Personal Data to Moveworks, you should consult with your employer to have your Personal Data removed from the information your employer provides to Moveworks. Unless you provide us consent, Moveworks will not share your Personal Data with third parties for any purpose that is materially different from providing the Moveworks service.
+    Your Rights
+Individuals located in certain regions, including the European Economic Area, the United Kingdom, and California, United States have certain rights in relation to their personal data, subject to local protection laws. 
+European Union and United Kingdom Residents - If you are based in the European Union or the United Kingdom, you may have the right to ask us to: 
+Confirm whether or not your Personal Data is being processed;Provide you with details about how we process your Personal Data;Correct or delete Personal Data which we hold about you;Consider your valid objection to the processing of your Personal Data (including the right to object to processing on grounds relating to your particular situation where we are relying on our legitimate interests as a legal basis for processing your Personal Data);Restrict our processing of your Personal Data;Consider your valid request to transfer your Personal Data to another controller, to the extent possible; and Ask us to withdraw your previous consent if you have previously provided us with consent to process your Personal Data and we rely on it as our legal basis for processing.
+California Residents - As a California resident, you have the right to:  
+Request notice about our collection and processing of your personal information;Know what specific pieces of your personal information we collected and retained over the last 12 months;Access and deletion of your certain personal information we collected over the last 12 months; Opt out of “sale” of your personal information as defined under California Consumer Privacy Act (CCPA);Know whether personal information is shared; Request notice regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes; andNot be discriminated against for exercising these rights.
+Some California laws also may define “personal information” differently from this policy. You may designate an authorized agent to exercise these rights on your behalf. Under California law, we are required to respond to only one request per California Consumer per year. 
+If you wish to exercise any of the above rights or have questions about them, please contact us at privacy@moveworks.com. We will respond to your inquiry within 30 days. We will verify your request using the information associated with your account. 
+    International Data Transfers
+Moveworks may transfer your Personal Data to countries other than the one in which you live. We utilize the following safeguards for transferring Personal Data from jurisdiction with differing data protection laws: 
+European Union Model Clauses - Moveworks offers European Union Model Clauses, also known as Standard Contractual Clauses, as an alternate mechanism for Personal Data transfer as approved by European Commission or other applicable regulator.EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield - Although the EU-US and Swiss Privacy Shield framework has been ruled invalid for the transfer of personal data from the European Union and Switzerland to the United States, Moveworks will continue to comply with the EU-U.S.and Swiss-U.S Privacy Shield Frameworks and applicable EU law.
+Moveworks has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such data listed above. You can find Moveworks' Privacy Shield certification here. You can also learn more about Privacy Shield at https://www.privacyshield.gov.
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield principles, Moveworks is committed to resolve complaints about our collection or use of your personal information. Residents of the EU or Switzerland who have questions about our Privacy Shield policy can contact Moveworks at privacy@moveworks.com.
+Moveworks is subject to the oversight of the U.S. Federal Trade Commission and leverages JAMS (a US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance) to resolve any escalated privacy dispute. JAMS has committed to respond to complaints and provide appropriate resources at no cost to you. If you aren’t satisfied with Moveworks’ response, please contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield. In the event your concern still isn’t addressed by JAMS, you may be entitled to a binding arbitration under Privacy Shield and its principles.
+Moveworks has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data and human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+    Changes to the Moveworks Privacy Policy
+The Site, our Service, and our business may change from time to time. As a result, at times it may be necessary for Moveworks to make changes to this Privacy Policy. Moveworks reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site or Service after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+    How to Contact Us
+We strive to keep your Personal Data accurate, current, and complete. If you feel that our copy of your Personal Data is inaccurate, please contact us at privacy@moveworks.com, and we will take reasonable steps to update or correct the data in our possession that you have previously submitted to us.
+If you have questions about Moveworks security, our Privacy Policy, or our information practices, please contact us at security@moveworks.com or privacy@moveworks.com.
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

@@ -1,0 +1,190 @@
+Broadcom Integrates Its IT Knowledge Base With AI | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+Home
+Customers
+          Broadcom
+    Broadcom’s employees get help in <60 seconds
+    By integrating scattered knowledge bases with AI, Broadcom’s employees can help themselves.
+A $20 billion company with offices and facilities around the globe, Broadcom designs, develops, and manufactures a wide range of semiconductor and infrastructure software products.
+Download the PDF
+            57%
+Of IT issues resolved autonomously
+Challenge
+Integrating new systems into existing IT environment 
+Result
+Able to resolve more than half of all tech issues in under a minute 
+The Problem
+    Broadcom’s rapid growth requires robust IT integrations
+Broadcom is a global infrastructure technology company with a long history of innovation. Over the years, the organization has been aggressive about expansion, resulting in a number of mergers and acquisitions.
+Andy Nallappan, Vice President and CIO at Broadcom, has seen his company undergo incredible growth and transformation over the years; however, the acquisitions Broadcom has made over the last decade present integration challenges. Information was spread across 10 different knowledge bases, making it difficult for employees to find the right information.
+As employees rely on an ever-growing number of SaaS applications to keep pace with the fast-moving business, quickly answering their IT questions has never been more critical. They are expected to be increasingly self-sufficient when finding the knowledge they need — like changing their virtual background on Zoom or troubleshooting error messages on Slack. The problem is that knowledge is scattered. And even if employees manage to find the right knowledge base, outdated search systems make it difficult to find the right article.
+The Solution
+    Broadcom integrates its IT environment with AI
+In September 2018, Broadcom launched 1.Bot, the company’s internal name for Moveworks. Employees were instantly able to use Google Chat to resolve a variety of issues like resetting passwords, unlocking accounts, creating tickets, checking ticket status, and finding answers from knowledge base articles.
+Now, Moveworks’ combination of advanced conversational AI and natural language understanding (NLU) enables 1.Bot to resolve employees’ IT support issues conversationally, directly in chat. When the best solution to an issue is in the knowledge base, Moveworks Semantic Search understands the employee’s symptoms to provide the exact, snippet-sized answer they need.
+You don’t want your users going all over the place to search for information. The advantage of our Moveworks bot is that there’s one familiar go-to place for employees to get their answers.
+Stanley Toh
+Head of End-User Services & Experience
+The Result
+    57% of Broadcom’s IT issues are solved in less than a minute
+With an integrated knowledge base, 57% of Broadcom’s IT issues are solved in less than a minute
+A few years ago, Broadcom set out a vision to integrate the help desk experience for its employees, save time, and reduce the volume of work by automating tasks with AI. In the last two years alone, its IT team has systematically improved its knowledge base using Moveworks’ AI platform. 
+Today, 1.Bot surfaces answers for employees in less than a minute, pulling information from across all the different knowledge bases and surfacing it in a single interface, Google Chat.
+With real time visibility over knowledge base gaps, Broadcom's team can create new articles, or update old ones, so employees can self-service their own support. The help desk no longer feels like the "helpless" desk.
+Nallappan’s overall impression of Moveworks is simple and powerful:
+“It’s AI that really works.”
+← Back to all Customer Stories
+    Key Integrations
+Learn more about Moveworks
+How to build a better knowledge base
+Broadcom explains how it helps employees answer troubleshooting and policy questions instantly with AI.
+Watch the webinar
+Broadcom celebrates a year of fast IT fixes
+Learn how Broadcom automatically resolves thousands of employee IT issues every week with AI.
+Read the blog
+Broadcom’s AI & automation success
+Learn how Broadcom upskills support agents to focus on more strategic projects with AI. 
+Watch the webinar
+ Create the world's best workplace
+ Request a demo
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

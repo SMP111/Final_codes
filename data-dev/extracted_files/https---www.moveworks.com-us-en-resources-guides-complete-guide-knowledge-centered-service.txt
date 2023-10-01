@@ -1,0 +1,192 @@
+The complete guide to knowledge-centered service | Moveworks
+Platform
+Solutions
+Customer Stories
+Resources
+Company
+Request demo
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Resource Center
+Blog
+Help Center
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Platform
+Overview
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Key Features
+Creator Studio
+Employee Experience Insights
+Multilingual Support
+Moveworks API
+Integration Partners
+Triage
+Performance Dashboards
+Experiences
+Answers
+Approvals
+Concierge
+Control Center
+Employee Communications
+Groups Access
+Software Access
+Solutions
+By Team
+IT
+HR
+Finance
+Facilities
+Employee Communications
+By Use Case
+HR Service Desk
+Identity Access Management
+IT Service Desk
+IT Service Management
+Knowledge Management
+By Initiative
+Cost Reduction
+Employee Onboarding
+Multilingual Support
+Self Service
+Customer Stories
+Resources
+Resource Center
+Blog
+Help Center
+Company
+About us
+Careers
+Newsroom
+Contact us
+Trust
+Request demo
+    The Complete Guide to Knowledge Centered Service
+IT leaders want to provide fast, comprehensive support to their employees. To do that, they need powerful knowledge resources — and the means to track their effectiveness. In fact, we know that the best knowledge centered services are also the most organized and actionable.
+But this presents a challenge: Agents struggle with knowledge management because it's hard to write, maintain, and track within the enterprise. So, how can we make sure our knowledge centered services are actually creating an impact? Keep reading to find out.
+This guide will provide a comprehensive look into what knowledge centered service is, the benefits and challenges of providing it, and how you can incorporate it into your organization.
+    What does knowledge centered service (KCS) mean?
+Organizations use knowledge centered service to gain visibility into every aspect of the knowledge support environment within their business. By managing, distributing, and tracking knowledge across the whole enterprise, leaders can more quickly resolve employees' problems — and in many cases, prevent incidents from happening before they arise.
+In action, this looks like detailed documentation, knowledge sharing, and data-driven insights into how knowledge actually gets used.
+    What's the difference between knowledge centered service and knowledge centered support?
+Until recently, the more commonly used term was knowledge centered support. The focus of this process was always to offer the best customer and employee support, while also creating and maintaining documentation. 
+Knowledge centered service was adopted to expand the focus from simply offering support to improving every aspect of the ITSM.
+    3 Benefits of providing knowledge centered service
+There are many reasons why KCS is the dominant way to run your help desk, but an overarching theme emerges time and time again: This system can scale your help desk even with limited resources. These three value-adds can help you do just that.
+    1. Reduce time to resolution by encouraging self-service
+When implemented correctly, KCS can encourage your employees to self-serve when issues arise. Over time, your organization will have built up a library of knowledge articles, filled to the brim with solutions. And yet, your agents may find themselves answering the same questions time and time again.
+KCS can enable employees to search for and find their own answers — dramatically reducing time to resolution.
+    2. Free up agent time to focus on strategy work
+Initially, KCS adoption requires some investment of time, but the time-saving potential of KCS in the post-adoption stage has a monumental impact in the long run. Building a service desk around knowledge will free your help desk agents from having to answer the same set of questions day after day. Instead, as they document solutions, other agents will be able to jump in and reference their approach — saving time and energy for everyone.
+When KCS is implemented successfully, employee retention and satisfaction can increase dramatically. Employees get solutions faster — and often by themselves. Agents get to turn their attention to strategic work. It's a win-win.
+    3. Decrease cost-per-ticket
+As KCS both reduces the overall tickets by enabling self-service and the amount of time and effort each agent spends on resolving a ticket, this method can substantially cut your cost-per-ticket.
+    3 Challenges of providing knowledge centered service
+We've discussed some ways KCS can deliver tangible benefits to organizations — even with limited resources. However, successful implementation introduces some challenges too.
+    1. 75% of all articles don't get shown to end-users
+While companies do a great job of encouraging their agents to document solutions, they often fall short in helping employees find knowledge base articles. Useful articles get locked away behind confusing portals. Too many employees forget passwords. And the support environment can be so complex, that people give up searching for answers before they even start.
+Ultimately, employees end up reaching out to their favorite IT agent or filing a ticket instead, waiting several hours or days for a resolution. Vice versa, IT agents end up referencing their own articles over and over, caught in an endless loop of mundane question-answering processes.
+    2. Articles aren't written with end-users in mind
+Articles are written by — and for — IT agents. In fact, our data shows that half of all articles are almost impossible to read given their length.
+The cycle of knowledge article creation typically follows these steps:
+Many employees submit a ticket, complaining of a similar issue.An IT agent notices the pattern and writes a knowledge base article documenting their fix.Their fix is centered around their process of fixing the problem — most useful for other IT agents who encounter this ticket.Other employees can't make heads or tails of the KB article and submit a ticket to get help.
+Instead, industry-leading companies get very prescriptive about how to write knowledge base articles. They templatize what a good article looks like. Agents are enabled to write for employees — and self-service increases.
+    3. Defining the success of a knowledge base article is difficult
+Many companies don't have metrics defining the success of a knowledge base article. They may track views — but have no way of connecting those views to the next course of action taken by employees who viewed the article. As a result, the IT team may report an increase in views on the knowledge articles they've been working on, even though ticket volume hasn't slowed down.
+Clearly, there's a disconnect at play. Industry-leading companies clearly define what a good knowledge base article looks like, and how it’s effective. For example, if a particular article is getting a lot of views, tickets relating to that problem should see a drop in volume — an indication that employees are choosing the self-service route.
+    How to find and interpret knowledge opportunities
+Many industry-average companies are aware of the task facing them: They need to overhaul how their employees approach support. But many IT leaders are discovering that it's hard to determine which knowledge topics actually yield impact for employees.
+There are two big actions you can take to find and interpret these knowledge opportunities:
+Identify article gapsImprove existing articles by improving content
+    Find knowledge gaps
+According to data across our customer base, 40% of issues employees raise go unanswered because of knowledge gaps.
+While a knowledge gap may be evident to IT agents, it's often much less evident to leaders. By conducting a thorough content audit, however, you can connect the dots between what employees are actively searching for and what knowledge articles you have currently available.
+    Improve existing articles
+All IT teams have a library of knowledge articles — but are all of them effective employee resources? To answer that question, conduct an audit of your existing articles, keeping an eye out for the following:
+Incorrect content: Is there any important information that's outdated or stale? (i.e. an old wifi password)Incomplete content: Is there any critical information missing? What’s common knowledge for IT agents is often critical information for employees who want to self-serve.Difficult to process: Is the article easy for employees to read and understand? Watch out for long paragraphs, overused jargon, or a failure to outline steps.Discoverability issues: Is your article easy to find? When employees raise an issue, were they directed to the article that could've enabled them to self-serve?Article grooming: Is your article still relevant? Many articles will reach their expiration date naturally — it's important to have a process in place to determine which articles to retire or update.
+    Knowledge as a service
+To be the most effective organization in building and maintaining KCS, leaders have to start thinking about knowledge as a service they’re providing to their employees.
+Industry-leading companies often empower centralized knowledge teams to oversee the process of creating and maintaining knowledge. They also:
+Set the standards of success at every level of KCSManage change in the overall strategyDirect teams within other departments on how to build and document knowledge to support employeesHave the formal authority to address knowledge gaps
+Ultimately, employees are looking for a seamless employee experience — they don’t want to wait several hours for simple tasks that block their productivity. Adopting knowledge centered services is a significant first step to addressing these concerns. 
+To go beyond, consider creating a conversational AI strategy. 
+Platform
+Product Overview
+How it Works
+What's New
+Employee Experience Insights
+Multilingual Support
+Intelligence Engine 
+Triage
+Integration Partners
+Performance Dashboards
+Solutions
+IT
+HR
+Facilities
+Finance
+Employee Communications
+Resources
+Resource Center
+Blog
+Help Center
+System Status
+Sitemap
+API Docs
+Company
+About us
+Contact us
+Newsroom
+Careers
+Guides
+Conversational AI strategy
+Writing knowledge base articles
+Speed up your help desk
+Why service desk automation?
+Knowledge centered service
+Hybrid work best practices
+© 2023 Moveworks, Inc.
+Privacy policy
+Security

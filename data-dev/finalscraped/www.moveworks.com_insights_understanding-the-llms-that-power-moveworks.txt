@@ -1,0 +1,1017 @@
+
+
+
+
+
+
+The LLMs Behind Moveworks’ AI-Powered Platform | Moveworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+Forrester names Moveworks a leader in Chatbot for IT operations. Read the report today.
+Moveworks named a Forrester leader in Chatbot for IT operations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+main menu
+
+
+
+
+
+
+
+Search for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Platform
+
+Product Overview
+How it Works
+LLM Stack
+Enterprise Copilot
+Creator Studio
+Employee Experience Insights
+Moveworks API
+Multilingual Support
+Triage
+Integration Partners
+Performance Dashboards
+
+
+
+
+
+Solutions
+
+IT
+IT Service Desk
+IT Service Management
+Self Service
+HR
+HR Service Desk
+Employee Onboarding
+Facilities
+Finance
+Employee Communications
+Cost Reduction
+Identity Access Management
+Knowledge Management
+Multilingual Support
+
+Customer Stories
+Resources
+
+Resource Center
+Blog
+Help Center
+
+Company
+
+About us
+Careers
+Newsroom
+Contact us
+Trust
+
+
+
+
+
+
+
+
+
+
+
+Demo request
+skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See Moveworks in action.
+Schedule a meeting with a Moveworks representative and learn how we can help reduce employee issue resolution from days to seconds.
+
+
+
+
+
+
+        First Name *
+      
+
+
+
+
+
+
+
+        Last Name *
+      
+
+
+
+
+
+
+
+        Email *
+      
+
+
+
+
+
+
+
+        Company *
+      
+
+
+
+
+
+
+
+        Phone
+      
+
+
+
+
+
+
+
+        How did you hear about us? *
+      
+
+
+
+
+
+
+
+
+
+By checking this box, I agree to receive company news and updates. Learn more in the Privacy Policy.
+
+
+
+
+
+
+
+
+Thank you.
+A member of the Moveworks team will be in touch within the next 24 hours.
+
+
+  Close this modal
+  
+
+
+
+
+
+  Go back
+  
+back to form
+
+
+
+
+back to tab selection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Moveworks uses LLMs to create a seamless conversational AI experience
+
+
+
+
+
+
+
+
+
+Andrew Mairena, Group Product Manager
+
+
+
+
+
+
+
+
+
+
+
+ August 31, 2023
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+      
+
+
+
+
+
+
+facebook
+      
+
+
+
+
+
+
+twitter
+      
+
+
+
+
+
+
+email
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employee service has always been stubbornly people-intensive. But this past year, everything changed.
+
+Hundreds of millions of people interacted with AI in a meaningful way for the first time. ChatGPT captured the world's attention, and our industry entered the mainstream almost overnight, proving at once that a virtually seamless conversational support experience is possible with AI. 
+But robust enterprise AI isn't built casually or overnight. It takes years of innovation that Moveworks has invested in perfecting conversational AI specifically for employee support.
+While competitors rush to catch up in the copilot space, Moveworks offers a mature platform backed by years of pioneering work in enterprise conversational AI. This gives us an unmatched advantage in leveraging large language models to provide robust employee assistance.
+To back up and understand why ChatGPT was such a pivotal moment, we need to explore the technology powering it: large language models (LLMs). Today, I'll explain how Moveworks harnesses LLMs to transform our customers’ businesses. I'll break down:
+
+How do large language models help provide conversational support
+What the Moveworks Enterprise Copilot Platform does
+How Moveworks uses large language models
+How Moveworks' custom model — MoveLM™ — is specially trained to provide enterprise support
+What it takes to implement large language models effectively and safely in the enterprise
+
+Whether you're an IT leader, HR professional, CXO, CIO, CEO, or just fascinated by AI, you'll learn how Moveworks leverages these advanced models to transform the world of work.
+ 
+How do large language models help provide conversational support?
+Large language models (LLMs) like OpenAI’s GPT-4, Google PaLM 2, and Meta’s LLaMA are driving the rise of AI copilots. But what exactly are these models, and how are they designed?
+LLMs are a specialized type of deep neural network optimized for understanding and generating natural language. They take in text inputs and are trained to predict upcoming words and sentences, allowing them to produce remarkably human-like writing.
+The "large" refers to the massive scale of these models in terms of parameters. Parameters are the adjustable settings within a neural network that control its learning. More parameters mean greater complexity and nuance in the patterns a model can recognize.
+For example, GPT-3, the predecessor to GPT-4, has a whopping 175 billion parameters! It was trained on hundreds of gigabytes of text data, including books, Wikipedia, websites, and more — over 300 billion words. This huge dataset and model capacity gives GPT-3 its versatility and eloquence.
+But size isn't everything. The architecture of LLMs is also key. They use a mechanism called transformers that allows them to learn contextual relationships between words based on the entire input text. Traditional language models struggled with longer-term dependencies. But transformers can connect information across long strings of text, just like humans can draw relationships between distant passages when reading.
+Thanks to their massive scale and advanced transformer architecture, today's LLMs have unmatched natural language capabilities compared to previous AI systems. They can:
+
+Generate high-quality text spanning different tones, styles, and topics
+Understand contextual nuances and human intent within text
+Answer questions based on passages of information
+Translate between languages
+Summarize long texts into concise overviews
+
+This combination of versatility and strong performance makes large language models a game-changer for conversational AI. Understanding how they work is key to further understanding how Moveworks can create such a human-like experience for employees to solve their everyday issues.
+ 
+What does Moveworks do?
+Moveworks provides a single conversational interface to surface information AND take action across every enterprise system.
+Our journey began with the goal of streamlining IT support using advanced natural language technology. We've painstakingly removed the need for training, scripting, or workflow setup, presenting a solution that takes care of the entire process, allowing your focus to remain on strategic endeavors.
+Fast-forward to today, where the power of conversational AI has grown immensely. Every business leader is now looking to inject conversational AI into their enterprise. 
+Moveworks has become a universal interface between employees and enterprise applications across the IT service desk, HR, Finance, Facilities, and more. In doing so, we enable employees worldwide to query, search, and take action on any system through more than one hundred languages. In many cases, the user may not know exactly what back-end system they need to interface with or that the conversational AI is leveraging another system at all. The experience is seamless and magical. Language has become the only user interface that our customers’ employees will ever need to know.
+While other companies are starting to sprinkle ChatGPT experiences in their apps, Moveworks stands out. We're not just talking about technology; we're talking about enhancing large language models with all the bells and whistles you need for an enterprise-grade experience:
+
+Native integrations into all the major enterprise applications
+The ability to take action and conduct structured data queries into every application
+User-level and org-level grounding to make better decisions and maximize factuality
+Developer tools to create any custom use case in a scalable way
+Enterprise-grade analytics, content generation, and security and privacy
+
+
+Figure 1: Moveworks is the enterprise copilot platform that unifies all enterprise systems.
+ 
+How Moveworks uses large language models
+Moveworks is an AI-powered enterprise copilot. It acts as a digital support agent that employees can chat with in plain language to get help with IT, HR, and other issues. Our platform understands questions and requests using a combination of different large language models:
+
+Foundation models like GPT-4 provide broad natural language understanding and generation capabilities. They enable Moveworks to parse varied employee questions and craft conversational responses.
+Smaller task-specific discriminative models are specialized for particular support functions, from basics like resetting passwords or ordering equipment to more complex functions such as domain classification or transferring certain tickets between HR, Legal, IT, etc. departments. These models ensure precision for common employee service needs.
+Custom model MoveLM is fine-tuned on Moveworks’ own enterprise data to improve performance on industry-, domain-, and company-specific vocabulary and workflows.
+
+To connect these models, Moveworks also employs chaining — sequentially combining outputs from different models into an integrated experience. This AI architectural chaining enables Moveworks to deliver specialized precision within smooth, natural conversational experiences.
+
+Figure 2: Moveworks chains together outputs from different AI models to deliver specialized yet natural conversational experiences.
+Foundation models enable broad language tasks
+Powerful foundation models like GPT-4 and Bard provide general natural language capabilities. They allow Moveworks to excel at a wide range of language understanding and generation tasks:
+
+Analyze the intent behind varied employee questions and requests. Foundation models' ability to model long-range dependencies allows the detection of nuance and context within questions.
+Generate conversational responses tailored to each query. The flexibility of foundation models' enables crafting responses specific to the employee query.
+Complete general language tasks like searching knowledge bases or summarizing support articles. Foundation models are well-suited for language modeling and generation.
+
+These foundation models understand nuance, context, and the latent human intent within employee questions, helping Moveworks handle various support needs expressed in natural language.
+
+Figure 3: Foundation models allow Moveworks to excel at understanding nuance, context, and intent within employee questions and generate tailored, natural responses.
+ 
+Balancing foundation models with task-specific discriminative models to ensure precision
+Moveworks combines the breadth of foundation models with the precision of task-specific models. This hybrid approach harnesses the strengths of both:
+
+Foundation models like GPT-3 provide broad language understanding and fluent conversational abilities. Their large scale and training on massive datasets impart strong general intelligence.
+Task-specific models complement this with specialized knowledge for high-accuracy responses. These include semantic search models like fine-tuned MPNet for improved search relevance or classifiers like fine-tuned FlanT5 to handoff users to the right support department.
+
+These specialized models are highly optimized for precise automation of high-volume employee services. Their tuned knowledge significantly reduces errors and delivers the accuracy users demand.
+The hybrid model architecture stacks transformers and specialized models. This enables Moveworks to balance robust language capabilities with deep expertise for specific tasks. The combination drives accurate, intelligent automation of complex enterprise needs.
+ 
+Moveworks’ specialized MoveLM™ understands enterprise needs 
+Moveworks trained and deployed its large language model, MoveLM, customized on enterprise data. MoveLM is an instruction-based LLM supported by reinforcement learning with human feedback and trained on industry-specific terminology, workflows, and processes from Moveworks' experience working with hundreds of customers across industries and geographies.
+MoveLM provides:
+
+Enterprise vocabulary coverage so employees can use familiar terms
+Optimized handling of domain-specific tasks like contract reviews or deal desk inquiries
+Accuracy improvements from continued learning on new enterprise data
+
+This enterprise tuning enhances Moveworks' ability to understand and resolve employee needs across verticals. The combination of broad transformer models, specialized task models, and custom enterprise MoveLM models allows Moveworks to deliver a robust employee service experience powered by AI, as demonstrated by the Enterprise LLM Benchmark.
+By combining these models, Moveworks can handle the full scope of employee service needs. The right model is applied for each step of the support process. This orchestration of multiple models allows Moveworks to deliver a seamless, conversational employee experience while ensuring accuracy across a wide variety of tasks. The result is fast, frustration-free support.
+
+Figure 4: Unlike general foundation models, Moveworks trained its own large language model called MoveLM on enterprise data, enhancing its ability to understand and resolve employee needs across verticals and provide more accurate support.
+What it takes to implement large language models effectively and safely in the enterprise
+As AI becomes central to employee service, it's crucial to implement large language models thoughtfully. Here are key strategies:
+ 
+Pick the right model mix
+
+Evaluate use cases. Smaller specialized models can provide precision for high-volume everyday tasks, while large transformer models offer broad capabilities for complex queries. Moveworks' MoveLM models add custom tuning on enterprise data.
+Balance tradeoffs. Leverage third-party pre-trained models combined with custom models tailored to your needs. Apply different specialized models at each stage of query resolution for optimal performance.
+Retrain regularly. Continued training keeps accuracy high despite evolving language, so reassess model performance and tune on new data. 
+
+ 
+Mitigate risks
+
+Prioritize data security. Techniques like synthetic data, anonymization, access controls, and compliance frameworks are essential to limit risks.
+Monitor model behavior: Audit models before models for potential bias, safety, and factual accuracy issues before deployment.
+Focus on controllability. Enable human oversight and control over model actions. Build kill switches to disable models if issues emerge.
+
+ 
+Ensure privacy and security
+
+Be responsible with data. Consider data masking, secured infrastructure, role-based access controls, encrypted data transmission, and responsible AI practices.
+Validate security. Validate with internal and third-party security reviews.
+Disclose data usage. Customize disclosures on data use, allowing opt-out and deletion choices.
+Limit data collection. Limit data collection and retention. Continuously tune on new data with privacy protections.
+
+Moveworks offers a blueprint for using large language models in the enterprise.
+Large language models are driving change in service automation by enabling natural language understanding at scale. With the right mix of models tailored to your needs and proper security precautions, these robust AI systems can provide incredible utility for enterprise services.
+Moveworks offers a blueprint for leveraging these models safely and responsibly to create a next-generation employee experience. The future looks bright for AI copilots that can understand context, learn continuously, and help employees get their work done better and faster. 
+
+Contact Moveworks to learn how AI can supercharge your workforce's productivity.
+
+
+
+
+
+
+
+
+
+
+
+machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More blog posts
+
+
+
+
+
+
+
+
+How to unlock continual service improvement with AIOps
+
+
+          Discover how AIOps transforms IT operations from reactive to proactive. Understand the AIOps revolution and shift from firefighters to innovators.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How conversational AI can drive mission success for the public sector
+
+
+          Learn how AI & automation can immediately provide ROI and elevate service experience at scale for federal and state government and the public sector as a whole.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generative AI should be your #1 priority: Key takeaways from the Forrester Technology & Innovation Summit
+
+
+          3 key takeaways from the Forrester Technology & Innovation Summit: 1. Make generative AI your #1 priority. 2. Balance Risk 3. Deploy Copilots. Read the recap.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How conversational AI is transforming healthcare
+
+
+          Conversational AI is improving healthcare delivery by automating tasks, surfacing knowledge, and supporting staff. Learn how leading providers use this technology.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Moveworks uses LLMs to create a seamless conversational AI experience
+
+
+          From spelling correction to intent classification, get to know the large language models that power Moveworks' conversational AI platform.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How AI is changing IT operations analytics
+
+
+          AI is transforming IT operations analytics (ITOA). Here are the key benefits and challenges of implementing AI-driven ITOA, including real-world examples.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Subscribe to our blog
+  
+    Get notified about Moveworks’ latest posts.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Customers
+
+
+Resources
+
+
+Blog
+
+
+Sitemap
+
+
+
+
+Platform
+
+
+Platform overview
+
+
+Moveworks API
+
+
+System status
+
+
+
+
+Company
+
+
+About us
+
+
+Newsroom
+
+
+Contact us
+
+
+Careers
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+image/svg+xml
+
+
+    ©2023 Moveworks, Inc.
+  
+
+Privacy policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close modal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
